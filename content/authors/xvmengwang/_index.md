@@ -11,12 +11,11 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-personal_url: ""
+personal_url: "https://wwxkxmm.github.io/"
 
 interests:
   - Visual Analytics
   - Privacy Preservation
-
 
 user_groups:
   - Ph.D. Students
