@@ -32,13 +32,9 @@ abstract: "While there have been a dozen of authoring systems and programming to
 summary: ""
 
 tags:
-  [
-    "Visualization", "Information Visualization", "Visual Design", "Web-based",
-  ]
+  ["Visualization", "Information Visualization", "Visual Design", "Web-based"]
 categories: []
 featured: false
-
-
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -64,7 +60,7 @@ url_video:
 image:
   caption: "featured"
   focal_point: "Top"
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

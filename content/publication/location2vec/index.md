@@ -37,7 +37,7 @@ tags:
     "word embedding",
     "urban computing",
     "spatio-temporal data",
-    visual exploration",
+    "visual exploration",
   ]
 categories: []
 featured: false

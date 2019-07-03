@@ -2,8 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Utility-aware Visual Approach for Anonymizing Multi-attribute Tabular Data."
-authors:
-  [
+authors: [
     Xumeng Wang,
     Jia-Kai Chou,
     Wei Chen,
@@ -30,7 +29,13 @@ abstract: "Sharing data for public usage requires sanitization to prevent sensit
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Privacy Preservating Visualization", "Utility Aware Anonymization", "Syntactic Anonymity", "Differential Privacy"]
+tags:
+  [
+    "Privacy Preservating Visualization",
+    "Utility Aware Anonymization",
+    "Syntactic Anonymity",
+    "Differential Privacy",
+  ]
 categories: []
 featured: false
 
@@ -60,7 +65,7 @@ url_video:
 image:
   caption: "featured"
   focal_point: "Top"
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

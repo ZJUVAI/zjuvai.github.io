@@ -31,7 +31,8 @@ abstract: "Visual analysis is widely applied to study human mobility due to the 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Periodic Trajectory", "Location Privacy", "Evaluation", "Geo-based Context"]
+tags:
+  ["Periodic Trajectory", "Location Privacy", "Evaluation", "Geo-based Context"]
 categories: []
 featured: false
 
@@ -60,7 +61,7 @@ url_video:
 image:
   caption: "featured"
   focal_point: "Top"
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

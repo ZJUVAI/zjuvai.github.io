@@ -5,12 +5,12 @@ title: "GraphProtector: A Visual Interface for Employing and Assessing Multiple 
 authors:
   [
     Xumeng Wang,
-    Wei Chen, 
-    Jia-Kai Chou, 
-    Chris Bryan, 
-    Huihua Guan, 
-    Wenlong Chen, 
-    Rusheng Pan, 
+    Wei Chen,
+    Jia-Kai Chou,
+    Chris Bryan,
+    Huihua Guan,
+    Wenlong Chen,
+    Rusheng Pan,
     and Kwan-Liu Ma.,
   ]
 date: 2018-08-20T15:46:02+08:00
@@ -31,7 +31,13 @@ abstract: "Analyzing social networks reveals the relationships between individua
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Graph privacy", "K-Anonymity", "Structural Features", "Privacy Preservation"]
+tags:
+  [
+    "Graph privacy",
+    "K-Anonymity",
+    "Structural Features",
+    "Privacy Preservation",
+  ]
 categories: []
 featured: false
 
@@ -61,7 +67,7 @@ url_video:
 image:
   caption: "featured"
   focal_point: "Top"
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
