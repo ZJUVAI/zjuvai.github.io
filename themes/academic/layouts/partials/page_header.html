@@ -5,13 +5,13 @@
 {{/* Set default titles for node pages */}}
 {{ $title := .Title }}
 {{ if and (not $title) .IsNode }}
-  {{ if eq .Type "post" }}
-    {{ $title = i18n "posts" }}
-  {{ else if eq .Type "talk" }}
-    {{ $title = i18n "talks" }}
-  {{ else if eq .Type "publication" }}
-    {{ $title = i18n "publications" }}
-  {{end}}
+{{ if eq .Type "post" }}
+{{ $title = i18n "posts" }}
+{{ else if eq .Type "talk" }}
+{{ $title = i18n "talks" }}
+{{ else if eq .Type "publication" }}
+{{ $title = i18n "publications" }}
+{{end}}
 {{end}}
 
 {{/* Header image */}}
@@ -30,13 +30,13 @@
 
 {{/* Featured image */}}
 {{ if and $featured (not .Params.image.preview_only) }}
-{{ $image := $featured.Resize "800x" }}
+{{ $image := $featured }}
 <div class="article-header d-xl-none">
   <div class="featured-image" style="background-image: url('{{ $image.RelPermalink }}');"></div>
   {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
 </div>
 
-{{ $image := $featured.Fill (printf "680x500 q90 %s" $anchor) }}
+{{ $image := $featured }}
 <div class="container-fluid split-header d-none d-xl-block">
   <div class="row">
     <div class="col-6">
@@ -57,7 +57,8 @@
     <div class="col-6">
       <div class="split-header-image">
         <img src="{{ $image.RelPermalink }}" itemprop="image" alt="">
-        {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+        <!-- {{ with $.Params.image.caption }}<span
+          class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }} -->
       </div>
     </div>
   </div>
@@ -74,13 +75,13 @@
   {{ partial "page_links_div.html" $page }}
 </div>
 {{else}}
-  {{/* Case when page has no image */}}
+{{/* Case when page has no image */}}
 
-  {{/* Wider container for nodes */}}
-  {{ $ctnr := "article-container" }}
-  {{ if $page.IsNode }}
-    {{ $ctnr = "universal-wrapper" }}
-  {{end}}
+{{/* Wider container for nodes */}}
+{{ $ctnr := "article-container" }}
+{{ if $page.IsNode }}
+{{ $ctnr = "universal-wrapper" }}
+{{end}}
 <div class="{{$ctnr}} pt-3">
   <h1 itemprop="name">{{ $title }}</h1>
 
@@ -89,8 +90,8 @@
   {{end}}
 
   {{ if not .IsNode }}
-    {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
-    {{ partial "page_links_div.html" $page }}
+  {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
+  {{ partial "page_links_div.html" $page }}
   {{end}}
 </div>
 {{end}}

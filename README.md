@@ -1,4 +1,4 @@
-# 论文搬运说明
+## 论文搬运说明
 
 每篇论文对应/content/publication/下面的每一个文件夹；
 
@@ -9,10 +9,6 @@
 - featured.png/jpg # 论文的teaser或者其他
 - feature.bib # 论文的bibtex引用
 ```
-
-
-
-
 
 ```
 title: "Structuring Mobility Transition With an Adaptive Graph Representation." # 论文名称
@@ -29,8 +25,6 @@ date: 2018-08-02T15:46:02+08:00 # 论文的发表日期，只要精确到月即�
 doi: "" # 论文的doi
 ```
 
-
-
 ```
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,8 +33,6 @@ doi: "" # 论文的doi
 publication_types: ["2"] # 论文类型，从上面挑选即可
 ```
 
-
-
 ```
 # 下面分别是论文发表的地方以及其缩写
 # Publication name and optional abbreviated publication name.
@@ -48,22 +40,16 @@ publication: "IEEE Transactions on Computational Social Systems"
 publication_short: "IEEE TCSS"
 ```
 
-
-
 ```
 # 论文abstract 不再多说，复制pdf的abstract时，注意换行
 abstract: "Modeling human mobility is a critical task in fields such as urban planning, ecology, and epidemiology. Given the current use of mobile phones, there is an abundance of data that can be used to create models of high reliability. Existing techniques can reveal the macro-patterns of crowd movement or analyze the trajectory of a person; however, they typically focus on geographical characteristics. This paper presents a graph-based approach for structuring crowd mobility transition over multiple granularities in the context of social behavior. The key to our approach is an adaptive data representation, the adaptive mobility transition graph, that is globally generated from citywide human mobility data by defining the temporal trends of human mobility and the interleaved transitions between different mobility patterns. We describe the design, creation and manipulation of the adaptive mobility transition graph and introduce a visual analysis system that supports the multi-faceted exploration of citywide human mobility patterns."
 ```
-
-
 
 ```
 # summary 有的话写上去，不知道写啥就不写了
 # Summary. An optional shortened abstract.
 summary: ""
 ```
-
-
 
 ```
 # tags里面放上论文的key words
@@ -73,8 +59,6 @@ categories: []
 # featured 默认是false
 featured: false
 ```
-
-
 
 ```
 # 下面是论文的资源，填写方式都跟pdf一致，如果链接有多个，就跟 video那种写法即可
@@ -96,8 +80,6 @@ url_video:
   - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/AMTG.mp4
   - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/AMTG.mp4
 ```
-
-
 
 ```
 # 以下这些内容不用改~
@@ -124,3 +106,6 @@ projects: []
 slides: ""
 ```
 
+## 安装说明
+
+1. 安装 Hugo，Windows 上需要安装 choco
