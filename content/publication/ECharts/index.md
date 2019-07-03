@@ -13,7 +13,7 @@ authors:
     Ming Zu,
     Wei Chen,
   ]
-date: 2018-6-01T08:00:00+08:00
+date: 2018-06-01T08:00:00+08:00
 doi: ""
 
 # Publication type.
@@ -35,7 +35,7 @@ tags:
   [
     "Visualization", "Information Visualization", "Visual Design", "Web-based",
   ]
-categories: ["Human-centered computing—Visualization—Visualization techniques", "Human-centered computing—Visualization—Visualization design and evaluation methods"]
+categories: []
 featured: false
 
 
