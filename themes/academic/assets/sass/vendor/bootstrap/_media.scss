@@ -1,0 +1,20 @@
+.media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.media-body {
+  flex: 1;
+}
+
+#talks .media-body {
+  flex: 0.8;
+}
+
+#talks .ml-3 {
+  flex: 0.5;
+}
+
+#talks .media.stream-item .ml-3 img {
+  max-width: none;
+}
