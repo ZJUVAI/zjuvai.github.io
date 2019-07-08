@@ -3,7 +3,7 @@
 
 title: "Exploring the Sensitivity of Choropleths under Attribute Uncertainty."
 authors:
-  [Zhaosong Huang, Yafeng Lu, Elizabeth Mack, Wei Chen, and Ross Maciejewski.]
+  [Zhaosong Huang, Yafeng Lu, Elizabeth Mack, Wei Chen, Ross Maciejewski]
 date: 2019-01-02T15:46:02+08:00
 doi: ""
 

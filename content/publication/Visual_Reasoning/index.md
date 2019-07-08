@@ -12,7 +12,7 @@ authors:
     Tianyu Gu,
     Long Wang,
     Ronghua Liang,
-    Hujun Bao.,
+    Hujun Bao
   ]
 date: 2015-03-16
 doi: "10.1109/VAST.2014.7042486"

@@ -9,7 +9,7 @@ authors:
     Karla Bala,
     Xianjin Yang,
     Yazhen Yuan,
-    Wei Chen.,
+    Wei Chen
   ]
 date: 2014-11-01
 doi: "10.1145/2661229.2661276"

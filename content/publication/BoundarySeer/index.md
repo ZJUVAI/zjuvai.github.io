@@ -9,7 +9,7 @@ authors:
     Huamin Qu,
     Wei Chen,
     Eduard Groeller,
-    Lionei Ni.,
+    Lionei Ni
   ]
 date: 2015-03-16
 doi: "10.1109/VAST.2014.7042490"

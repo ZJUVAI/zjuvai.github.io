@@ -9,7 +9,7 @@ authors:
     Yingcai Wu, 
     Yunhai Wang, 
     Huizhang, 
-    Wei Chen.
+    Wei Chen
   ]
 date: 2015-10-01
 doi: "10.1109/SciVis.2015.7429488"

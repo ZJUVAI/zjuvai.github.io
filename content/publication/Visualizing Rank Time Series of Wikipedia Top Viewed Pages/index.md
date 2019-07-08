@@ -9,7 +9,7 @@ authors:
   	Victor Chen, 
   	Cheryl Qian, 
   	David S. Ebert, 
-  	Wei Chen.
+  	Wei Chen
   ]
 date: 2017-03-15
 doi: "10.1109/MCG.2017.21"

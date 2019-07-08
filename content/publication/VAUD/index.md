@@ -9,7 +9,7 @@ authors:
     Feiran Wu,
     Minfeng Zhu,
     Huihua Guan,
-    and Ross Maciejewski.,
+    Ross Maciejewski
   ]
 date: 2018-11-02T15:46:02+08:00
 doi: ""

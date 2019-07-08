@@ -11,7 +11,7 @@ authors:
     Wenlong Chen,
     Yingcai Wu,
     Jinhui Yu,
-    and Wei Chen.,
+    Wei Chen
   ]
 date: 2018-10-29T15:46:02+08:00
 doi: ""

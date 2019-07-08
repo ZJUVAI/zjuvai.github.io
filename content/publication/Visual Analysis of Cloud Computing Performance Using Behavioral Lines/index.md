@@ -8,7 +8,7 @@ authors:
     Biao Zhu, 
     Wei Chen, 
     Hongxin Zhang, 
-    Kwan-Liu Ma.
+    Kwan-Liu Ma
   ]
 date: 2016-02-01
 doi: "10.1109/TVCG.2016.2534558"

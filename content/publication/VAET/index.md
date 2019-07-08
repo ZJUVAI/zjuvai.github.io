@@ -9,7 +9,7 @@ authors:
     Xinxin Hunag,
     Yueqi Hu,
     Scott Barlowe,
-    Jing Yang.,
+    Jing Yang
   ]
 date: 2014-11-06
 doi: "10.1109/TVCG.2014.2346913"

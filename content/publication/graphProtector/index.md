@@ -11,7 +11,7 @@ authors:
     Huihua Guan,
     Wenlong Chen,
     Rusheng Pan,
-    and Kwan-Liu Ma.,
+    Kwan-Liu Ma
   ]
 date: 2018-08-20T15:46:02+08:00
 doi: ""

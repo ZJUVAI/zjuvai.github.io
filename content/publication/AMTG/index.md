@@ -9,7 +9,7 @@ authors:
     Wei Chen,
     Zhaosong Huang,
     Ross Maciejewski,
-    and Liang Chang.,
+    Liang Chang
   ]
 date: 2018-08-02T15:46:02+08:00
 doi: ""

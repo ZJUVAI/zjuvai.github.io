@@ -11,7 +11,7 @@ authors:
     Songhang Chen, 
     Xiao Wang, 
     Qingpeng Zhang, 
-    Liuqin Yang.
+    Liuqin Yang
   ]
 date: 2015-12-01
 doi: "10.1109/TITS.2015.2480157"

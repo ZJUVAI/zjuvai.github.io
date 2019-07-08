@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data"
-authors: [Wei Chen, Jing Xia, Xumeng Wang, Yi Wang, Jun Chen, Tianlong Gu.]
+authors: [Wei Chen, Jing Xia, Xumeng Wang, Yi Wang, Jun Chen, Tianlong Gu]
 date: 2018-03-01T15:46:02+08:00
 doi: ""
 
