@@ -58,7 +58,7 @@ url_video:
 image:
   caption: "featured"
   focal_point: "Top"
-  preview_only: fase
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
