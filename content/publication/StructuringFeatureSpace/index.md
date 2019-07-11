@@ -2,14 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation."
-authors:
-  [
-    Ross Maciejewski,
-    Insoo Wu,
-    Wei Chen,
-    David S. Ebert,
-  ]
-date: 2009-11
+authors: [Ross Maciejewski, Insoo Wu, Wei Chen, David S. Ebert]
+date: 2009-11-01
 doi: "10.1109/TVCG.2009.185"
 
 # Publication type.
@@ -27,7 +21,13 @@ abstract: "The use of multi-dimensional transfer functions for direct volume ren
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Volume rendering", "kernel density estimation", "transfer function design", "temporal volume rendering"]
+tags:
+  [
+    "Volume rendering",
+    "kernel density estimation",
+    "transfer function design",
+    "temporal volume rendering",
+  ]
 categories: []
 featured: false
 

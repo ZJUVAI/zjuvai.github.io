@@ -2,16 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adaptively Exploring Population Mobility Patterns in Flow Visualization"
-authors:
-  [
-    Fei Wang,
-    Wei Chen,
-    Ye Zhao,
-    Tianyu Gu,
-    Siyuan Gao,
-    Hujun Bao,
-  ]
-date: 2017-08
+authors: [Fei Wang, Wei Chen, Ye Zhao, Tianyu Gu, Siyuan Gao, Hujun Bao]
+date: 2017-08-01
 doi: "10.1109/TITS.2017.2711644"
 
 # Publication type.
@@ -29,7 +21,13 @@ abstract: "Thanks to the ubiquitous cell phone use, we have never been so close 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Population Mobility Pattern", "Visual Query", "Flow Visualization", "Cell Phone Data"]
+tags:
+  [
+    "Population Mobility Pattern",
+    "Visual Query",
+    "Flow Visualization",
+    "Cell Phone Data",
+  ]
 categories: []
 featured: false
 

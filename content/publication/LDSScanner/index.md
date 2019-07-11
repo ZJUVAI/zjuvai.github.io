@@ -12,7 +12,7 @@ authors:
     Yuxin Ma,
     Anthony K.H. Tung,
   ]
-date: 2018-01
+date: 2018-01-01
 doi: "10.1109/TVCG.2017.2744098"
 
 # Publication type.

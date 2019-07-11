@@ -2,14 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cluster-based Visual Abstraction for Multivariate Scatterplots"
-authors:
-  [
-    Hongsen Liao,
-    Yingcai Wu,
-    Li Chen,
-    Wei Chen,
-  ]
-date: 2018-09
+authors: [Hongsen Liao, Yingcai Wu, Li Chen, Wei Chen]
+date: 2018-09-01
 doi: "10.1109/TVCG.2017.2754480"
 
 # Publication type.
@@ -27,7 +21,13 @@ abstract: "The use of scatterplots is an important method for multivariate data 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Data abstraction", "scatterplot", "glyph visualization", "multilabel optimization"]
+tags:
+  [
+    "Data abstraction",
+    "scatterplot",
+    "glyph visualization",
+    "multilabel optimization",
+  ]
 categories: []
 featured: false
 

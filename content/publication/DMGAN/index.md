@@ -2,13 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis."
-authors:
-  [
-    Minfeng Zhu,
-    Pingbo Pan,
-    Wei Chen,
-    and Yi Yang
-  ]
+authors: [Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang]
 date: 2019-04-02T15:46:02+08:00
 doi: ""
 
@@ -27,11 +21,7 @@ abstract: "In this paper, we focus on generating realistic images from text desc
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-  [
-    "Generative Adversarial Networks",
-    "Text-to-Image Synthesis",
-  ]
+tags: ["Generative Adversarial Networks", "Text-to-Image Synthesis"]
 categories: []
 featured: false
 

@@ -3,14 +3,8 @@
 
 title: "Visual Analytics of Mobility and Transportation: State of the Art and Further Research Directions."
 authors:
-  [
-    Gennady Andrienko,
-    Natalia Andrienko,
-    Wei Chen,
-    Ross Maciejewski,
-    Ye Zhao,
-  ]
-date: 2017-08
+  [Gennady Andrienko, Natalia Andrienko, Wei Chen, Ross Maciejewski, Ye Zhao]
+date: 2017-08-01
 doi: "10.1109/TITS.2017.2683539"
 
 # Publication type.
