@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>multilabel optimization on ZJU VAG</title>
-    <link>zjuvag.org/tags/multilabel-optimization/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/multilabel-optimization/</link>
     <description>Recent content in multilabel optimization on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/multilabel-optimization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/multilabel-optimization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cluster-based Visual Abstraction for Multivariate Scatterplots</title>
-      <link>zjuvag.org/publication/cluster-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/cluster-based/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/cluster-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/cluster-based/</guid>
       <description></description>
     </item>
     

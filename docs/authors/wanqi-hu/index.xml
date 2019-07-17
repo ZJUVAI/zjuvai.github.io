@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wanqi Hu on ZJU VAG</title>
-    <link>zjuvag.org/authors/wanqi-hu/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/wanqi-hu/</link>
     <description>Recent content in Wanqi Hu on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/wanqi-hu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/wanqi-hu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection.</title>
-      <link>zjuvag.org/publication/dimscanner/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/dimscanner/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/dimscanner/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/dimscanner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
-      <link>zjuvag.org/publication/gameflow/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/gameflow/</link>
       <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/gameflow/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/gameflow/</guid>
       <description></description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianlong Gu on ZJU VAG</title>
-    <link>zjuvag.org/authors/tianlong-gu/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/tianlong-gu/</link>
     <description>Recent content in Tianlong Gu on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Oct 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/tianlong-gu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/tianlong-gu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories.</title>
-      <link>zjuvag.org/publication/user-study/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/user-study/</link>
       <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/user-study/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/user-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
-      <link>zjuvag.org/publication/amtg/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/amtg/</link>
       <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/amtg/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/amtg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
-      <link>zjuvag.org/publication/tcptree/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/tcptree/</link>
       <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/tcptree/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/tcptree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
-      <link>zjuvag.org/publication/relationlines/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/relationlines/</link>
       <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/relationlines/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/relationlines/</guid>
       <description></description>
     </item>
     

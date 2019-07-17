@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yingcai Wu on ZJU VAG</title>
-    <link>zjuvag.org/authors/yingcai-wu/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/yingcai-wu/</link>
     <description>Recent content in Yingcai Wu on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Oct 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/yingcai-wu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/yingcai-wu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories.</title>
-      <link>zjuvag.org/publication/user-study/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/user-study/</link>
       <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/user-study/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/user-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cluster-based Visual Abstraction for Multivariate Scatterplots</title>
-      <link>zjuvag.org/publication/cluster-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/cluster-based/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/cluster-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/cluster-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer.</title>
-      <link>zjuvag.org/publication/forvizor/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/forvizor/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/forvizor/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/forvizor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
-      <link>zjuvag.org/publication/perception-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/perception-based/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/perception-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/perception-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
-      <link>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     

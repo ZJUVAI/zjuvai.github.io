@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FeiranWu on ZJU VAG</title>
-    <link>zjuvag.org/authors/feiranwu/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/feiranwu/</link>
     <description>Recent content in FeiranWu on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Apr 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/feiranwu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/feiranwu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
-      <link>zjuvag.org/publication/tcptree/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/tcptree/</link>
       <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/tcptree/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/tcptree/</guid>
       <description></description>
     </item>
     

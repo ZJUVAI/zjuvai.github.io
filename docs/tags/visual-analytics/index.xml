@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>visual analytics on ZJU VAG</title>
-    <link>zjuvag.org/tags/visual-analytics/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/visual-analytics/</link>
     <description>Recent content in visual analytics on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints.</title>
-      <link>zjuvag.org/publication/accessibility_modeling/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/accessibility_modeling/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/accessibility_modeling/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/accessibility_modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantics-Space-Time Cube: A Conceptual Framework for Systematic Analysis of Texts in Space and Time.</title>
-      <link>zjuvag.org/publication/semantics_cube/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/semantics_cube/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/semantics_cube/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/semantics_cube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories</title>
-      <link>zjuvag.org/publication/vidx/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/vidx/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/vidx/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/vidx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Analysis of Cloud Computing Performance Using Behavioral Lines.</title>
-      <link>zjuvag.org/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
-      <link>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VAET: A Visual Analytics Approach for E-transactions Time-series.</title>
-      <link>zjuvag.org/publication/vaet/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/vaet/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/vaet/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/vaet/</guid>
       <description></description>
     </item>
     

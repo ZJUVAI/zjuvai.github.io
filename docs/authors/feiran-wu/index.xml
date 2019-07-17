@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feiran Wu on ZJU VAG</title>
-    <link>zjuvag.org/authors/feiran-wu/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/feiran-wu/</link>
     <description>Recent content in Feiran Wu on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Nov 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/feiran-wu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/feiran-wu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VAUD: A visual analysis approach for exploring spatio-temporal urban data.</title>
-      <link>zjuvag.org/publication/vaud/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/vaud/</link>
       <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/vaud/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/vaud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
-      <link>zjuvag.org/publication/visual_reasoning/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/visual_reasoning/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/visual_reasoning/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/visual_reasoning/</guid>
       <description></description>
     </item>
     

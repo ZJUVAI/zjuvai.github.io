@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Chen on ZJU VAG</title>
-    <link>zjuvag.org/authors/li-chen/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/li-chen/</link>
     <description>Recent content in Li Chen on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/li-chen/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/li-chen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cluster-based Visual Abstraction for Multivariate Scatterplots</title>
-      <link>zjuvag.org/publication/cluster-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/cluster-based/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/cluster-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/cluster-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
-      <link>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     

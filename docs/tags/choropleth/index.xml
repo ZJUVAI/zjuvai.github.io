@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>choropleth on ZJU VAG</title>
-    <link>zjuvag.org/tags/choropleth/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/choropleth/</link>
     <description>Recent content in choropleth on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jan 2019 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/choropleth/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/choropleth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
-      <link>zjuvag.org/publication/geouncertainty/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/geouncertainty/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/geouncertainty/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/geouncertainty/</guid>
       <description></description>
     </item>
     

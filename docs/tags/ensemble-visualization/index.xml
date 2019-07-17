@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ensemble visualization on ZJU VAG</title>
-    <link>zjuvag.org/tags/ensemble-visualization/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/ensemble-visualization/</link>
     <description>Recent content in Ensemble visualization on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/ensemble-visualization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/ensemble-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration</title>
-      <link>zjuvag.org/publication/uncertainty/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/uncertainty/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/uncertainty/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/uncertainty/</guid>
       <description></description>
     </item>
     

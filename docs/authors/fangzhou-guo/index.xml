@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fangzhou Guo on ZJU VAG</title>
-    <link>zjuvag.org/authors/fangzhou-guo/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/fangzhou-guo/</link>
     <description>Recent content in Fangzhou Guo on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/fangzhou-guo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/fangzhou-guo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
-      <link>zjuvag.org/publication/structure-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/structure-based/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/structure-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/structure-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
-      <link>zjuvag.org/publication/tcptree/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/tcptree/</link>
       <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/tcptree/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/tcptree/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encoding on ZJU VAG</title>
-    <link>zjuvag.org/tags/encoding/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/encoding/</link>
     <description>Recent content in Encoding on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/encoding/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/encoding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>zjuvag.org/publication/fuzzyclustering/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/fuzzyclustering/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/fuzzyclustering/</guid>
       <description></description>
     </item>
     

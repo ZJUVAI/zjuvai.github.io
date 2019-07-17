@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weather forecast on ZJU VAG</title>
-    <link>zjuvag.org/tags/weather-forecast/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/weather-forecast/</link>
     <description>Recent content in Weather forecast on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/weather-forecast/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/weather-forecast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
-      <link>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     

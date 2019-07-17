@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spatio-temporal data on ZJU VAG</title>
-    <link>zjuvag.org/tags/spatio-temporal-data/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/spatio-temporal-data/</link>
     <description>Recent content in spatio-temporal data on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 17:20:04 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/spatio-temporal-data/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/spatio-temporal-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>zjuvag.org/publication/location2vec/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/location2vec/</link>
       <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/location2vec/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/location2vec/</guid>
       <description></description>
     </item>
     

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yunhai Wang on ZJU VAG</title>
-    <link>zjuvag.org/authors/yunhai-wang/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/yunhai-wang/</link>
     <description>Recent content in Yunhai Wang on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/yunhai-wang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/yunhai-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>zjuvag.org/publication/fuzzyclustering/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/fuzzyclustering/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/fuzzyclustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
-      <link>zjuvag.org/publication/gaussianmixture/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/gaussianmixture/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/gaussianmixture/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/gaussianmixture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
-      <link>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     

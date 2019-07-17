@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedding on ZJU VAG</title>
-    <link>zjuvag.org/tags/embedding/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/embedding/</link>
     <description>Recent content in Embedding on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/embedding/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/embedding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
-      <link>zjuvag.org/publication/structure-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/structure-based/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/structure-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/structure-based/</guid>
       <description></description>
     </item>
     

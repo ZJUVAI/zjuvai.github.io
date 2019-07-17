@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiazhi Xia on ZJU VAG</title>
-    <link>zjuvag.org/authors/jiazhi-xia/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/jiazhi-xia/</link>
     <description>Recent content in Jiazhi Xia on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 17:20:04 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/authors/jiazhi-xia/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/jiazhi-xia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>zjuvag.org/publication/location2vec/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/location2vec/</link>
       <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/location2vec/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/location2vec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>zjuvag.org/publication/fuzzyclustering/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/fuzzyclustering/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/fuzzyclustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
-      <link>zjuvag.org/publication/structure-based/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/structure-based/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/structure-based/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/structure-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LDSScanner: Exploratory Analysis of Low-Dimensional Structures in High-Dimensional Datasets</title>
-      <link>zjuvag.org/publication/ldsscanner/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/ldsscanner/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/ldsscanner/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/ldsscanner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Shape Illustration Using Laplacian Lines</title>
-      <link>zjuvag.org/publication/real-timeshape/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/real-timeshape/</link>
       <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>zjuvag.org/publication/real-timeshape/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/real-timeshape/</guid>
       <description></description>
     </item>
     

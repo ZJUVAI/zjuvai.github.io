@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timeline on ZJU VAG</title>
-    <link>zjuvag.org/tags/timeline/</link>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/timeline/</link>
     <description>Recent content in Timeline on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Aug 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="zjuvag.org/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
-      <link>zjuvag.org/publication/amtg/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/amtg/</link>
       <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/amtg/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/amtg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
-      <link>zjuvag.org/publication/relationlines/</link>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/relationlines/</link>
       <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
       
-      <guid>zjuvag.org/publication/relationlines/</guid>
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/relationlines/</guid>
       <description></description>
     </item>
     
