@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Sheets on ZJU VAG</title>
+    <link>zjuvag.org/authors/david-sheets/</link>
+    <description>Recent content in David Sheets on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/authors/david-sheets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints.</title>
+      <link>zjuvag.org/publication/accessibility_modeling/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/accessibility_modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

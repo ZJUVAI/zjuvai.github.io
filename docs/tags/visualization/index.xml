@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on ZJU VAG</title>
+    <link>zjuvag.org/tags/visualization/</link>
+    <description>Recent content in Visualization on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
+      <link>zjuvag.org/publication/geouncertainty/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/geouncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots.</title>
+      <link>zjuvag.org/publication/scatternet/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/scatternet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
+      <link>zjuvag.org/publication/fuzzyclustering/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/fuzzyclustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization.</title>
+      <link>zjuvag.org/publication/echarts/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/echarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing Rank Time Series of Wikipedia Top Viewed Pages.</title>
+      <link>zjuvag.org/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>zjuvag.org/publication/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
+      <link>zjuvag.org/publication/boundaryseer/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/boundaryseer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

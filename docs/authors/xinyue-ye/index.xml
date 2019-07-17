@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyue Ye on ZJU VAG</title>
+    <link>zjuvag.org/authors/xinyue-ye/</link>
+    <description>Recent content in Xinyue Ye on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/authors/xinyue-ye/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints.</title>
+      <link>zjuvag.org/publication/accessibility_modeling/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/accessibility_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories</title>
+      <link>zjuvag.org/publication/semantictraj/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/semantictraj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

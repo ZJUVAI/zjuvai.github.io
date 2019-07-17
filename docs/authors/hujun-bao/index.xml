@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hujun Bao on ZJU VAG</title>
+    <link>zjuvag.org/authors/hujun-bao/</link>
+    <description>Recent content in Hujun Bao on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/authors/hujun-bao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
+      <link>zjuvag.org/publication/dichromats/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/dichromats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
+      <link>zjuvag.org/publication/lic/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/lic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively Exploring Population Mobility Patterns in Flow Visualization</title>
+      <link>zjuvag.org/publication/populationmobilitypatterns/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/populationmobilitypatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>zjuvag.org/publication/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Shader Simplification using Surface Signal Approximation.</title>
+      <link>zjuvag.org/publication/automatic_shader/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/automatic_shader/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

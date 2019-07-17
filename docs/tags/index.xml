@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ZJU VAG</title>
+    <link>zjuvag.org/tags/</link>
+    <description>Recent content in Tags on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generative Adversarial Networks</title>
+      <link>zjuvag.org/tags/generative-adversarial-networks/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/generative-adversarial-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Image Synthesis</title>
+      <link>zjuvag.org/tags/text-to-image-synthesis/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/text-to-image-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human mobility</title>
+      <link>zjuvag.org/tags/human-mobility/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/human-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatio-temporal data</title>
+      <link>zjuvag.org/tags/spatio-temporal-data/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/spatio-temporal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urban computing</title>
+      <link>zjuvag.org/tags/urban-computing/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/urban-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual exploration</title>
+      <link>zjuvag.org/tags/visual-exploration/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word embedding</title>
+      <link>zjuvag.org/tags/word-embedding/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/word-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban accessibility</title>
+      <link>zjuvag.org/tags/urban-accessibility/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/urban-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geo-visualization</title>
+      <link>zjuvag.org/tags/geo-visualization/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/geo-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urban trajectories</title>
+      <link>zjuvag.org/tags/urban-trajectories/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/urban-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual analytics</title>
+      <link>zjuvag.org/tags/visual-analytics/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>zjuvag.org/tags/visualization/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>choropleth</title>
+      <link>zjuvag.org/tags/choropleth/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/choropleth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geospatial analysis</title>
+      <link>zjuvag.org/tags/geospatial-analysis/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/geospatial-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncertainty</title>
+      <link>zjuvag.org/tags/uncertainty/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data cube</title>
+      <link>zjuvag.org/tags/data-cube/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/data-cube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive exploration</title>
+      <link>zjuvag.org/tags/interactive-exploration/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/interactive-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantic visualization</title>
+      <link>zjuvag.org/tags/semantic-visualization/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/semantic-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatiotemporal visualization</title>
+      <link>zjuvag.org/tags/spatiotemporal-visualization/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/spatiotemporal-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous</title>
+      <link>zjuvag.org/tags/heterogeneous/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/heterogeneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal</title>
+      <link>zjuvag.org/tags/spatio-temporal/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/spatio-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban data</title>
+      <link>zjuvag.org/tags/urban-data/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/urban-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analysis</title>
+      <link>zjuvag.org/tags/visual-analysis/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Reasoning</title>
+      <link>zjuvag.org/tags/visual-reasoning/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>zjuvag.org/tags/evaluation/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geo-based Context</title>
+      <link>zjuvag.org/tags/geo-based-context/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/geo-based-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location Privacy</title>
+      <link>zjuvag.org/tags/location-privacy/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/location-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periodic Trajectory</title>
+      <link>zjuvag.org/tags/periodic-trajectory/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/periodic-trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIS2018</title>
+      <link>zjuvag.org/tags/vis2018/</link>
+      <pubDate>Thu, 25 Oct 2018 09:36:20 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/vis2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>zjuvag.org/tags/deep-learning/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scatterplot</title>
+      <link>zjuvag.org/tags/scatterplot/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/scatterplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>similarity measuring</title>
+      <link>zjuvag.org/tags/similarity-measuring/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/similarity-measuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data abstraction</title>
+      <link>zjuvag.org/tags/data-abstraction/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/data-abstraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glyph visualization</title>
+      <link>zjuvag.org/tags/glyph-visualization/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/glyph-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilabel optimization</title>
+      <link>zjuvag.org/tags/multilabel-optimization/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/multilabel-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering algorithms</title>
+      <link>zjuvag.org/tags/clustering-algorithms/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/clustering-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clutter</title>
+      <link>zjuvag.org/tags/clutter/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/clutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation</title>
+      <link>zjuvag.org/tags/correlation/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data visualization</title>
+      <link>zjuvag.org/tags/data-visualization/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoding</title>
+      <link>zjuvag.org/tags/encoding/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph privacy</title>
+      <link>zjuvag.org/tags/graph-privacy/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/graph-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-Anonymity</title>
+      <link>zjuvag.org/tags/k-anonymity/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/k-anonymity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile handsets</title>
+      <link>zjuvag.org/tags/mobile-handsets/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/mobile-handsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal component analysis</title>
+      <link>zjuvag.org/tags/principal-component-analysis/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/principal-component-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preservation</title>
+      <link>zjuvag.org/tags/privacy-preservation/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/privacy-preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics</title>
+      <link>zjuvag.org/tags/semantics/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Features</title>
+      <link>zjuvag.org/tags/structural-features/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/structural-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task analysis</title>
+      <link>zjuvag.org/tags/task-analysis/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/task-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedding</title>
+      <link>zjuvag.org/tags/embedding/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration</title>
+      <link>zjuvag.org/tags/exploration/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>zjuvag.org/tags/graph/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation</title>
+      <link>zjuvag.org/tags/navigation/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>zjuvag.org/tags/network/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>zjuvag.org/tags/search/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soccer data</title>
+      <link>zjuvag.org/tags/soccer-data/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/soccer-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure</title>
+      <link>zjuvag.org/tags/structure/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formation analysis</title>
+      <link>zjuvag.org/tags/formation-analysis/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/formation-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatio-temporal visualization</title>
+      <link>zjuvag.org/tags/spatio-temporal-visualization/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/spatio-temporal-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility</title>
+      <link>zjuvag.org/tags/mobility/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility Patterns</title>
+      <link>zjuvag.org/tags/mobility-patterns/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/mobility-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility Transition</title>
+      <link>zjuvag.org/tags/mobility-transition/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/mobility-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timeline</title>
+      <link>zjuvag.org/tags/timeline/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dichromacy</title>
+      <link>zjuvag.org/tags/dichromacy/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/dichromacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow visualization</title>
+      <link>zjuvag.org/tags/flow-visualization/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/flow-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian mixture model</title>
+      <link>zjuvag.org/tags/gaussian-mixture-model/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/gaussian-mixture-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBFV</title>
+      <link>zjuvag.org/tags/ibfv/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/ibfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Visualization</title>
+      <link>zjuvag.org/tags/information-visualization/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/information-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction Techniques</title>
+      <link>zjuvag.org/tags/interaction-techniques/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/interaction-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIC</title>
+      <link>zjuvag.org/tags/lic/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/lic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking change</title>
+      <link>zjuvag.org/tags/ranking-change/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/ranking-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themeriver</title>
+      <link>zjuvag.org/tags/themeriver/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/themeriver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-series Data</title>
+      <link>zjuvag.org/tags/time-series-data/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/time-series-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Design</title>
+      <link>zjuvag.org/tags/visual-design/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-based</title>
+      <link>zjuvag.org/tags/web-based/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/web-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>direct volume rendering</title>
+      <link>zjuvag.org/tags/direct-volume-rendering/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/direct-volume-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image enhancement</title>
+      <link>zjuvag.org/tags/image-enhancement/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/image-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image recoloring</title>
+      <link>zjuvag.org/tags/image-recoloring/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/image-recoloring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>layer perception</title>
+      <link>zjuvag.org/tags/layer-perception/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/layer-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mipmap</title>
+      <link>zjuvag.org/tags/mipmap/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/mipmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surface flows</title>
+      <link>zjuvag.org/tags/surface-flows/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/surface-flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal coherence</title>
+      <link>zjuvag.org/tags/temporal-coherence/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/temporal-coherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time-varying data</title>
+      <link>zjuvag.org/tags/time-varying-data/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/time-varying-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsteady flows</title>
+      <link>zjuvag.org/tags/unsteady-flows/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/unsteady-flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volume classification</title>
+      <link>zjuvag.org/tags/volume-classification/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/volume-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volume rendering</title>
+      <link>zjuvag.org/tags/volume-rendering/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/volume-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Theory</title>
+      <link>zjuvag.org/tags/information-theory/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/information-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate time-series</title>
+      <link>zjuvag.org/tags/multivariate-time-series/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/multivariate-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor</title>
+      <link>zjuvag.org/tags/sensor/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Entropy</title>
+      <link>zjuvag.org/tags/transfer-entropy/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/transfer-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Relations</title>
+      <link>zjuvag.org/tags/egocentric-relations/</link>
+      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/egocentric-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Urban Data</title>
+      <link>zjuvag.org/tags/heterogeneous-urban-data/</link>
+      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/heterogeneous-urban-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-based</title>
+      <link>zjuvag.org/tags/location-based/</link>
+      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/location-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-dimensional data</title>
+      <link>zjuvag.org/tags/high-dimensional-data/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/high-dimensional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-dimensional structure</title>
+      <link>zjuvag.org/tags/low-dimensional-structure/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/low-dimensional-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manifold</title>
+      <link>zjuvag.org/tags/manifold/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subspace</title>
+      <link>zjuvag.org/tags/subspace/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/subspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Privacy</title>
+      <link>zjuvag.org/tags/differential-privacy/</link>
+      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/differential-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preservating Visualization</title>
+      <link>zjuvag.org/tags/privacy-preservating-visualization/</link>
+      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/privacy-preservating-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic Anonymity</title>
+      <link>zjuvag.org/tags/syntactic-anonymity/</link>
+      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/syntactic-anonymity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility Aware Anonymization</title>
+      <link>zjuvag.org/tags/utility-aware-anonymization/</link>
+      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/utility-aware-anonymization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Phone Data</title>
+      <link>zjuvag.org/tags/cell-phone-data/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/cell-phone-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Mobility Pattern</title>
+      <link>zjuvag.org/tags/population-mobility-pattern/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/population-mobility-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Query</title>
+      <link>zjuvag.org/tags/visual-query/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphical user interfaces</title>
+      <link>zjuvag.org/tags/graphical-user-interfaces/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/graphical-user-interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive systems</title>
+      <link>zjuvag.org/tags/interactive-systems/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/interactive-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer graphics</title>
+      <link>zjuvag.org/tags/computer-graphics/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/computer-graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>page link</title>
+      <link>zjuvag.org/tags/page-link/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/page-link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>page view</title>
+      <link>zjuvag.org/tags/page-view/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/page-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rank time series</title>
+      <link>zjuvag.org/tags/rank-time-series/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/rank-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connected Industry</title>
+      <link>zjuvag.org/tags/connected-industry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/connected-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry 4.0</title>
+      <link>zjuvag.org/tags/industry-4.0/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/industry-4.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>zjuvag.org/tags/manufacturing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marey’s Graph</title>
+      <link>zjuvag.org/tags/mareys-graph/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/mareys-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Factory</title>
+      <link>zjuvag.org/tags/smart-factory/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/smart-factory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Data</title>
+      <link>zjuvag.org/tags/temporal-data/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/temporal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>zjuvag.org/tags/game/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory</title>
+      <link>zjuvag.org/tags/trajectory/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>zjuvag.org/tags/video/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question</title>
+      <link>zjuvag.org/tags/question/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic</title>
+      <link>zjuvag.org/tags/semantic/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxi</title>
+      <link>zjuvag.org/tags/taxi/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/taxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation</title>
+      <link>zjuvag.org/tags/transportation/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban</title>
+      <link>zjuvag.org/tags/urban/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing</title>
+      <link>zjuvag.org/tags/cloud-computing/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multidimensional data</title>
+      <link>zjuvag.org/tags/multidimensional-data/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/multidimensional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance visualization</title>
+      <link>zjuvag.org/tags/performance-visualization/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/performance-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big data</title>
+      <link>zjuvag.org/tags/big-data/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crowdsourcing</title>
+      <link>zjuvag.org/tags/crowdsourcing/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data analytics</title>
+      <link>zjuvag.org/tags/data-analytics/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intelligent transportation system</title>
+      <link>zjuvag.org/tags/intelligent-transportation-system/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/intelligent-transportation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social transportation</title>
+      <link>zjuvag.org/tags/social-transportation/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/social-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weather forecast</title>
+      <link>zjuvag.org/tags/weather-forecast/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/weather-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analog method</title>
+      <link>zjuvag.org/tags/analog-method/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/analog-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calibration</title>
+      <link>zjuvag.org/tags/calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>majority voting</title>
+      <link>zjuvag.org/tags/majority-voting/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/majority-voting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble visualization</title>
+      <link>zjuvag.org/tags/ensemble-visualization/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/ensemble-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multidimensional data visualization</title>
+      <link>zjuvag.org/tags/multidimensional-data-visualization/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/multidimensional-data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncertainty quantification</title>
+      <link>zjuvag.org/tags/uncertainty-quantification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/uncertainty-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncertainty visualization</title>
+      <link>zjuvag.org/tags/uncertainty-visualization/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/uncertainty-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Positioning System</title>
+      <link>zjuvag.org/tags/global-positioning-system/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/global-positioning-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heating</title>
+      <link>zjuvag.org/tags/heating/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/heating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indexes</title>
+      <link>zjuvag.org/tags/indexes/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/indexes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market research</title>
+      <link>zjuvag.org/tags/market-research/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/market-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power system stability</title>
+      <link>zjuvag.org/tags/power-system-stability/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/power-system-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roads</title>
+      <link>zjuvag.org/tags/roads/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/roads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability analysis</title>
+      <link>zjuvag.org/tags/stability-analysis/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/stability-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology</title>
+      <link>zjuvag.org/tags/topology/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/topology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>overdraw reduction</title>
+      <link>zjuvag.org/tags/overdraw-reduction/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/overdraw-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sampling</title>
+      <link>zjuvag.org/tags/sampling/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual abstraction</title>
+      <link>zjuvag.org/tags/visual-abstraction/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/visual-abstraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision trees</title>
+      <link>zjuvag.org/tags/decision-trees/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature extraction</title>
+      <link>zjuvag.org/tags/feature-extraction/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic logic</title>
+      <link>zjuvag.org/tags/probabilistic-logic/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/probabilistic-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series analysis</title>
+      <link>zjuvag.org/tags/time-series-analysis/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/time-series-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TGPU shader</title>
+      <link>zjuvag.org/tags/tgpu-shader/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/tgpu-shader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real-time rendering</title>
+      <link>zjuvag.org/tags/real-time-rendering/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/real-time-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shader simplification</title>
+      <link>zjuvag.org/tags/shader-simplification/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/shader-simplification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surface signal approximation</title>
+      <link>zjuvag.org/tags/surface-signal-approximation/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/surface-signal-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian</title>
+      <link>zjuvag.org/tags/laplacian/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/laplacian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel density estimation</title>
+      <link>zjuvag.org/tags/kernel-density-estimation/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/kernel-density-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal volume rendering</title>
+      <link>zjuvag.org/tags/temporal-volume-rendering/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/temporal-volume-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer function design</title>
+      <link>zjuvag.org/tags/transfer-function-design/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/transfer-function-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Tensor Imaging</title>
+      <link>zjuvag.org/tags/diffusion-tensor-imaging/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/diffusion-tensor-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiber Clustering</title>
+      <link>zjuvag.org/tags/fiber-clustering/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/fiber-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fibers</title>
+      <link>zjuvag.org/tags/fibers/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/fibers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization Interface</title>
+      <link>zjuvag.org/tags/visualization-interface/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/visualization-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Tensor Image</title>
+      <link>zjuvag.org/tags/diffusion-tensor-image/</link>
+      <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/diffusion-tensor-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illustrative Visualization</title>
+      <link>zjuvag.org/tags/illustrative-visualization/</link>
+      <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/illustrative-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muscle</title>
+      <link>zjuvag.org/tags/muscle/</link>
+      <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/muscle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid Texture Synthesis</title>
+      <link>zjuvag.org/tags/solid-texture-synthesis/</link>
+      <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
+      
+      <guid>zjuvag.org/tags/solid-texture-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EWA filter</title>
+      <link>zjuvag.org/tags/ewa-filter/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/ewa-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware acceleration</title>
+      <link>zjuvag.org/tags/hardware-acceleration/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volume splatting</title>
+      <link>zjuvag.org/tags/volume-splatting/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/tags/volume-splatting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

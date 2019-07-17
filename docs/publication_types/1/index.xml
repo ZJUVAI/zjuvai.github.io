@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on ZJU VAG</title>
+    <link>zjuvag.org/publication_types/1/</link>
+    <description>Recent content in 1 on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
+      <link>zjuvag.org/publication/dmgan/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/dmgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
+      <link>zjuvag.org/publication/structure-based/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/structure-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection.</title>
+      <link>zjuvag.org/publication/dimscanner/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/dimscanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
+      <link>zjuvag.org/publication/gameflow/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/gameflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories</title>
+      <link>zjuvag.org/publication/semantictraj/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/semantictraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
+      <link>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>zjuvag.org/publication/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
+      <link>zjuvag.org/publication/boundaryseer/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/boundaryseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Shape Illustration Using Laplacian Lines</title>
+      <link>zjuvag.org/publication/real-timeshape/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/real-timeshape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Accelerated Adaptive EWA Volume Splatting</title>
+      <link>zjuvag.org/publication/hardware/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>zjuvag.org/publication/hardware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Shi on ZJU VAG</title>
+    <link>zjuvag.org/authors/lei-shi/</link>
+    <description>Recent content in Lei Shi on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Apr 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="zjuvag.org/authors/lei-shi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
+      <link>zjuvag.org/publication/tcptree/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>zjuvag.org/publication/tcptree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

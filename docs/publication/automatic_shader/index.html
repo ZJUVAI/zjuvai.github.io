@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  <meta name="author" content="ZJU VAG">
+
+  
+  
+  
+  
+  
+  <meta name="description" content="In this paper, we present a new automatic shader simplification method using surface signal approximation. We regard the entire multi-stage rendering pipeline as a process that generates signals on surfaces, and we formulate the simplification of the fragment shader as a global simplification problem across multi-shader stages. Three new shader simplification rules are proposed to solve the problem. First, the code transformation rule transforms fragment shader code to other shader stages in order to redistribute computations on pixels up to the level of geometry primitives. Second, the surface-wise approximation rule uses high-order polynomial basis functions on surfaces to approximate pixel-wise computations in the fragment shader. These approximations are pre-cached and simplify computations at runtime. Third, the surface subdivision rule tessellates surfaces into smaller patches. It combines with the previous two rules to approximate pixel-wise signals at different levels of tessellations with different computation times and visual errors. To evaluate simplified shaders using these simplification rules, we introduce a new cost model that includes the visual quality, rendering time and memory consumption. With these simplification rules and the cost model, we present an integrated shader simplification algorithm that is capable of automatically generating variants of simplified shaders and selecting a sequence of preferable shaders. Results show that the sequence of selected simplified shaders balance performance, accuracy and memory consumption well.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="zjuvag.org/publication/automatic_shader/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/zjuvag.org/css/academic.min.c612512e287e0ab49e471a57394cf311.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/zjuvag.org/site.webmanifest">
+  <link rel="icon" type="image/png" href="/zjuvag.org/img/avatar.png">
+  <link rel="apple-touch-icon" type="image/png" href="/zjuvag.org/img/avatar.png">
+
+  <link rel="canonical" href="zjuvag.org/publication/automatic_shader/">
+
+  
+  
+  
+  
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="ZJU VAG">
+  <meta property="og:url" content="zjuvag.org/publication/automatic_shader/">
+  <meta property="og:title" content="Automatic Shader Simplification using Surface Signal Approximation. | ZJU VAG">
+  <meta property="og:description" content="In this paper, we present a new automatic shader simplification method using surface signal approximation. We regard the entire multi-stage rendering pipeline as a process that generates signals on surfaces, and we formulate the simplification of the fragment shader as a global simplification problem across multi-shader stages. Three new shader simplification rules are proposed to solve the problem. First, the code transformation rule transforms fragment shader code to other shader stages in order to redistribute computations on pixels up to the level of geometry primitives. Second, the surface-wise approximation rule uses high-order polynomial basis functions on surfaces to approximate pixel-wise computations in the fragment shader. These approximations are pre-cached and simplify computations at runtime. Third, the surface subdivision rule tessellates surfaces into smaller patches. It combines with the previous two rules to approximate pixel-wise signals at different levels of tessellations with different computation times and visual errors. To evaluate simplified shaders using these simplification rules, we introduce a new cost model that includes the visual quality, rendering time and memory consumption. With these simplification rules and the cost model, we present an integrated shader simplification algorithm that is capable of automatically generating variants of simplified shaders and selecting a sequence of preferable shaders. Results show that the sequence of selected simplified shaders balance performance, accuracy and memory consumption well.">
+  <meta property="og:image" content="/zjuvag.org/publication/automatic_shader/featured.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  <meta property="article:published_time" content="2014-11-01T00:00:00&#43;00:00">
+  
+  
+  <meta property="article:modified_time" content="2014-11-01T00:00:00&#43;00:00">
+  
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Automatic Shader Simplification using Surface Signal Approximation. | ZJU VAG</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/zjuvag.org/">ZJU VAG</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zjuvag.org/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/zjuvag.org/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zjuvag.org/blog"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zjuvag.org/#members"><span>Members</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zjuvag.org/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/zjuvag.org/publication/automatic_shader/featured.png');"></div>
+  <span class="article-header-caption">featured</span>
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Automatic Shader Simplification using Surface Signal Approximation.</h1>
+
+        
+
+        
+
+
+
+<meta content="2014-11-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2014-11-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/rui-wang/">Rui Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/hujun-bao/">Hujun Bao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/karla-bala/">Karla Bala</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/xianjin-yang/">Xianjin Yang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/yazhen-yuan/">Yazhen Yuan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/wei-chen/">Wei Chen</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>November 2014</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEETVCG_huangjin/tvcgsi-2012-05-0092-1-compress.pdf" target="_blank"
+  rel="noopener">
+  PDF
+</a>
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+  data-filename="/zjuvag.org/publication/automatic_shader/feature.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/2661229.2661276"
+  target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=zjuvag.org/publication/automatic_shader/&amp;text=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=zjuvag.org/publication/automatic_shader/&amp;t=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation.&amp;body=zjuvag.org/publication/automatic_shader/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=zjuvag.org/publication/automatic_shader/&amp;title=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation.%20zjuvag.org/publication/automatic_shader/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=zjuvag.org/publication/automatic_shader/&amp;title=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/zjuvag.org/publication/automatic_shader/featured.png" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Automatic Shader Simplification using Surface Signal Approximation.</h1>
+
+  
+
+  
+
+
+
+<meta content="2014-11-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2014-11-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/rui-wang/">Rui Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/hujun-bao/">Hujun Bao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/karla-bala/">Karla Bala</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/xianjin-yang/">Xianjin Yang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/yazhen-yuan/">Yazhen Yuan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="zjuvag.org/authors/wei-chen/">Wei Chen</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>November 2014</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=zjuvag.org/publication/automatic_shader/&amp;text=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=zjuvag.org/publication/automatic_shader/&amp;t=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation.&amp;body=zjuvag.org/publication/automatic_shader/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=zjuvag.org/publication/automatic_shader/&amp;title=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation.%20zjuvag.org/publication/automatic_shader/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=zjuvag.org/publication/automatic_shader/&amp;title=Automatic%20Shader%20Simplification%20using%20Surface%20Signal%20Approximation." target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEETVCG_huangjin/tvcgsi-2012-05-0092-1-compress.pdf" target="_blank"
+  rel="noopener">
+  PDF
+</a>
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+  data-filename="/zjuvag.org/publication/automatic_shader/feature.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/2661229.2661276"
+  target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">In this paper, we present a new automatic shader simplification method using surface signal approximation. We regard the entire multi-stage rendering pipeline as a process that generates signals on surfaces, and we formulate the simplification of the fragment shader as a global simplification problem across multi-shader stages. Three new shader simplification rules are proposed to solve the problem. First, the code transformation rule transforms fragment shader code to other shader stages in order to redistribute computations on pixels up to the level of geometry primitives. Second, the surface-wise approximation rule uses high-order polynomial basis functions on surfaces to approximate pixel-wise computations in the fragment shader. These approximations are pre-cached and simplify computations at runtime. Third, the surface subdivision rule tessellates surfaces into smaller patches. It combines with the previous two rules to approximate pixel-wise signals at different levels of tessellations with different computation times and visual errors. To evaluate simplified shaders using these simplification rules, we introduce a new cost model that includes the visual quality, rendering time and memory consumption. With these simplification rules and the cost model, we present an integrated shader simplification algorithm that is capable of automatically generating variants of simplified shaders and selecting a sequence of preferable shaders. Results show that the sequence of selected simplified shaders balance performance, accuracy and memory consumption well.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="zjuvag.org/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">ACM Transactions on Graphics</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="zjuvag.org/tags/tgpu-shader/">TGPU shader</a>
+  
+  <a class="badge badge-light" href="zjuvag.org/tags/real-time-rendering/">real-time rendering</a>
+  
+  <a class="badge badge-light" href="zjuvag.org/tags/shader-simplification/">shader simplification</a>
+  
+  <a class="badge badge-light" href="zjuvag.org/tags/surface-signal-approximation/">surface signal approximation</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="zjuvag.org/authors/rui-wang/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/zjuvag.org/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/zjuvag.org/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
