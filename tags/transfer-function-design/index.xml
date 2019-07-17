@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transfer function design on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/transfer-function-design/</link>
+    <description>Recent content in transfer function design on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2009 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/transfer-function-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/structuringfeaturespace/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/structuringfeaturespace/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

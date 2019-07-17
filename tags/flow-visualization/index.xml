@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flow visualization on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/flow-visualization/</link>
+    <description>Recent content in Flow visualization on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/flow-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/lic/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/lic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively Exploring Population Mobility Patterns in Flow Visualization</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/populationmobilitypatterns/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/populationmobilitypatterns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

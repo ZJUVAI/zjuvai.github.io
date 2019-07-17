@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trajectory on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/trajectory/</link>
+    <description>Recent content in Trajectory on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/trajectory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/gameflow/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/gameflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/semantictraj/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/semantictraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

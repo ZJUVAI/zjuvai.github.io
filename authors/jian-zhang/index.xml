@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Zhang on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/jian-zhang/</link>
+    <description>Recent content in Jian Zhang on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/jian-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/gaussianmixture/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/gaussianmixture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

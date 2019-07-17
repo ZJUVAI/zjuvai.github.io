@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karla Bala on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/karla-bala/</link>
+    <description>Recent content in Karla Bala on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/karla-bala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Shader Simplification using Surface Signal Approximation.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/automatic_shader/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/automatic_shader/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

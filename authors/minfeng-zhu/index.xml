@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minfeng Zhu on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/minfeng-zhu/</link>
+    <description>Recent content in Minfeng Zhu on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/minfeng-zhu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/dmgan/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/dmgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/location2vec/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/location2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAUD: A visual analysis approach for exploring spatio-temporal urban data.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/vaud/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/vaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/amtg/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/amtg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

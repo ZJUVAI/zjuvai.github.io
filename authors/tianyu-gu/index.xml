@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianyu Gu on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/authors/tianyu-gu/</link>
+    <description>Recent content in Tianyu Gu on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/authors/tianyu-gu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptively Exploring Population Mobility Patterns in Flow Visualization</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/populationmobilitypatterns/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/populationmobilitypatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

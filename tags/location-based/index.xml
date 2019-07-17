@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Location-based on ZJU VAG</title>
+    <link>https://jiacheng-pan.github.io/zjuvag/tags/location-based/</link>
+    <description>Recent content in Location-based on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="https://jiacheng-pan.github.io/zjuvag/tags/location-based/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
+      <link>https://jiacheng-pan.github.io/zjuvag/publication/relationlines/</link>
+      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
+      
+      <guid>https://jiacheng-pan.github.io/zjuvag/publication/relationlines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
