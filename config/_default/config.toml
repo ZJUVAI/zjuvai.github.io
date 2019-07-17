@@ -29,7 +29,7 @@ disqusShortname = ""
 theme = "academic"
 publishDir = "docs"
 
-baseURL = "https://jiacheng-pan.github.io/zjuvag/"
+baseURL = "/"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
