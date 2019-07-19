@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xvmeng Wang
+name: Xumeng Wang
 
 index: 50
 
