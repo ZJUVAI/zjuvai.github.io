@@ -6,10 +6,10 @@
 {{/* Dynamic view adjusts to content type. */}}
 {{ if eq $item.Type "post" }}
 {{ $microdata_type = "BlogPosting" }}
-{{ else if eq $item.Type "talk" }}
+{{ else if eq $item.Type "talks" }}
 {{ $microdata_type = "Event" }}
 {{ $show_buttons = true }}
-{{ else if eq $item.Type "publication" }}
+{{ else if eq $item.Type "publications" }}
 {{ $microdata_type = "ScholarlyArticle" }}
 {{ $show_buttons = true }}
 {{ end }}
@@ -59,7 +59,8 @@
   {{ with $resource }}
   {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
   <a href="{{ $item.RelPermalink }}">
-    <img src="{{ $image.RelPermalink }}" class="article-banner" itemprop="image" alt="">
+    <!-- <img src="{{ $image.RelPermalink }}" class="article-banner" itemprop="image" alt=""> -->
+    <img src="{{ $resource.RelPermalink }}" class="article-banner" itemprop="image" alt="">
   </a>
   {{end}}
 

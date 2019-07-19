@@ -20,19 +20,25 @@
 <div>
   <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person"
     itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 profile">
       <div id="profile">
 
-        {{ if site.Params.gravatar }}
-        <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image"
-          alt="Avatar">
-        {{ else if $avatar }}
-        {{ $avatar_image := $avatar.Fill "250x250 Center" }}
-        <img class="portrait" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
-        {{ end }}
+        {{ if $person.personal_url}}
+        <a href="{{$person.personal_url}}">
+          {{ end }}
+          {{ if site.Params.gravatar }}
+          <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image"
+            alt="Avatar">
+          {{ else if $avatar }}
+          {{ $avatar_image := $avatar.Fill "250x250 Center" }}
+          <img class="portrait" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
+          {{ end }}
+          {{ if $person.personal_url}}</a>{{ end }}
 
         <div class="portrait-title">
-          <h2 itemprop="name">{{ $person.name }}</h2>
+          {{ if $person.personal_url}}<a href="{{$person.personal_url}}">{{end}}
+            <h2 itemprop="name">{{ $person.name }}</h2>
+            {{ if $person.personal_url}}</a>{{end}}
           {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
 
           {{ range $person.organizations }}
@@ -99,15 +105,16 @@
         </div>
       </div>
     </div>
-    <div class="col-12 col-lg-8" itemprop="description">
+    {{ $query := where (where site.Pages "Section" "publications") ".Params.authors" "intersect" (slice $person.name)}}
+    {{ $count := len $query }}
+    {{ if or $count $person_page.Content }}
+    <div class="col-12 col-lg-8 description" itemprop="description">
 
       {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
       {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
       {{ $person_page.Content }}
 
-      {{ $query := where (where site.Pages "Section" "publications") ".Params.authors" "intersect" (slice $person.name)}}
-      {{ $count := len $query }}
       {{ if $count }}
       <div class="article-widget">
         <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
@@ -119,6 +126,7 @@
       </div>
       {{ end }}
     </div>
+    {{ end }}
   </div>
 
 

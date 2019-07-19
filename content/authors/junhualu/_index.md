@@ -16,7 +16,7 @@ personal_url: "https://akiori.github.io/"
 interests:
   - Information Visualization
   - Visual Analytics
-
+  - Data Mining
 
 user_groups:
   - Ph.D. Students

@@ -41,6 +41,7 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
+  - http://www.cad.zju.edu.cn/home/vagblog/slides/201907/GP.pdf
 url_code:
 url_pdf:
   - https://chrisbryan.github.io/files/papers/graphprotector_tvcg2019.pdf

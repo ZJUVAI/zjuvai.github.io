@@ -258,10 +258,23 @@ a.hero-cta-alt:hover {
  *  About widget
  **************************************************/
 
+.row .profile {
+  flex: 1;
+  max-width: 100%;
+}
+
 #profile {
   text-align: center;
   padding: 30px 10px;
   position: relative;
+}
+
+#profile a img:hover {
+  border: 10px solid #eee;
+}
+
+#profile a h2:hover {
+  font-weight: 700;
 }
 
 .portrait {
