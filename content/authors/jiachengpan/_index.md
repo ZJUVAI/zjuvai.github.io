@@ -2,7 +2,7 @@
 # Display name
 name: Jiacheng Pan
 
-index: 160
+index: 75
 
 # Username (this should match the folder name)
 authors:
@@ -16,7 +16,6 @@ personal_url: "https://jiacheng-pan.github.io/"
 interests:
   - Graph Visualization
 
-
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---

@@ -9,19 +9,29 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
-  url = "/publications"
+  name = "Blog"
+  url = "/blog"
   weight = 20
 
 [[main]]
-  name = "Blog"
-  url = "/blog"
+  name = "Talks"
+  url = "/talks"
   weight = 30
 
 [[main]]
-  name = "Members"
-  url = "#members"
+  name = "Publications"
+  url = "/publications"
   weight = 40
+
+[[main]]
+  name = "Members"
+  url = "/members"
+  weight = 50
+
+[[main]]
+  name = "PaperCollection"
+  url = "/accomplishments"
+  weight = 55
 
 [[main]]
   name = "Contact"

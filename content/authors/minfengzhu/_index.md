@@ -18,7 +18,6 @@ interests:
   - Computer Vision
   - Machine Learning
 
-
 user_groups:
   - Ph.D. Students
 ---

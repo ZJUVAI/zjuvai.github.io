@@ -1,10 +1,9 @@
-{{ $ := .root }}
 {{ $page := .page }}
 
 <div class="row justify-content-center people-widget">
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
-    <h1>{{ . | markdownify | emojify }}</h1>
+    <!-- <h1>{{ . | markdownify | emojify }}</h1> -->
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
@@ -22,7 +21,6 @@
 
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
   {{ range $idx, $key := sort $query ".Params.index"}}
-
   {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
@@ -37,13 +35,15 @@
     {{ $avatar_image := $avatar.Fill "150x150 Center" }}
     {{ $src = $avatar_image.RelPermalink }}
     {{ end }}
+    {{ $url := lower (replace .Params.name " " "") }}
+    {{ $prefix := "../authors/"}}
+    {{ $url := (print $prefix $url) }}
     {{ if $src }}
-    {{with .Params.personal_url}}<a href="{{.}}">{{end}}<img class="portrait" src="{{ $src }}"
-        alt="Avatar">{{if .Params.personal_url}}</a>{{end}}
+    <a href="{{$url}}"><img class="portrait" src="{{ $src }}" alt="Avatar"></a>
     {{ end }}
 
     <div class="portrait-title">
-      <h2>{{with .Params.personal_url}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if .Params.personal_url}}</a>{{end}}
+      <h2><a href="{{$url}}">{{ .Params.name }}</a>
       </h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}

@@ -2,16 +2,25 @@
 
 {{ $taxonomy := "authors" }}
 {{ with .Param $taxonomy }}
-  {{ range $index, $value := . }}
-    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
-    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
-    {{- if gt $index 0 }}, {{ end -}}
-    <span itemprop="author name" itemtype="http://schema.org/Person">
-      {{- with $profile_page -}}
-        <a href="{{.RelPermalink}}">{{$name}}</a>
-      {{- else -}}
-        {{$name}}
-      {{- end -}}
-    </span>
+{{ range $index, $value := . }}
+{{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+{{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+{{- if gt $index 0 }}, {{ end -}}
+<span itemprop="author name" itemtype="http://schema.org/Person">
+  {{- with $profile_page -}}
+  {{ $url := lower (replace $name " " "") }}
+  {{ $prefix := "/authors/"}}
+  {{ $url := (print $prefix $url) }}
+
+  {{ $query := where (where site.Pages "Section" "authors") ".Params.name" "eq" (string $name)}}
+  {{ if eq (len $query) 1 }}
+  <a href="{{ $url }}" style="text-decoration: underline;">{{$name}}</a>
+  {{ else }}
+  {{ $name }}
+  {{ end }}
+  {{- else -}}
+  {{$name}}
   {{- end -}}
+</span>
+{{- end -}}
 {{ end }}

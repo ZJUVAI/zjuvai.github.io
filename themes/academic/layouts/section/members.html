@@ -1,0 +1,7 @@
+{{- define "main" -}}
+
+{{ $widget_path := "widgets/people.html" }}
+{{ $widget_args := dict "root" site "page" .Page "hash_id" "members" }}
+{{ partial $widget_path $widget_args }}
+
+{{- end -}}

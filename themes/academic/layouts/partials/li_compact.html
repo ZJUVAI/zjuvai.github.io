@@ -7,7 +7,7 @@
 {{/* Dynamic view adjusts to content type. */}}
 {{ if eq $item.Type "post" }}
 {{ $microdata_type = "BlogPosting" }}
-{{ else if eq $item.Type "talk" }}
+{{ else if eq $item.Type "talks" }}
 {{ $microdata_type = "Event" }}
 {{ $show_authors_only = true }}
 {{ $show_buttons = true }}

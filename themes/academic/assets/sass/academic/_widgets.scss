@@ -6,6 +6,7 @@
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -84,6 +85,7 @@
   .home-section {
     padding: 60px 0 60px 0;
   }
+
   .home-section:first-of-type {
     padding-top: 40px;
   }
@@ -145,9 +147,10 @@
 .wg-hero.dark .hero-title,
 .wg-hero.dark .hero-lead,
 .wg-hero.dark .hero-cta-alt,
-.wg-hero.dark .hero-note > * {
+.wg-hero.dark .hero-note>* {
   color: #fff;
-  /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/ /* Uncomment to standout on complicated backgrounds. */
+  /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/
+  /* Uncomment to standout on complicated backgrounds. */
 }
 
 .wg-hero.dark a:not(.wg-hero .btn) {
@@ -279,7 +282,7 @@ a.hero-cta-alt:hover {
 .portrait-title h3 {
   font-size: 1rem;
   font-weight: 300;
-  color: rgba(0,0,0, 0.54);
+  color: rgba(0, 0, 0, 0.54);
   margin: 0px 0 10px 0;
 }
 
@@ -335,7 +338,7 @@ ul.ul-edu li .description p.course {
 
 ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
-  color: rgba(0,0,0,0.6);
+  color: rgba(0, 0, 0, 0.6);
 }
 
 /*************************************************
@@ -421,22 +424,27 @@ ul.ul-edu li .description p.institution {
   overflow: hidden;
 }
 
-.project-toolbar{
+.project-toolbar {
   margin-bottom: 2rem;
 }
 
 .project-card {
   position: relative;
-  width: calc(33.3% - 2*20px); /* Fluid 3 columns (inc. 20px gutter) */
+  width: calc(33.3% - 2*20px);
+  /* Fluid 3 columns (inc. 20px gutter) */
 }
+
 @media screen and (max-width: 1199px) {
   .project-card {
-    width: calc(50% - 20px); /* Fluid 2 columns (inc. 20px gutter) */
+    width: calc(50% - 20px);
+    /* Fluid 2 columns (inc. 20px gutter) */
   }
 }
+
 @media screen and (max-width: 768px) {
   .project-card {
-    width: 100%; /* 1 column */
+    width: 100%;
+    /* 1 column */
   }
 }
 
@@ -445,11 +453,13 @@ ul.ul-edu li .description p.institution {
 }
 
 .project-card.project-item {
-  margin: 0 0 20px 0; /* Set to Isotope's gutter size */
+  margin: 0 0 20px 0;
+  /* Set to Isotope's gutter size */
 }
 
 .project-card .card {
-  margin: 0; /* Remove default card margin and use Isotope gutter */
+  margin: 0;
+  /* Remove default card margin and use Isotope gutter */
 }
 
 .project-showcase .project-item {
@@ -464,7 +474,7 @@ ul.ul-edu li .description p.institution {
   z-index: 2;
 }
 
-.isotope-item:hover{
+.isotope-item:hover {
   z-index: 3;
 }
 
@@ -473,7 +483,8 @@ ul.ul-edu li .description p.institution {
  **************************************************/
 
 .card.course {
-  margin-bottom: 1rem; /* More compact spacing than Experience widget as typically more items here. */
+  margin-bottom: 1rem;
+  /* More compact spacing than Experience widget as typically more items here. */
 }
 
 .card.course:last-of-type {
@@ -496,6 +507,8 @@ ul.ul-edu li .description p.institution {
 .people-widget {
   font-size: 0.8rem;
   text-align: center;
+  width: 80%;
+  margin-left: 10%;
 }
 
 .people-widget .portrait-title h2 {
@@ -517,6 +530,7 @@ ul.ul-edu li .description p.institution {
     width: 30%;
   }
 }
+
 @media (min-width: 992px) {
   .people-widget .col-sm-auto {
     width: 20%;
@@ -528,19 +542,24 @@ ul.ul-edu li .description p.institution {
  **************************************************/
 
 .contact-widget .fa-ul {
-  margin-left: 3.14285714rem; /* Must be > `fa-2x` icon size. */
+  margin-left: 3.14285714rem;
+  /* Must be > `fa-2x` icon size. */
 }
 
 .contact-widget .fa-li {
   position: absolute;
-  left: -3.14285714rem; /* Negative of `.contact-widget .fa-ul` margin. */
-  width: 2rem; /* Match `fa-2x` icon size. */
-  top: 0.14285714em; /* Default FA value. */
+  left: -3.14285714rem;
+  /* Negative of `.contact-widget .fa-ul` margin. */
+  width: 2rem;
+  /* Match `fa-2x` icon size. */
+  top: 0.14285714em;
+  /* Default FA value. */
   text-align: center;
 }
 
 .contact-widget li {
-  padding-top: 0.8rem; /* Align text with bottom of `fa-2x` icon. */
+  padding-top: 0.8rem;
+  /* Align text with bottom of `fa-2x` icon. */
   margin-bottom: 0.3rem;
 }
 

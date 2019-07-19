@@ -71,7 +71,6 @@
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
-
     {{ with $st.Content }}<p>{{ . }}</p>{{ end }}
 
     {{ range $post := $query }}
