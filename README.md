@@ -108,4 +108,8 @@ slides: ""
 
 ## 安装说明
 
-1. 安装 Hugo，Windows 上需要安装 choco
+1. 需要安装 hugo 和 hugo extended；
+2. 先要 clone 这个项目，clone 之后，复制一个多的文件夹；
+3. `git checkout -b content origin/content`
+4. 再次 clone 这个项目（在第二部进行复制也可以），然后将 clone 下来的文件夹重命名为 docs
+5. 然后按照 generate.bat 批处理文件中所示即可；
