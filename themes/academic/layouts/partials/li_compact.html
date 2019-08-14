@@ -34,6 +34,10 @@
       <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
     </h3>
 
+    <div class="article-publication" itemprop="articleBody">
+      <span>{{ $item.Params.publication_short }}</span> | <span>{{ $item.Params.publication }}</span>
+    </div>
+
     {{ with $summary }}
     <div class="article-style" itemprop="articleBody">
       {{ . | truncate 135 }}

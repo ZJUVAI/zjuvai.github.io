@@ -124,6 +124,14 @@ article {
   transition: color 0.6s ease;
 }
 
+.article-publication {
+  font-size: .8rem;
+  font-style: italic;
+  border-left: 3px solid #ccc;
+  margin: .2rem 0 .2rem 0;
+  padding-left: .3rem;
+}
+
 .dark .text-muted {
   color: rgba(255, 255, 255, 0.54);
 }
