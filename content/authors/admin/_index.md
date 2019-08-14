@@ -50,7 +50,7 @@ social:
     link: https://weibo.com/zjuvag
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ae/citations?user=EgQyYGUAAAAJ
+    link: https://scholar.google.com/citations?user=EgQyYGUAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ZJUVAG
