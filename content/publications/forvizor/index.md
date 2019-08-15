@@ -11,7 +11,7 @@ authors:
     Hongye Liang,
     Hui Zhang,
     Shoubin Cheng,
-    Wei Chen
+    Wei Chen,
   ]
 date: 2018-08-20
 doi: "10.1109/TVCG.2018.2865041"
@@ -31,13 +31,9 @@ abstract: "Regarded as a high-level tactic in soccer, a team formation assigns p
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-  ["Soccer data", "formation analysis", "spatio-temporal visualization"]
+tags: ["Soccer data", "formation analysis", "spatio-temporal visualization"]
 categories: []
 featured: false
-
-
-
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -48,7 +44,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8440804
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/ForVizor.pdf
 url_code:
 url_dataset:
 url_poster:

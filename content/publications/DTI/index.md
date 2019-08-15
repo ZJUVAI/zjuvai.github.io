@@ -4,7 +4,16 @@
 title: "A Novel Interface for Interactive Exploration of DTI Fibers."
 authors:
   [
-    Wei Chen, Zi’ang Ding, Song Zhang, Anna MacKay-Brandt, Stephen Correia, Huamin Qu, John Allen Crow, David F. Tate, Zhicheng Yan, Qunsheng Peng
+    Wei Chen,
+    Zi’ang Ding,
+    Song Zhang,
+    Anna MacKay-Brandt,
+    Stephen Correia,
+    Huamin Qu,
+    John Allen Crow,
+    David F. Tate,
+    Zhicheng Yan,
+    Qunsheng Peng,
   ]
 date: 2009-10-23
 doi: "10.1109/TVCG.2009.112"
@@ -25,12 +34,14 @@ abstract: "Visual exploration is essential to the visualization and analysis of 
 summary: ""
 
 tags:
-  ["Diffusion Tensor Imaging", "Fibers", "Fiber Clustering", "Visualization Interface"]
+  [
+    "Diffusion Tensor Imaging",
+    "Fibers",
+    "Fiber Clustering",
+    "Visualization Interface",
+  ]
 categories: []
 featured: false
-
-
-
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,7 +52,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5290758
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/Vis2009_Printed_DTI.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -49,7 +60,12 @@ url_project:
 url_slides:
 url_source:
 url_video:
-
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/DTI_brain.WMV
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/DTI_brain_xvid.avi
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/DTI_heart.WMV
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/DTI_heart_xvid.avi
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/DTI_leg.WMV
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVis2009/DTI_leg_xvid.avi
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
