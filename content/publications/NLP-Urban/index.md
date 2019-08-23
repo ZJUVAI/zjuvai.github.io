@@ -2,7 +2,18 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories"
-authors: [Zhaosong Huang, Ye Zhao, Wei Chen, Shengjie Gao, Kejie Yu, Weixia Xu, Mingjie Tang, Minfeng Zhu, Mingliang Xu]
+authors:
+  [
+    Zhaosong Huang,
+    Ye Zhao,
+    Wei Chen,
+    Shengjie Gao,
+    Kejie Yu,
+    Weixia Xu,
+    Mingjie Tang,
+    Minfeng Zhu,
+    Mingliang Xu,
+  ]
 date: 2019-08-01
 doi: ""
 
@@ -10,11 +21,11 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [""]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "TVCG"
+publication_short: "IEEE Transactions on Visualization and Computer Graphics"
 
 abstract: "Visual querying is essential for interactively exploring massive trajectory data. However, the data uncertainty imposes profound challenges to fulfill advanced analytics requirements. On the one hand, many underlying data does not contain accurate geographic coordinates, e.g., positions of a mobile phone only refer to the regions (i.e., mobile cell stations) in which it resides, instead of accurate GPS coordinates. On the other hand, domain experts and general users prefer a natural way, such as using a natural language sentence, to access and analyze massive movement data. In this paper, we propose a visual analytics approach that can extract spatial-temporal constraints from a textual sentence and support an effective query method over uncertain mobile trajectory data. It is built up on encoding massive, spatially uncertain trajectories by the semantic information of the POIs and regions covered by them, and then storing the trajectory documents in text database with an effective indexing scheme. The visual interface facilitates query condition specification, situation-aware visualization, and semantic exploration of large trajectory data. Usage scenarios on real-world human mobility datasets demonstrate the effectiveness of our approach."
 

@@ -10,11 +10,11 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [""]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "TVCG"
+publication_short: "IEEE Transactions on Visualization and Computer Graphics"
 
 abstract: "Traditional radio monitoring and management largely depend on radio spectrum data analysis, which requires considerable domain experience and heavy cognition effort and frequently results in incorrect signal judgment and incomprehensive situation awareness. Faced with increasingly complicated electromagnetic environments, radio supervisors urgently need additional data sources and advanced analytical technologies to enhance their situation awareness ability. This paper introduces a visual analytics approach for electromagnetic situation awareness. Guided by a detailed scenario and requirement analysis, we first propose a signal clustering method to process radio signal data and a situation assessment model to obtain qualitative and quantitative descriptions of the electromagnetic situations. We then design a two-module interface with a set of visualization views and interactions to help radio supervisors perceive and understand the electromagnetic situations by a joint analysis of radio signal data and radio spectrum data. Evaluations on real-world data sets and an interview with actual users demonstrate the effectiveness of our prototype system. Finally, we discuss the limitations of the proposed approach and provide future work directions."
 

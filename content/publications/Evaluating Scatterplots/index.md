@@ -10,11 +10,11 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [""]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "TVCG"
+publication_short: "IEEE Transactions on Visualization and Computer Graphics"
 
 abstract: "Scatterplots are frequently scaled to fit display areas in multi-view and multi-device data analysis environments. A common method used for scaling is to enlarge or shrink the entire scatterplot together with the inside points synchronously and proportionally. This process is called geometric scaling. However, geometric scaling of scatterplots may cause a perceptual bias, that is, the perceived and physical values of visual features may be dissociated with respect to geometric scaling. For example, if a scatterplot is projected from a laptop to a large projector screen, then observers may feel that the scatterplot shown on the projector has fewer points than that viewed on the laptop. This paper presents an evaluation study on the perceptual bias of visual features in scatterplots caused by geometric scaling. The study focuses on three fundamental visual features (i.e., numerosity, correlation, and cluster separation) and three hypotheses that are formulated on the basis of our experience. We carefully design three controlled experiments by using well-prepared synthetic data and recruit participants to complete the experiments on the basis of their subjective experience. With a detailed analysis of the experimental results, we obtain a set of instructive findings. First, geometric scaling causes a bias that has a linear relationship with the scale ratio. Second, no significant difference exists between the biases measured from normally and uniformly distributed scatterplots. Third, changing the point radius can correct the bias to a certain extent. These findings can be used to inspire the design decisions of scatterplots in various scenarios."
 
