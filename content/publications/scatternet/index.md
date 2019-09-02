@@ -3,14 +3,7 @@
 
 title: "ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots."
 authors:
-  [
-    Yuxin Ma,
-    Anthony K. H. Tung,
-    Wei Wang,
-    Xiang Gao,
-    Zhigeng Pan,
-    Wei Chen
-  ]
+  [Yuxin Ma, Anthony K. H. Tung, Wei Wang, Xiang Gao, Zhigeng Pan, Wei Chen]
 date: 2018-10-12
 doi: "10.1109/TITS.2018.2888994"
 
@@ -30,12 +23,15 @@ abstract: "Similarity measuring methods are widely adopted in a broad range of v
 summary: ""
 
 tags:
-  ["Scatterplot", "similarity measuring", "deep learning", "visualization", "visual exploration"]
+  [
+    "Scatterplot",
+    "similarity measuring",
+    "deep learning",
+    "visualization",
+    "visual exploration",
+  ]
 categories: []
 featured: false
-
-
-
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,7 +42,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490694
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/ScatterNet.pdf
 url_code:
 url_dataset:
 url_poster:
