@@ -11,7 +11,7 @@ authors:
     Wenlong Chen,
     Yingcai Wu,
     Jinhui Yu,
-    Wei Chen
+    Wei Chen,
   ]
 date: 2018-10-29T15:46:02+08:00
 doi: ""
@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Intelligent Transportation Systems"
-publication_short: "IEEE T-ITS"
+publication_short: "IEEE TITS"
 
 abstract: "Visual analysis is widely applied to study human mobility due to the ability in integrating contextual information multiple data sources. Analyzing trajectory data through visualization improves the efficiency and accuracy of the analysis, yet may induce exposure of the location privacy. To balance the location privacy and analysis effectiveness, this work focuses on the behaviors of different geo-based contexts in the process of trajectory interpretation. Three types of geo-based contexts are identified after surveying 94 related literatures. We further conduct experiments to investigate their capability by evaluating how they benefit the analysis, and whether they lead to the location privacy exposure. Finally, we report and discuss interesting findings, and provide guidelines to the design of privacypreserving analysis approaches for human periodic trajectories."
 

@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Intelligent Transportation Systems"
-publication_short: "T-ITS"
+publication_short: "IEEE TITS"
 
 abstract: "In modern cities, service providers want to identify the regions that are hard to reach from multiple fire stations, a citizen wants to meet with friends in a restaurant close to everyone, and administrators want to find whether an area far from two bus stations needs a new one. Such tasks involve studying the dynamic accessibility of the urban structures over multiple geospatial and temporal constraints, which is an important topic in geographical sciences and urban transportation. In this paper, we present a new computational model and a visualization system that help domain users to interactively study the jointly constrained accessible regions, street segments, and Points of Interest (POIs). In particular, Urban Structure Accessibility Visualization system is built upon a new Min-Max Joint Set model, where specifically designed set operations not only represent the accessible regions but also compute the minimum and maximum access times to urban structures from the joint constraints. The computation and visualization are supported by a new graph model that accommodates the real-world dynamic traffic situation and the geographical settings of urban street segments and POIs. The visualization system allows the users to conveniently construct and manage accessible regions and visually explore the urban structures inside them."
 

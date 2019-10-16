@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Visualization and Computer Graphics"
-publication_short: "TVCG"
+publication_short: "IEEE TVCG"
 
 abstract: "Visual exploration is essential to the visualization and analysis of densely sampled 3D DTI fibers in biological speciments, due to the high geometric, spatial, and anatomical complexity of fiber tracts. Previous methods for DTI fiber visualization use zooming, color-mapping, selection, and abstraction to deliver the characteristics of the fibers. However, these schemes mainly focus on the optimization of visualization in the 3D space where cluttering and occlusion make grasping even a few thousand fibers difficult. This paper introduces a novel interaction method that augments the 3D visualization with a 2D representation containing a low-dimensional embedding of the DTI fibers. This embedding preserves the relationship between the fibers and removes the visual clutter that is inherent in 3D renderings of the fibers. This new interface allows the user to manipulate the DTI fibers as both 3D curves and 2D embedded points and easily compare or validate his or her results in both domains. The implementation of the framework is GPU based to achieve real-time interaction. The framework was applied to several tasks, and the results show that our method reduces the user's workload in recognizing 3D DTI fibers and permits quick and accurate DTI fiber selection."
 

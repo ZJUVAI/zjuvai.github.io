@@ -15,7 +15,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Visualization and Computer Graphics"
-publication_short: "TVCG"
+publication_short: "IEEE TVCG"
 
 abstract: "Similarity measuring methods are widely adopted in a broad range of visualization applications. In this work, we address the challenge of representing human perception in the visual analysis of scatterplots by introducing a novel deep-learning-based approach, ScatterNet, captures perception-driven similarities of such plots. The approach exploits deep neural networks to extract semantic features of scatterplot images for similarity calculation. We create a large labeled dataset consisting of similar and dissimilar images of scatterplots to train the deep neural network. We conduct a set of evaluations including performance experiments and a user study to demonstrate the effectiveness and efficiency of our approach. The evaluations confirm that the learned features capture the human perception of scatterplot similarity effectively. We describe two scenarios to show how ScatterNet can be applied in visual analysis applications."
 
