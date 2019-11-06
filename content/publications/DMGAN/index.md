@@ -13,7 +13,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+publication: "IEEE Conference on Computer Vision and Pattern Recognition"
 publication_short: "CVPR"
 
 abstract: "In this paper, we focus on generating realistic images from text descriptions. Current methods first generate an initial image with rough shape and color, and then refine the initial image to a high-resolution one. Most existing text-to-image synthesis methods have two main problems. (1) These methods depend heavily on the quality of the initial images. If the initial image is not well initialized, the following processes can hardly refine the image to a satisfactory quality. (2) Each word contributes a different level of importance when depicting different image contents, however, unchanged text representation is used in existing image refinement processes. In this paper, we propose the Dynamic Memory Generative Adversarial Network (DM-GAN) to generate high-quality images. The proposed method introduces a dynamic memory module to refine fuzzy image contents, when the initial images are not well generated. A memory writing gate is designed to select the important text information based on the initial image content, which enables our method to accurately generate images from the text description. We also utilize a response gate to adaptively fuse the information read from the memories and the image features. We evaluate the DM-GAN model on the Caltech-UCSD Birds 200 dataset and the Microsoft Common Objects in Context dataset. Experimental results demonstrate that our DM-GAN model performs favorably against the state-of-the-art approaches."
@@ -34,7 +34,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - https://arxiv.org/abs/1904.01310
+  - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/DM-GAN.pdf
 url_code:
 url_dataset:
 url_poster:
