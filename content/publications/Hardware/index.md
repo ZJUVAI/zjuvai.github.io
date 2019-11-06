@@ -15,7 +15,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Visualization"
-publication_short: ""
+publication_short: "IEEE VIS"
 
 abstract: "We present a hardware-accelerated adaptive EWA (elliptical weighted average) volume splatting algorithm. EWA splatting combines a Gaussian reconstruction kernel with a low-pass image filter for high image quality without aliasing artifacts or excessive blurring. We introduce a novel adaptive filtering scheme to reduce the computational cost of EWA splatting. We show how this algorithm can be efficiently implemented on modern graphics processing units (GPUs). Our implementation includes interactive classification and fast lighting. To accelerate the rendering we store splat geometry and 3D volume data locally in GPU memory. We present results for several rectilinear volume datasets that demonstrate the high image quality and interactive rendering speed of our method."
 

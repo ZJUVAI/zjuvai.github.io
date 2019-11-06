@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Visualization and Computer Graphics"
-publication_short: "TVCG"
+publication_short: "IEEE TVCG"
 
 abstract: "Regarded as a high-level tactic in soccer, a team formation assigns players different tasks and indicates their active regions on the pitch, thereby influencing the team performance significantly. Analysis of formations in soccer has become particularly indispensable for soccer analysts. However, formations of a team are intrinsically time-varying and contain inherent spatial information. The spatio-temporal nature of formations and other characteristics of soccer data, such as multivariate features, make analysis of formations in soccer a challenging problem. In this study, we closely worked with domain experts to characterize domain problems of formation analysis in soccer and formulated several design goals. We design a novel spatio-temporal visual representation of changes in team formation, allowing analysts to visually analyze the evolution of formations and track the spatial flow of players within formations over time. Based on the new design, we further design and develop ForVizor, a visual analytics system, which empowers users to track the spatio-temporal changes in formation and understand how and why such changes occur. With ForVizor, domain experts conduct formation analysis of two games. Analysis results with insights and useful feedback are summarized in two case studies."
 

@@ -24,8 +24,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "TVCG"
-publication_short: "IEEE Transactions on Visualization and Computer Graphics"
+publication: "IEEE Transactions on Visualization and Computer Graphics"
+publication_short: "IEEE TVCG"
 
 abstract: "Visual querying is essential for interactively exploring massive trajectory data. However, the data uncertainty imposes profound challenges to fulfill advanced analytics requirements. On the one hand, many underlying data does not contain accurate geographic coordinates, e.g., positions of a mobile phone only refer to the regions (i.e., mobile cell stations) in which it resides, instead of accurate GPS coordinates. On the other hand, domain experts and general users prefer a natural way, such as using a natural language sentence, to access and analyze massive movement data. In this paper, we propose a visual analytics approach that can extract spatial-temporal constraints from a textual sentence and support an effective query method over uncertain mobile trajectory data. It is built up on encoding massive, spatially uncertain trajectories by the semantic information of the POIs and regions covered by them, and then storing the trajectory documents in text database with an effective indexing scheme. The visual interface facilitates query condition specification, situation-aware visualization, and semantic exploration of large trajectory data. Usage scenarios on real-world human mobility datasets demonstrate the effectiveness of our approach."
 
