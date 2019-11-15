@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Zhaosong Huang presenting VAST TVCG Paper “A Natural-language-based Visual Query Approach of Uncertain Human Trajectories” at IEEE VAST 2019"
-event: IEEE VIS 2019 Searching & Querying
-event_url: http://ieeevis.org/year/2019/welcome
+event: IEEE VIS 2019
+event_url:
 location: Vancouver, Canada
 summary: "VAST TVCG Paper: A Natural-language-based Visual Query Approach of Uncertain Human Trajectories."
 abstract: "Visual querying is essential for interactively exploring massive trajectory data. However, the data uncertainty imposes profound challenges to fulfill advanced analytics requirements. On the one hand, many underlying data does not contain accurate geographic coordinates, e.g., positions of a mobile phone only refer to the regions (i.e., mobile cell stations) in which it resides, instead of accurate GPS coordinates. On the other hand, domain experts and general users prefer a natural way, such as using a natural language sentence, to access and analyze massive movement data. In this paper, we propose a visual analytics approach that can extract spatial-temporal constraints from a textual sentence and support an effective query method over uncertain mobile trajectory data. It is built up on encoding massive, spatially uncertain trajectories by the semantic information of the POIs and regions covered by them, and then storing the trajectory documents in text database with an effective indexing scheme. The visual interface facilitates query condition specification, situation-aware visualization, and semantic exploration of large trajectory data. Usage scenarios on real-world human mobility datasets demonstrate the effectiveness of our approach."
@@ -17,18 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-10-01T20:05:20+08:00
 
-authors:
-  [
-    Zhaosong Huang,
-    Ye Zhao,
-    Wei Chen,
-    Shengjie Gao,
-    Kejie Yu,
-    Weixia Xu,
-    Mingjie Tang,
-    Minfeng Zhu,
-    Mingliang Xu,
-  ]
+authors: []
 tags: ["VIS2019"]
 
 # Is this a featured talk? (true/false)
@@ -58,8 +47,6 @@ url_pdf:
   - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/IEEEVAST2019_NLP_urban.pdf
 url_video:
   - https://vimeo.com/372421808
-url_demo:
-  -
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
