@@ -11,7 +11,7 @@ authors:
     Huihua Guan,
     Wenlong Chen,
     Rusheng Pan,
-    Kwan-Liu Ma
+    Kwan-Liu Ma,
   ]
 date: 2018-08-20T15:46:02+08:00
 doi: ""
@@ -56,6 +56,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
+  - http://www.cad.zju.edu.cn/home/vagblog/slides/201907/GP.pdf
 url_source:
 url_video:
   - https://vimeo.com/303171890

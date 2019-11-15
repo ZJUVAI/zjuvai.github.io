@@ -56,6 +56,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
+  - http://www.cad.zju.edu.cn/home/vagblog/slides/201911/Evaluating%20Perceptual%20Bias%20During%20Geometric%20Scaling%20of%20Scatterplots-final.pdf
 url_source:
 url_video:
 

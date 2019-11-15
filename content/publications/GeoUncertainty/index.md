@@ -2,8 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Exploring the Sensitivity of Choropleths under Attribute Uncertainty."
-authors:
-  [Zhaosong Huang, Yafeng Lu, Elizabeth Mack, Wei Chen, Ross Maciejewski]
+authors: [Zhaosong Huang, Yafeng Lu, Elizabeth Mack, Wei Chen, Ross Maciejewski]
 date: 2019-01-02T15:46:02+08:00
 doi: ""
 
@@ -42,6 +41,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
+  - http://www.cad.zju.edu.cn/home/vagblog/slides/Exploring the Sensitivity of Choropleths under Attribute Uncertainty.pdf
 url_source:
 url_video:
   - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/201812051080v2.mp4

@@ -41,6 +41,7 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
+  - http://www.cad.zju.edu.cn/home/vagblog/slides/201907/vis2018berlin.pdf
 url_code:
 url_pdf:
   - http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/Structure-Based%20Suggestive%20Exploration.pdf
