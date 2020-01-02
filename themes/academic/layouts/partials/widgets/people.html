@@ -27,6 +27,8 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
   {{ $link = .RelPermalink }}
   {{ end }}
+  {{ $user_group := index .Params.user_groups 0}}
+    {{ $user_group_neat :=  lower (replace (replace $user_group " " "") "." "") }}
   <div class="col-12 col-sm-auto people-person">
     {{ $src := "" }}
     {{ if site.Params.gravatar }}
@@ -38,12 +40,13 @@
     {{ $url := lower (replace .Params.name " " "") }}
     {{ $prefix := "../authors/"}}
     {{ $url := (print $prefix $url) }}
+    
     {{ if $src }}
-    <a href="{{$url}}"><img class="portrait" src="{{ $src }}" alt="Avatar"></a>
+    <a href="{{$url}}"><img class="portrait {{ $user_group_neat }}" src="{{ $src }}" alt="Avatar"></a>
     {{ end }}
 
     <div class="portrait-title">
-      <h2><a href="{{$url}}">{{ .Params.name }}</a>
+      <h2 class="{{ $user_group_neat }}"><a href="{{$url}}">{{ .Params.name }}</a>
       </h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}

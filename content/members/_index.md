@@ -14,5 +14,6 @@ user_groups = ["Advisor",
                "Ph.D. Students",
                "Master Students",
                "Undergraduate Students",
-               "Visiting Scholars"]
+               "Visiting Scholars",
+               "Alumni"]
 +++

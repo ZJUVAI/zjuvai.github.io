@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Honghui Mei
+name: Xiaohong Ma
 
-index: 140
+index: 120
 
 # Username (this should match the folder name)
 authors:
-  - honghuimei
+  - xiaohongma
 
 # Is this the primary user of the site?
 superuser: true
