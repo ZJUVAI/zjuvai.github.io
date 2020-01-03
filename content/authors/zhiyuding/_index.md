@@ -2,7 +2,7 @@
 # Display name
 name: Zhiyu Ding
 
-index: 80
+index: 90
 
 # Username (this should match the folder name)
 authors:
