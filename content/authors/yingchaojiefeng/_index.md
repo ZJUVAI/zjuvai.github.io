@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Zhe Zhao
+name: Yingchaojie Feng
 
-index: 150
+index: 370
 
 # Username (this should match the folder name)
 authors:
-  - zhezhao
+  - yingchaojiefeng
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,9 @@ superuser: true
 personal_url: ""
 
 interests:
+  - Information Visualization
+  - Visual Analytics
 
 user_groups:
-  - Alumni
+  - Undergraduate Students
 ---

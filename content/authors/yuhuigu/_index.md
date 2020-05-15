@@ -14,10 +14,7 @@ superuser: true
 personal_url: ""
 
 interests:
-  - Information Visualization
-  - Visual Analytics
-
 
 user_groups:
-  - Master Students
+  - Alumni
 ---
