@@ -15,7 +15,7 @@
 - id: next
   translation: Next
 - id: figure
-  translation: 'Figure %d:'
+  translation: "Figure %d:"
 - id: btn_preprint
   translation: Preprint
 - id: btn_pdf
@@ -36,6 +36,8 @@
   translation: Poster
 - id: btn_source
   translation: Source Document
+- id: btn_supp
+  translation: Suppl.
 - id: btn_copy
   translation: Copy
 - id: btn_download

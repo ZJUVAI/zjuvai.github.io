@@ -15,7 +15,7 @@
 - id: next
   translation: 下一页
 - id: figure
-  translation: '图%d:'
+  translation: "图%d:"
 - id: btn_preprint
   translation: 预印本
 - id: btn_pdf
@@ -36,6 +36,8 @@
   translation: 海报
 - id: btn_source
   translation: 源文档
+- id: btn_supp
+  translation: 补充材料
 - id: btn_copy
   translation: 复制
 - id: btn_download

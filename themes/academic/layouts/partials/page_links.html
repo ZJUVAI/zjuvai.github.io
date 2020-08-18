@@ -138,6 +138,18 @@
   {{ i18n "btn_source" }}
 </a>
 {{ end }}
+{{ range $page.Params.url_supp }}
+{{ $resource := $page.Resources.GetMatch . }}
+{{ if $resource }}
+{{ $link = $resource.RelPermalink }}
+{{ else }}
+{{ $link = . | relURL }}
+{{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank"
+  rel="noopener">
+  {{ i18n "btn_supp" }}
+</a>
+{{ end }}
 {{ with $page.Params.doi }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}"
   target="_blank" rel="noopener">

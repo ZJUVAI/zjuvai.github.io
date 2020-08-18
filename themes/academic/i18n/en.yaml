@@ -61,6 +61,9 @@
 - id: btn_source
   translation: Source Document
 
+- id: btn_supp
+  translation: Suppl.
+
 - id: btn_copy
   translation: Copy
 
