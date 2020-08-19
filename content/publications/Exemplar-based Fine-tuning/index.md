@@ -40,7 +40,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/18/d2dbbf23cee72ce996b7b27d85a5822e222ed14e.pdf
+  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -49,7 +49,7 @@ url_slides:
 url_source:
 url_video:
 url_supp:
-  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/18/821fd8dcf6e089f34c2e5f5974d17ba7c68130b1.pdf
+  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/a9ea9700a8e3bdf950d0c8b830fed156766f21bd.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

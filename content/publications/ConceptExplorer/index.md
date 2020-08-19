@@ -49,7 +49,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/18/15fc3727a3d4ad24d45d23180ede14664a3b86f8.pdf
+  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/2a84a959afd042af2557ea16c0e41c1a1389bfd7.pdf
 url_code:
 url_dataset:
 url_poster:
