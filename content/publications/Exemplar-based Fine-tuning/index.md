@@ -49,7 +49,7 @@ url_slides:
 url_source:
 url_video:
 url_supp:
-  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/a9ea9700a8e3bdf950d0c8b830fed156766f21bd.pdf
+  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
