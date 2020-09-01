@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Linhao Meng
+name: Yong Dai
 
-index: 230
+index: 410
 
 # Username (this should match the folder name)
 authors:
-  - linhaomeng
+  - yongdai
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,5 +18,5 @@ interests:
   - Visual Analytics
 
 user_groups:
-  - Alumni
+  - Master Students
 ---
