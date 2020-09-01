@@ -10,11 +10,11 @@
 [js.jQuery]
   version = "3.5.1"
   sri = ""
-  url = "https://code.jquery.com/jquery-%s.min.js"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/jquery/%s/jquery.min.js"
 [js.highlight]
   version = "10.1.2"
   sri = ""
-  url = "cdnjs.cloudflare.com/ajax/libs/highlight.js/%s/highlight.min.js"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/%s/highlight.min.js"
 [js.mathJax]
   version = "2.7.7"
   sri = ""
