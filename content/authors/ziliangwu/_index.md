@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Yijing Liu
+name: Ziliang Wu
 
-index: 130
+index: 140
 
 # Username (this should match the folder name)
 authors:
-  - yijingliu
+  - ziliangwu
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,8 @@ superuser: true
 personal_url: ""
 
 interests:
-  - Computer Vision
-  - Machine Learning
+  - Visualization
+  - Visual Analysis
 
 user_groups:
   - Ph.D. Students
