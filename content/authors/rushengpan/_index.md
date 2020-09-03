@@ -2,7 +2,7 @@
 # Display name
 name: Rusheng Pan
 
-index: 180
+index: 130
 
 # Username (this should match the folder name)
 authors:
