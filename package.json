@@ -1,0 +1,22 @@
+{
+  "name": "zju-vag.github.io",
+  "version": "1.0.0",
+  "description": "每篇论文对应/content/publication/下面的每一个文件夹；",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "hugo && git add . && git commit -m 'generated' && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZJU-VAG/zju-vag.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZJU-VAG/zju-vag.github.io/issues"
+  },
+  "homepage": "https://github.com/ZJU-VAG/zju-vag.github.io#readme"
+}
