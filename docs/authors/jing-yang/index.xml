@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Yang on ZJU VAG</title>
+    <link>/authors/jing-yang/</link>
+    <description>Recent content in Jing Yang on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/jing-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints.</title>
+      <link>/publications/accessibility_modeling/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/accessibility_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories</title>
+      <link>/publications/semantictraj/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/semantictraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAET: A Visual Analytics Approach for E-transactions Time-series.</title>
+      <link>/publications/vaet/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/vaet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

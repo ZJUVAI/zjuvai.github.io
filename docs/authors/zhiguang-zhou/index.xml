@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiguang Zhou on ZJU VAG</title>
+    <link>/authors/zhiguang-zhou/</link>
+    <description>Recent content in Zhiguang Zhou on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/authors/zhiguang-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data.</title>
+      <link>/publications/odflow/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/odflow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

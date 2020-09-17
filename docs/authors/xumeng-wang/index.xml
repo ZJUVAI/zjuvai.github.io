@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xumeng Wang on ZJU VAG</title>
+    <link>/authors/xumeng-wang/</link>
+    <description>Recent content in Xumeng Wang on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/xumeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data</title>
+      <link>/publications/conceptexplorer/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/conceptexplorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories.</title>
+      <link>/publications/user-study/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/user-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.</title>
+      <link>/publications/graphprotector/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/graphprotector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
+      <link>/publications/relationlines/</link>
+      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/relationlines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Utility-aware Visual Approach for Anonymizing Multi-attribute Tabular Data.</title>
+      <link>/publications/utilityaware/</link>
+      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/utilityaware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

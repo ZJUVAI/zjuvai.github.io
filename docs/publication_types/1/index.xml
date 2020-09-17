@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on ZJU VAG</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data</title>
+      <link>/publications/conceptexplorer/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/conceptexplorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network</title>
+      <link>/publications/eemefn/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/eemefn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
+      <link>/publications/dmgan/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/dmgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
+      <link>/publications/structure-based/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/structure-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection.</title>
+      <link>/publications/dimscanner/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dimscanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
+      <link>/publications/gameflow/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/gameflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories</title>
+      <link>/publications/semantictraj/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/semantictraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
+      <link>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>/publications/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
+      <link>/publications/boundaryseer/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/boundaryseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Shape Illustration Using Laplacian Lines</title>
+      <link>/publications/real-timeshape/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/real-timeshape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Accelerated Adaptive EWA Volume Splatting</title>
+      <link>/publications/hardware/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/hardware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

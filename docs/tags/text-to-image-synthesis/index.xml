@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text-to-Image Synthesis on ZJU VAG</title>
+    <link>/tags/text-to-image-synthesis/</link>
+    <description>Recent content in Text-to-Image Synthesis on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/text-to-image-synthesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
+      <link>/publications/dmgan/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/dmgan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

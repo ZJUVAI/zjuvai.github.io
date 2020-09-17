@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobility Patterns on ZJU VAG</title>
+    <link>/tags/mobility-patterns/</link>
+    <description>Recent content in Mobility Patterns on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Aug 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/mobility-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
+      <link>/publications/amtg/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/amtg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honghui Mei on ZJU VAG</title>
+    <link>/authors/honghui-mei/</link>
+    <description>Recent content in Honghui Mei on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/honghui-mei/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</title>
+      <link>/publications/rsa-tree/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/rsa-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Perceptual Bias During Geometric Scaling of Scatterplots</title>
+      <link>/publications/evaluating-scatterplots/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/evaluating-scatterplots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization.</title>
+      <link>/publications/echarts/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/echarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories</title>
+      <link>/publications/vidx/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/vidx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration</title>
+      <link>/publications/uncertainty/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Abstraction and Exploration of Multi-class Scatterplots</title>
+      <link>/publications/visual-abstraction/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-abstraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Luo on ZJU VAG</title>
+    <link>/authors/feng-luo/</link>
+    <description>Recent content in Feng Luo on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/authors/feng-luo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
+      <link>/publications/fuzzyclustering/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/fuzzyclustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

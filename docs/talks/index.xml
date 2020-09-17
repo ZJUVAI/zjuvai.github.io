@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Talks on ZJU VAG</title>
+    <link>/talks/</link>
+    <description>Recent content in Recent Talks on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 09:30:20 +0800</lastBuildDate>
+    
+	    <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zhaosong Huang presenting VAST TVCG Paper “A Natural-language-based Visual Query Approach of Uncertain Human Trajectories” at IEEE VAST 2019</title>
+      <link>/talks/2019vis-zhaosong-1/</link>
+      <pubDate>Fri, 25 Oct 2019 09:30:20 +0800</pubDate>
+      
+      <guid>/talks/2019vis-zhaosong-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaosong Huang presenting TVCG Paper “Exploring the Sensitivity of Choropleths under Attribute Uncertainty.” at IEEE VAST 2019</title>
+      <link>/talks/2019vis-zhaosong-2/</link>
+      <pubDate>Thu, 24 Oct 2019 15:35:20 +0800</pubDate>
+      
+      <guid>/talks/2019vis-zhaosong-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yating Wei presenting Evaluating Perceptual Bias During Geometric Scaling of Scatterplots at IEEE VAST 2019</title>
+      <link>/talks/2019vis-yating/</link>
+      <pubDate>Tue, 22 Oct 2019 17:10:20 +0800</pubDate>
+      
+      <guid>/talks/2019vis-yating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xumeng Wang presenting GraphProtector at IEEE VAST 2018</title>
+      <link>/talks/2018vis-xumeng/</link>
+      <pubDate>Thu, 25 Oct 2018 09:36:20 +0800</pubDate>
+      
+      <guid>/talks/2018vis-xumeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongming Han and Jiacheng Pan presenting Structure-Based Suggestive Exploration at IEEE VAST 2018</title>
+      <link>/talks/2018vis-han-pan/</link>
+      <pubDate>Wed, 24 Oct 2018 11:43:20 +0800</pubDate>
+      
+      <guid>/talks/2018vis-han-pan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

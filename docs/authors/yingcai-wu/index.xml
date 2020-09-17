@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yingcai Wu on ZJU VAG</title>
+    <link>/authors/yingcai-wu/</link>
+    <description>Recent content in Yingcai Wu on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/yingcai-wu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>
+      <link>/publications/exemplar-based-fine-tuning/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/exemplar-based-fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories.</title>
+      <link>/publications/user-study/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/user-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster-based Visual Abstraction for Multivariate Scatterplots</title>
+      <link>/publications/cluster-based/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cluster-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer.</title>
+      <link>/publications/forvizor/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/forvizor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
+      <link>/publications/perception-based/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/perception-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
+      <link>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

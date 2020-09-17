@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBFV on ZJU VAG</title>
+    <link>/tags/ibfv/</link>
+    <description>Recent content in IBFV on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/ibfv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
+      <link>/publications/lic/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/lic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

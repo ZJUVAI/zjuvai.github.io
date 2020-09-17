@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data visualization on ZJU VAG</title>
+    <link>/tags/data-visualization/</link>
+    <description>Recent content in Data visualization on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
+      <link>/publications/fuzzyclustering/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/fuzzyclustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data.</title>
+      <link>/publications/odflow/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/odflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analytics of Mobility and Transportation: State of the Art and Further Research Directions.</title>
+      <link>/publications/mobilityandtransportation/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/mobilityandtransportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
+      <link>/publications/boundaryseer/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/boundaryseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAET: A Visual Analytics Approach for E-transactions Time-series.</title>
+      <link>/publications/vaet/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/vaet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

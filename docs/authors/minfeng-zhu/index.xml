@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minfeng Zhu on ZJU VAG</title>
+    <link>/authors/minfeng-zhu/</link>
+    <description>Recent content in Minfeng Zhu on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/minfeng-zhu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction</title>
+      <link>/publications/drgraph/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/drgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>
+      <link>/publications/exemplar-based-fine-tuning/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/exemplar-based-fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network</title>
+      <link>/publications/eemefn/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/eemefn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural-language-based Visual Query Approach of Uncertain Human Trajectories</title>
+      <link>/publications/nlp-urban/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/nlp-urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
+      <link>/publications/dmgan/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/dmgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
+      <link>/publications/location2vec/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>/publications/location2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAUD: A visual analysis approach for exploring spatio-temporal urban data.</title>
+      <link>/publications/vaud/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/vaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
+      <link>/publications/amtg/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/amtg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

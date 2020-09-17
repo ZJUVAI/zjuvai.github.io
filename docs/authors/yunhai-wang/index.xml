@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunhai Wang on ZJU VAG</title>
+    <link>/authors/yunhai-wang/</link>
+    <description>Recent content in Yunhai Wang on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/authors/yunhai-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
+      <link>/publications/fuzzyclustering/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/fuzzyclustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
+      <link>/publications/gaussianmixture/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/gaussianmixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
+      <link>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

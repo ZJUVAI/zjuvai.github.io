@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo-based Context on ZJU VAG</title>
+    <link>/tags/geo-based-context/</link>
+    <description>Recent content in Geo-based Context on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/geo-based-context/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories.</title>
+      <link>/publications/user-study/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/user-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

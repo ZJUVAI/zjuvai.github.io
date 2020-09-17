@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  <meta name="author" content="Feiran Wu">
+
+  
+  
+  
+  
+  
+  <meta name="description" content="Analysts commonly investigate the data distributions derived from statistical aggregations of data that are represented by charts, such as histograms and binned scatterplots, to visualize and analyze a large-scale dataset. Aggregate queries are implicitly executed through such a process. Datasets are constantly extremely large; thus, the response time should be accelerated by calculating predefined data cubes. However, the queries are limited to the predefined binning schema of preprocessed data cubes. Such limitation hinders analysts&#39; flexible adjustment of visual specifications to investigate the implicit patterns in the data effectively. Particularly, RSATree enables arbitrary queries and flexible binning strategies by leveraging three schemes, namely, an R-tree-based space partitioning scheme to catch the data distribution, a locality-sensitive hashing technique to achieve locality-preserving random access to data items, and a summed area table scheme to support interactive query of aggregated values with a linear computational complexity. This study presents and implements a web-based visual query system that supports visual specification, query, and exploration of large-scale tabular data with user-adjustable granularities. We demonstrate the efficiency and utility of our approach by performing various experiments on real-world datasets and analyzing time and space complexity.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publications/rsa-tree/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#546787">
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="" crossorigin="anonymous">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/default.min.css%!(EXTRA string=github)" crossorigin="anonymous" title="hl-light">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/default.min.css%!(EXTRA string=dracula)" crossorigin="anonymous" title="hl-dark" disabled>
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.aa360550f88c825679ddef4704c92298.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/avatar.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/avatar.png">
+
+  <link rel="canonical" href="/publications/rsa-tree/">
+
+  
+  
+  
+  
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="ZJU VAG">
+  <meta property="og:url" content="/publications/rsa-tree/">
+  <meta property="og:title" content="RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query | ZJU VAG">
+  <meta property="og:description" content="Analysts commonly investigate the data distributions derived from statistical aggregations of data that are represented by charts, such as histograms and binned scatterplots, to visualize and analyze a large-scale dataset. Aggregate queries are implicitly executed through such a process. Datasets are constantly extremely large; thus, the response time should be accelerated by calculating predefined data cubes. However, the queries are limited to the predefined binning schema of preprocessed data cubes. Such limitation hinders analysts&#39; flexible adjustment of visual specifications to investigate the implicit patterns in the data effectively. Particularly, RSATree enables arbitrary queries and flexible binning strategies by leveraging three schemes, namely, an R-tree-based space partitioning scheme to catch the data distribution, a locality-sensitive hashing technique to achieve locality-preserving random access to data items, and a summed area table scheme to support interactive query of aggregated values with a linear computational complexity. This study presents and implements a web-based visual query system that supports visual specification, query, and exploration of large-scale tabular data with user-adjustable granularities. We demonstrate the efficiency and utility of our approach by performing various experiments on real-world datasets and analyzing time and space complexity.">
+  <meta property="og:image" content="/publications/rsa-tree/featured.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  <meta property="article:published_time" content="2019-08-06T00:00:00&#43;00:00">
+  
+  
+  <meta property="article:modified_time" content="2019-08-06T00:00:00&#43;00:00">
+  
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query | ZJU VAG</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">ZJU VAG</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/blog"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/members"><span>Members</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/papercollection"><span>PaperCollection</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publications/rsa-tree/featured.png');"></div>
+  <span class="article-header-caption">featured</span>
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</h1>
+
+        
+
+        
+
+
+
+<meta content="2019-08-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-08-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+<span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/honghuimei" style="text-decoration: underline;">Honghui Mei</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/weichen" style="text-decoration: underline;">Wei Chen</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/yatingwei" style="text-decoration: underline;">Yating Wei</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/yuanzhehu" style="text-decoration: underline;">Yuanzhe Hu</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/shuyuezhou" style="text-decoration: underline;">Shuyue Zhou</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/bingrulin" style="text-decoration: underline;">Bingru Lin</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Ying Zhao
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/jiazhixia" style="text-decoration: underline;">Jiazhi Xia</a>
+  </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Aug 6, 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/sat.pdf" target="_blank"
+  rel="noopener">
+  PDF
+</a>
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+  data-filename="/publications/rsa-tree/featured.bib">
+  Cite
+</button>
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ZJUVAG/RSA_Tree" target="_blank"
+  rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publications/rsa-tree/&amp;text=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publications/rsa-tree/&amp;t=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query&amp;body=/publications/rsa-tree/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publications/rsa-tree/&amp;title=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query%20/publications/rsa-tree/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publications/rsa-tree/&amp;title=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publications/rsa-tree/featured.png" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</h1>
+
+  
+
+  
+
+
+
+<meta content="2019-08-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-08-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+<span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/honghuimei" style="text-decoration: underline;">Honghui Mei</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/weichen" style="text-decoration: underline;">Wei Chen</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/yatingwei" style="text-decoration: underline;">Yating Wei</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/yuanzhehu" style="text-decoration: underline;">Yuanzhe Hu</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/shuyuezhou" style="text-decoration: underline;">Shuyue Zhou</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/bingrulin" style="text-decoration: underline;">Bingru Lin</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Ying Zhao
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/jiazhixia" style="text-decoration: underline;">Jiazhi Xia</a>
+  </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Aug 6, 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publications/rsa-tree/&amp;text=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publications/rsa-tree/&amp;t=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query&amp;body=/publications/rsa-tree/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publications/rsa-tree/&amp;title=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query%20/publications/rsa-tree/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publications/rsa-tree/&amp;title=RSATree:%20Distribution-AwareData%20Representation%20of%20Large-Scale%20Tabular%20Datasets%20for%20Flexible%20Visual%20Query" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/sat.pdf" target="_blank"
+  rel="noopener">
+  PDF
+</a>
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+  data-filename="/publications/rsa-tree/featured.bib">
+  Cite
+</button>
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ZJUVAG/RSA_Tree" target="_blank"
+  rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Analysts commonly investigate the data distributions derived from statistical aggregations of data that are represented by charts, such as histograms and binned scatterplots, to visualize and analyze a large-scale dataset. Aggregate queries are implicitly executed through such a process. Datasets are constantly extremely large; thus, the response time should be accelerated by calculating predefined data cubes. However, the queries are limited to the predefined binning schema of preprocessed data cubes. Such limitation hinders analysts' flexible adjustment of visual specifications to investigate the implicit patterns in the data effectively. Particularly, RSATree enables arbitrary queries and flexible binning strategies by leveraging three schemes, namely, an R-tree-based space partitioning scheme to catch the data distribution, a locality-sensitive hashing technique to achieve locality-preserving random access to data items, and a summed area table scheme to support interactive query of aggregated values with a linear computational complexity. This study presents and implements a web-based visual query system that supports visual specification, query, and exploration of large-scale tabular data with user-adjustable granularities. We demonstrate the efficiency and utility of our approach by performing various experiments on real-world datasets and analyzing time and space complexity.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">IEEE Transactions on Visualization and Computer Graphics</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/aggregate-query/">Aggregate query</a>
+  
+  <a class="badge badge-light" href="/tags/visual-query/">visual query</a>
+  
+  <a class="badge badge-light" href="/tags/large-scale-data-visualization/">large-scale data visualization</a>
+  
+  <a class="badge badge-light" href="/tags/r-tree/">R-tree</a>
+  
+  <a class="badge badge-light" href="/tags/summed-area-table/">summed area table</a>
+  
+  <a class="badge badge-light" href="/tags/hashing/">hashing</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/honghui-mei/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="" crossorigin="anonymous"></script>
+
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="" crossorigin="anonymous"></script>
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>
+      hljs.initHighlightingOnLoad();
+
+    </script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = {
+        {
+          "/index.json" | relLangURL
+        }
+      };
+      const i18n = {
+        'placeholder': {
+          {
+            i18n "search_placeholder"
+          }
+        },
+        'results': {
+          {
+            i18n "search_results"
+          }
+        },
+        'no_results': {
+          {
+            i18n "search_no_results"
+          }
+        }
+      };
+      const content_type = {
+        'post': {
+          {
+            i18n "posts"
+          }
+        },
+        'project': {
+          {
+            i18n "projects"
+          }
+        },
+        'publication': {
+          {
+            i18n "publications"
+          }
+        },
+        'talk': {
+          {
+            i18n "talks"
+          }
+        }
+      };
+
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.6.1/fuse.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.3394a224b26ce58ff36f44c54743e0ab.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

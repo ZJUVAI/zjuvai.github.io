@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Chen on ZJU VAG</title>
+    <link>/authors/wei-chen/</link>
+    <description>Recent content in Wei Chen on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/wei-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data</title>
+      <link>/publications/conceptexplorer/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/conceptexplorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction</title>
+      <link>/publications/drgraph/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/drgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>
+      <link>/publications/exemplar-based-fine-tuning/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/exemplar-based-fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network</title>
+      <link>/publications/eemefn/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/eemefn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</title>
+      <link>/publications/rsa-tree/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/rsa-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural-language-based Visual Query Approach of Uncertain Human Trajectories</title>
+      <link>/publications/nlp-urban/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/nlp-urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Perceptual Bias During Geometric Scaling of Scatterplots</title>
+      <link>/publications/evaluating-scatterplots/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/evaluating-scatterplots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analytics for Electromagnetic Situation Awareness in Radio Monitoring and Management</title>
+      <link>/publications/radiovis/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/radiovis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
+      <link>/publications/dmgan/</link>
+      <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/dmgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
+      <link>/publications/location2vec/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>/publications/location2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints.</title>
+      <link>/publications/accessibility_modeling/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/accessibility_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
+      <link>/publications/geouncertainty/</link>
+      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/geouncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-Space-Time Cube: A Conceptual Framework for Systematic Analysis of Texts in Space and Time.</title>
+      <link>/publications/semantics_cube/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/semantics_cube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAUD: A visual analysis approach for exploring spatio-temporal urban data.</title>
+      <link>/publications/vaud/</link>
+      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/vaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User Study on the Capability of Three Geo-Based Features in Analyzing and Locating Trajectories.</title>
+      <link>/publications/user-study/</link>
+      <pubDate>Mon, 29 Oct 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/user-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots.</title>
+      <link>/publications/scatternet/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/scatternet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster-based Visual Abstraction for Multivariate Scatterplots</title>
+      <link>/publications/cluster-based/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cluster-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
+      <link>/publications/fuzzyclustering/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/fuzzyclustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.</title>
+      <link>/publications/graphprotector/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/graphprotector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data.</title>
+      <link>/publications/odflow/</link>
+      <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/odflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer.</title>
+      <link>/publications/forvizor/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/forvizor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
+      <link>/publications/structure-based/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/structure-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
+      <link>/publications/amtg/</link>
+      <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/amtg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
+      <link>/publications/dichromats/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/dichromats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization.</title>
+      <link>/publications/echarts/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/echarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
+      <link>/publications/gaussianmixture/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/gaussianmixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Space Texture-Based Output-Coherent Surface Flow Visualization.</title>
+      <link>/publications/lic/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/lic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
+      <link>/publications/perception-based/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/perception-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankExplorer: Visualization of Ranking Changes in Large Time Series Data.</title>
+      <link>/publications/rankexplorer/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/rankexplorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
+      <link>/publications/tcptree/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/tcptree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
+      <link>/publications/relationlines/</link>
+      <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/relationlines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDSScanner: Exploratory Analysis of Low-Dimensional Structures in High-Dimensional Datasets</title>
+      <link>/publications/ldsscanner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/ldsscanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Utility-aware Visual Approach for Anonymizing Multi-attribute Tabular Data.</title>
+      <link>/publications/utilityaware/</link>
+      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/utilityaware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively Exploring Population Mobility Patterns in Flow Visualization</title>
+      <link>/publications/populationmobilitypatterns/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/populationmobilitypatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analytics of Mobility and Transportation: State of the Art and Further Research Directions.</title>
+      <link>/publications/mobilityandtransportation/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/mobilityandtransportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection.</title>
+      <link>/publications/dimscanner/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dimscanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing Rank Time Series of Wikipedia Top Viewed Pages.</title>
+      <link>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories</title>
+      <link>/publications/vidx/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/vidx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
+      <link>/publications/gameflow/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/gameflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories</title>
+      <link>/publications/semantictraj/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/semantictraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Analysis of Cloud Computing Performance Using Behavioral Lines.</title>
+      <link>/publications/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data in Social Transportation.</title>
+      <link>/publications/big-data-in-social-transportation/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/big-data-in-social-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
+      <link>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration</title>
+      <link>/publications/uncertainty/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
+      <link>/publications/visual_reasoning/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual_reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
+      <link>/publications/boundaryseer/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/boundaryseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Abstraction and Exploration of Multi-class Scatterplots</title>
+      <link>/publications/visual-abstraction/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-abstraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAET: A Visual Analytics Approach for E-transactions Time-series.</title>
+      <link>/publications/vaet/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/vaet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Shader Simplification using Surface Signal Approximation.</title>
+      <link>/publications/automatic_shader/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/automatic_shader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Shape Illustration Using Laplacian Lines</title>
+      <link>/publications/real-timeshape/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/real-timeshape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation.</title>
+      <link>/publications/structuringfeaturespace/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/structuringfeaturespace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Interface for Interactive Exploration of DTI Fibers.</title>
+      <link>/publications/dti/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volume Illustration of Muscle from Diffusion Tensor Images.</title>
+      <link>/publications/vimdti/</link>
+      <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
+      
+      <guid>/publications/vimdti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Accelerated Adaptive EWA Volume Splatting</title>
+      <link>/publications/hardware/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/hardware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liu Ren on ZJU VAG</title>
+    <link>/authors/liu-ren/</link>
+    <description>Recent content in Liu Ren on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/liu-ren/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories</title>
+      <link>/publications/vidx/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/vidx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Accelerated Adaptive EWA Volume Splatting</title>
+      <link>/publications/hardware/</link>
+      <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/hardware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

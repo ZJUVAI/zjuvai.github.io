@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huamin Qu on ZJU VAG</title>
+    <link>/authors/huamin-qu/</link>
+    <description>Recent content in Huamin Qu on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="/authors/huamin-qu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
+      <link>/publications/perception-based/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/perception-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RankExplorer: Visualization of Ranking Changes in Large Time Series Data.</title>
+      <link>/publications/rankexplorer/</link>
+      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
+      
+      <guid>/publications/rankexplorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
+      <link>/publications/tcptree/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/tcptree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration</title>
+      <link>/publications/uncertainty/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
+      <link>/publications/boundaryseer/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/boundaryseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Interface for Interactive Exploration of DTI Fibers.</title>
+      <link>/publications/dti/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

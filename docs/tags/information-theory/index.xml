@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Theory on ZJU VAG</title>
+    <link>/tags/information-theory/</link>
+    <description>Recent content in Information Theory on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Apr 2018 15:46:02 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/information-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visual Exploration of Air Quality Data with A Time-Correlation Partitioning Tree Based on Information Theory.</title>
+      <link>/publications/tcptree/</link>
+      <pubDate>Fri, 20 Apr 2018 15:46:02 +0800</pubDate>
+      
+      <guid>/publications/tcptree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

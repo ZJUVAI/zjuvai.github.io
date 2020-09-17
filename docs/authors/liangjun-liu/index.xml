@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liangjun Liu on ZJU VAG</title>
+    <link>/authors/liangjun-liu/</link>
+    <description>Recent content in Liangjun Liu on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/liangjun-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction</title>
+      <link>/publications/drgraph/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/drgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
+      <link>/publications/location2vec/</link>
+      <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
+      
+      <guid>/publications/location2vec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

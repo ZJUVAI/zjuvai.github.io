@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuyue Zhou on ZJU VAG</title>
+    <link>/authors/shuyue-zhou/</link>
+    <description>Recent content in Shuyue Zhou on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/shuyue-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>
+      <link>/publications/exemplar-based-fine-tuning/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/exemplar-based-fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</title>
+      <link>/publications/rsa-tree/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/rsa-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Perceptual Bias During Geometric Scaling of Scatterplots</title>
+      <link>/publications/evaluating-scatterplots/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/evaluating-scatterplots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
