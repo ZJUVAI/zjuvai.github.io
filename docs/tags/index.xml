@@ -6,10 +6,19 @@
     <description>Recent content in Tags on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 13:15:20 -0600</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VIS2020</title>
+      <link>/tags/vis2020/</link>
+      <pubDate>Tue, 27 Oct 2020 13:15:20 -0600</pubDate>
+      
+      <guid>/tags/vis2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Analysis, Reasoning, Problem Solving, and Decision Making</title>

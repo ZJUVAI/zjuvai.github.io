@@ -1,9 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/members/</loc>
+  </url>
+  
+  <url>
+    <loc>/talks/2020vis-minfeng/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vis2020/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2020vis-xumeng/</loc>
+    <lastmod>2020-10-27T13:00:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2020vis-jiacheng/</loc>
+    <lastmod>2020-10-26T08:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -122,11 +157,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/temporal-data/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -187,11 +217,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publications/eemefn/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -204,11 +229,6 @@
   <url>
     <loc>/authors/yi-yang/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talks/</loc>
-    <lastmod>2019-10-25T09:30:20+08:00</lastmod>
   </url>
   
   <url>
