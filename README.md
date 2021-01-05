@@ -12,6 +12,8 @@
 
 主页基于 Academic 的 hugo 主题，但是已经对其进行了大量的修改，所以有不太一致的地方。
 
+每次更新完，请前往 gitee，以同步 github。
+
 ## 如何在本地初始化？
 
 现在，有两个分支：master 分支和 content 分支；因为 github 要求 github.io 的托管页面，只能托管在名为 user-name.github.io 这个 repo 的 master 分支上；所以现在，master 分支上托管了生成好的页面，content 分支上托管了内容。<br />

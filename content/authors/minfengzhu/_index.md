@@ -2,7 +2,7 @@
 # Display name
 name: Minfeng Zhu
 
-index: 30
+index: 140
 
 # Username (this should match the folder name)
 authors:
@@ -19,5 +19,5 @@ interests:
   - Machine Learning
 
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---

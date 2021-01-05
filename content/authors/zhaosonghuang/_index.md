@@ -2,7 +2,7 @@
 # Display name
 name: Zhaosong Huang
 
-index: 10
+index: 140
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,6 @@ interests:
   - Visualization and Visual
   - Analytics of Urban Data
 
-
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
