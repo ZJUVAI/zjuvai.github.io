@@ -7,6 +7,16 @@
   </url>
   
   <url>
+    <loc>/authors/minfengzhu/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/2020vis-minfeng/</loc>
     <lastmod>2020-10-27T13:15:20-06:00</lastmod>
   </url>
@@ -37,6 +47,11 @@
   </url>
   
   <url>
+    <loc>/authors/jiachengpan/</loc>
+    <lastmod>2020-10-26T08:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/2020vis-jiacheng/</loc>
     <lastmod>2020-10-26T08:00:00+08:00</lastmod>
   </url>
@@ -48,11 +63,6 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -232,6 +242,11 @@
   </url>
   
   <url>
+    <loc>/authors/zhaosonghuang/</loc>
+    <lastmod>2019-10-25T09:30:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/vis2019/</loc>
     <lastmod>2019-10-25T09:30:20+08:00</lastmod>
   </url>
@@ -244,6 +259,11 @@
   <url>
     <loc>/talks/2019vis-zhaosong-2/</loc>
     <lastmod>2019-10-24T15:35:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yatingwei/</loc>
+    <lastmod>2019-10-22T17:10:20+08:00</lastmod>
   </url>
   
   <url>
@@ -737,6 +757,11 @@
   </url>
   
   <url>
+    <loc>/authors/xumengwang/</loc>
+    <lastmod>2018-10-25T09:36:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/vis2018/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
   </url>
@@ -744,6 +769,11 @@
   <url>
     <loc>/talks/2018vis-xumeng/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dongminghan/</loc>
+    <lastmod>2018-10-24T11:43:20+08:00</lastmod>
   </url>
   
   <url>
@@ -2305,10 +2335,6 @@
   </url>
   
   <url>
-    <loc>/authors/dongminghan/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/fangzhouguo/</loc>
   </url>
   
@@ -2350,10 +2376,6 @@
   
   <url>
     <loc>/authors/huiye/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/jiachengpan/</loc>
   </url>
   
   <url>
@@ -2418,10 +2440,6 @@
   
   <url>
     <loc>/authors/miaojunyao/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/minfengzhu/</loc>
   </url>
   
   <url>
@@ -2513,15 +2531,7 @@
   </url>
   
   <url>
-    <loc>/authors/xumengwang/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/yankongzhang/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/yatingwei/</loc>
   </url>
   
   <url>
@@ -2582,10 +2592,6 @@
   
   <url>
     <loc>/authors/zexianchen/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/zhaosonghuang/</loc>
   </url>
   
   <url>

@@ -6,9 +6,19 @@
     <description>Recent content on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2019 17:10:20 +0800</lastBuildDate>
     
 	    <atom:link href="/authors/yatingwei/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yating Wei presenting Evaluating Perceptual Bias During Geometric Scaling of Scatterplots at IEEE VAST 2019</title>
+      <link>/talks/2019vis-yating/</link>
+      <pubDate>Tue, 22 Oct 2019 17:10:20 +0800</pubDate>
+      
+      <guid>/talks/2019vis-yating/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
