@@ -2,7 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "IEEE Pacific Visualization"
-summary: "[**IEEE PacificVis papers on the web**](http://www.cad.zju.edu.cn/home/vagblog/pvispapers.html) maintained by Jiadong Huang from Visual Analytics Group, State Key Laboratory of CAD&CG, Zhejiang University, P.R.China. *This page includes collections of IEEE Pacific Visualization.*"
+summary: "This collection includes IEEE Pacific Visualization from 2013.
+
+<div class='btn-links'>
+<a class='btn btn-outline-danger my-1 mr-1 btn-sm' href='http://vis.tju.edu.cn/pvis2020/'> PVis2020 </a>
+<a class='btn btn-outline-primary my-1 mr-1 btn-sm' href='http://www.cad.zju.edu.cn/home/vagblog/pvispapers.html'>PVis2019 and before </a>
+</div>"
 abstract: ""
 
 # Is this a featured talk? (true/false)
@@ -10,7 +15,7 @@ featured: false
 
 index: 30
 
-link: http://www.cad.zju.edu.cn/home/vagblog/pvispapers.html
+link: 
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

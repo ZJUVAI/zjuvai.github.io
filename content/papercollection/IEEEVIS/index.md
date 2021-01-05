@@ -2,7 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "IEEE VIS (VAST, InfoVis and SciVis)"
-summary: "[**IEEE VIS papers on the web**](http://www.cad.zju.edu.cn/home/vagblog/vispapers.html) maintained by Jiadong Huang from Visual Analytics Group, State Key Laboratory of CAD&CG, Zhejiang University, P.R.China.This page includes collections of IEEE VIS and IEEE Visualization from 2003 and references of other paper collection maintainers."
+summary: "This collection includes IEEE VIS and IEEE Visualization from 2003 and references of other paper collection maintainers: 
+<div class='btn-links'>
+<a class='btn btn-outline-primary my-1 mr-1 btn-sm' href='http://vis2020.mirrors.zjvis.org/'> VIS2020 </a>
+<a class='btn btn-outline-primary my-1 mr-1 btn-sm' href='http://www.cad.zju.edu.cn/home/vagblog/vispapers.html'>VIS2019 and before </a>
+</div>
+"
 abstract: ""
 
 # Is this a featured talk? (true/false)
@@ -10,7 +15,7 @@ featured: false
 
 index: 10
 
-link: http://www.cad.zju.edu.cn/home/vagblog/vispapers.html
+link:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
