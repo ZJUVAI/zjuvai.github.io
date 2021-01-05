@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dongming Han and Jiacheng Pan presenting Structure-Based Suggestive Exploration at IEEE VAST 2018"
+title: "Dongming Han and Jiacheng Pan presenting Structure-Based Suggestive Exploration at IEEE InfoVis 2018"
 event: IEEE VIS 2018
 event_url:
 location: Berlin, Germany
