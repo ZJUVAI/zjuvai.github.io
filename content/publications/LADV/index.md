@@ -51,7 +51,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-  - https://ieeexplore.ieee.org/abstract/document/9035622
+  - https://jackie-files.oss-cn-hangzhou.aliyuncs.com/20210303/ladv_107.pdf
 url_code:
 url_dataset:
 url_poster:
