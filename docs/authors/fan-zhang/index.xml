@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fan Zhang on ZJU VAG</title>
+    <link>/authors/fan-zhang/</link>
+    <description>Recent content in Fan Zhang on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/fan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LADV: Deep Learning Assisted Authoring of Dashboard Visualizations from Images and Sketches</title>
+      <link>/publications/ladv/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/ladv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
