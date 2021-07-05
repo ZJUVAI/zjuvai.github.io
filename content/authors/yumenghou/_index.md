@@ -2,7 +2,7 @@
 # Display name
 name: Yumeng Hou
 
-index: 140
+index: 120
 
 # Username (this should match the folder name)
 authors:

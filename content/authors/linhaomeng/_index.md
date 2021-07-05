@@ -2,7 +2,7 @@
 # Display name
 name: Linhao Meng
 
-index: 230
+index: 215
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,6 @@ superuser: true
 personal_url: ""
 
 interests:
-  - Information Visualization
-  - Visual Analytics
 
 user_groups:
   - Alumni

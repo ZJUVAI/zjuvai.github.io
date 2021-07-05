@@ -2,7 +2,7 @@
 # Display name
 name: Tianyi Lao
 
-index: 150
+index: 160
 
 # Username (this should match the folder name)
 authors:

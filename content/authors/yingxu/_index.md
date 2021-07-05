@@ -2,7 +2,7 @@
 # Display name
 name: Ying Xu
 
-index: 240
+index: 215
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,6 @@ superuser: true
 personal_url: ""
 
 interests:
-  - Information Visualization
-  - Visual Analytics
 
 user_groups:
   - Alumni

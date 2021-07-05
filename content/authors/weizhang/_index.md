@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Yankong Zhang
+name: Wei Zhang
 
-index: 370
+index: 170
 
 # Username (this should match the folder name)
 authors:
-  - yankongzhang
+  - weizhang
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,7 +17,6 @@ interests:
   - Information Visualization
   - Visual Analytics
 
-
 user_groups:
-  - Visiting Scholars
+  - Ph.D. Students
 ---

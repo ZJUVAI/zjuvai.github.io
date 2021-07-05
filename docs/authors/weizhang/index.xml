@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZJU VAI</title>
-    <link>/authors/yankongzhang/</link>
+    <link>/authors/weizhang/</link>
     <description>Recent content on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/authors/yankongzhang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/weizhang/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

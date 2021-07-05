@@ -49,7 +49,8 @@
       <h2 class="{{ $user_group_neat }}"><a href="{{$url}}">{{ .Params.name }}</a>
       </h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
-      {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}
+      <!-- {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }} -->
+      <br />
     </div>
   </div>
 

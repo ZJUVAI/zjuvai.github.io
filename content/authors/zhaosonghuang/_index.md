@@ -2,7 +2,7 @@
 # Display name
 name: Zhaosong Huang
 
-index: 140
+index: 220
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,6 @@ superuser: true
 personal_url: "https://zhaosongh.github.io/"
 
 interests:
-  - Visualization and Visual
-  - Analytics of Urban Data
 
 user_groups:
   - Alumni

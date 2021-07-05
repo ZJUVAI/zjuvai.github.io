@@ -2,7 +2,7 @@
 # Display name
 name: Junhua Lu
 
-index: 20
+index: 220
 
 # Username (this should match the folder name)
 authors:
@@ -14,10 +14,7 @@ superuser: true
 personal_url: "https://akiori.github.io/"
 
 interests:
-  - Information Visualization
-  - Visual Analytics
-  - Data Mining
 
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
