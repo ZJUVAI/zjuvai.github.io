@@ -1,6 +1,6 @@
 ---
 # Display name
-name: ZJU VAG
+name: ZJU VAI
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visual Analytics Group
+role: Visual Analytics and Intelligence Group
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,6 @@ user_groups:
   - Visitors
 ---
 
-The Visual Analytics Group of the State Key lab of CAD&CG, Zhejiang University was established in September 2008. The academic leader is Professor [Chen Wei](http://www.cad.zju.edu.cn/home/chenwei/) (Weibo: [浙大陈为](https://weibo.com/shearwarp)).
+The Visual Analytics and Intelligence Group of the State Key lab of CAD&CG, Zhejiang University was established in September 2008. The academic leader is Professor [Chen Wei](http://www.cad.zju.edu.cn/home/chenwei/) (Weibo: [浙大陈为](https://weibo.com/shearwarp)).
 
 Our group focuses on the research of **VISUALIZATION** and **VISUAL ANALYTICS**. The research direction mainly includes: data science, visualization of complex data, basic theory and method of visual analysis, and domain-oriented visual analysis prototype system. Our group members have published more than 20 papers on IEEE VIS and IEEE/ACM articles, including the first three papers published by the Chinese mainland at this conference (2004, 2009). The team works extensively with universities and research institutions at home and abroad, including Purdue University, Hong Kong University of Science and Technology, University of California, Davis, North Carolina, Mississippi State University, Bosch North American Institute, Microsoft Research Asia, National Meteorological Administration. , Ali Group and so on. The world's first non-photorealistic 3D GPS navigation system, developed by our group's five members at the Bosch North American Institute, has entered the global automotive market. Our group has developed a data visualization component library, DataV, together with the data product division of Ali Group. It has now been widely used within the Ali Group. The global scale 3D numerical atmospheric visual analysis system developed by our group has been well received by the National Meteorological Administration.
