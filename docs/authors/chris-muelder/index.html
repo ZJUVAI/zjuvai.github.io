@@ -50,9 +50,9 @@
   
   
   
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="/static/resources/academicons/1.9.0/css/academicons.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="/static/resources/font-awesome/5.14.0/css/all.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="/static/resources/fancybox/3.5.7/jquery.fancybox.min.css" integrity="" crossorigin="anonymous">
 
   
   
@@ -63,8 +63,8 @@
   
   
   
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/default.min.css%!(EXTRA string=github)" crossorigin="anonymous" title="hl-light">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/default.min.css%!(EXTRA string=dracula)" crossorigin="anonymous" title="hl-dark" disabled>
+  <link rel="stylesheet" href="/static/resources/highlight.js/10.1.2/styles/default.min.css" crossorigin="anonymous" title="hl-light">
+  <link rel="stylesheet" href="/static/resources/highlight.js/10.1.2/styles/default.min.css" crossorigin="anonymous" title="hl-dark" disabled>
   
   
   
@@ -619,16 +619,16 @@
     
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/jquery/3.5.1/jquery.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/fancybox/3.5.7/jquery.fancybox.min.js" integrity="" crossorigin="anonymous"></script>
 
     
 
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/highlight.js/10.1.2/highlight.min.js" integrity="" crossorigin="anonymous"></script>
     
     
 
@@ -654,51 +654,18 @@
     
     
     <script>
-      const search_index_filename = {
-        {
-          "/index.json" | relLangURL
-        }
-      };
+      const search_index_filename = "/index.json";
       const i18n = {
-        'placeholder': {
-          {
-            i18n "search_placeholder"
-          }
-        },
-        'results': {
-          {
-            i18n "search_results"
-          }
-        },
-        'no_results': {
-          {
-            i18n "search_no_results"
-          }
-        }
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
       };
       const content_type = {
-        'post': {
-          {
-            i18n "posts"
-          }
-        },
-        'project': {
-          {
-            i18n "projects"
-          }
-        },
-        'publication': {
-          {
-            i18n "publications"
-          }
-        },
-        'talk': {
-          {
-            i18n "talks"
-          }
-        }
-      };
-
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
     </script>
     
 
@@ -722,8 +689,8 @@
 
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.6.1/fuse.min.js" integrity="" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/fuse.js/3.6.1/fuse.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/static/resources/mark.js/8.11.1/mark.min.js" integrity="" crossorigin="anonymous"></script>
     
 
     

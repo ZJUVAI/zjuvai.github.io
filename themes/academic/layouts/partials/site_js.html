@@ -61,51 +61,18 @@
     {{ if ne site.Params.search.engine 0 }}
     {{/* Configure search engine. */}}
     <script>
-      const search_index_filename = {
-        {
-          "/index.json" | relLangURL
-        }
-      };
+      const search_index_filename = {{ "/index.json" | relLangURL }};
       const i18n = {
-        'placeholder': {
-          {
-            i18n "search_placeholder"
-          }
-        },
-        'results': {
-          {
-            i18n "search_results"
-          }
-        },
-        'no_results': {
-          {
-            i18n "search_no_results"
-          }
-        }
+        'placeholder': {{ i18n "search_placeholder" }},
+        'results': {{ i18n "search_results" }},
+        'no_results': {{ i18n "search_no_results" }}
       };
       const content_type = {
-        'post': {
-          {
-            i18n "posts"
-          }
-        },
-        'project': {
-          {
-            i18n "projects"
-          }
-        },
-        'publication': {
-          {
-            i18n "publications"
-          }
-        },
-        'talk': {
-          {
-            i18n "talks"
-          }
-        }
-      };
-
+        'post': {{ i18n "posts" }},
+        'project': {{ i18n "projects" }},
+        'publication' : {{ i18n "publications" }},
+        'talk' : {{ i18n "talks" }}
+        };
     </script>
     {{ end }}
 
@@ -159,30 +126,10 @@
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.instantsearch.url $js.instantsearch.version) $js.instantsearch.sri | safeHTML }}
     {{ end }}
     <script>
-      const algoliaConfig = {
-        appId: {
-          {
-            site.Params.search.algolia.app_id
-          }
-        },
-        apiKey: {
-          {
-            site.Params.search.algolia.api_key
-          }
-        },
-        indexName: {
-          {
-            site.Params.search.algolia.index_name
-          }
-        },
-        poweredBy: {
-          {
-            site.Params.search.algolia.show_logo |
-              default false
-          }
-        }
-      };
-
+      appId: {{ site.Params.search.algolia.app_id }},
+        apiKey: {{ site.Params.search.algolia.api_key }},
+        indexName: {{ site.Params.search.algolia.index_name }},
+        poweredBy: {{ site.Params.search.algolia.show_logo | default false }}
     </script>
     {{ end }}
 

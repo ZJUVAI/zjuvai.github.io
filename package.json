@@ -8,8 +8,8 @@
   },
   "scripts": {
     "start": "hugo server",
-    "build": "hugo",
-    "deploy": "hugo && git add . && git commit -m 'generated' && git push origin master"
+    "build": "hugo --cleanDestinationDir && echo zjuvag.org > docs/CNAME && cp -fr static docs/static",
+    "deploy": "npm run build && git add . && git commit -m 'generated' && git push origin master"
   },
   "repository": {
     "type": "git",
