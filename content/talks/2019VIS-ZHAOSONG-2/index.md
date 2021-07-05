@@ -1,7 +1,7 @@
 ﻿---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Zhaosong Huang presenting TVCG Paper “Exploring the Sensitivity of Choropleths under Attribute Uncertainty.” at IEEE VAST 2019"
+title: "Zhaosong Huang presenting TVCG Paper “Exploring the Sensitivity of Choropleths under Attribute Uncertainty” at IEEE VAST 2019"
 event: IEEE VIS 2019
 event_url:
 location: Vancouver, Canada
@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-10-01T20:05:20+08:00
 
-authors: []
+authors: ["zhaosonghuang"]
 tags: ["VIS2019"]
 
 # Is this a featured talk? (true/false)

@@ -57,6 +57,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
+  - http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2021/1/5/86fdcd3513d0fd6d40875061bf713d094667c7df.mp4
 url_supp:
 
 # Featured image

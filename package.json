@@ -7,6 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
+    "start": "hugo server",
+    "build": "hugo",
     "deploy": "hugo && git add . && git commit -m 'generated' && git push origin master"
   },
   "repository": {

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VIS2020 on ZJU VAG</title>
+    <link>/tags/vis2020/</link>
+    <description>Recent content in VIS2020 on ZJU VAG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Oct 2020 13:15:20 -0600</lastBuildDate>
+    
+	    <atom:link href="/tags/vis2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minfeng Zhu presenting TVCG Paper “DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction” at IEEE InfoVis 2020</title>
+      <link>/talks/2020vis-minfeng/</link>
+      <pubDate>Tue, 27 Oct 2020 13:15:20 -0600</pubDate>
+      
+      <guid>/talks/2020vis-minfeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xumeng Wang presenting VAST Paper “ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data” at IEEE VAST 2020</title>
+      <link>/talks/2020vis-xumeng/</link>
+      <pubDate>Tue, 27 Oct 2020 13:00:20 -0600</pubDate>
+      
+      <guid>/talks/2020vis-xumeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiacheng Pan presenting TVCG Paper “Exemplar-based Layout Fine-tuning for Node-link Diagrams” at IEEE InfoVis 2020</title>
+      <link>/talks/2020vis-jiacheng/</link>
+      <pubDate>Mon, 26 Oct 2020 08:00:00 +0800</pubDate>
+      
+      <guid>/talks/2020vis-jiacheng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

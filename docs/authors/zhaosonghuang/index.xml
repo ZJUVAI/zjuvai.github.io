@@ -6,9 +6,28 @@
     <description>Recent content on ZJU VAG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 09:30:20 +0800</lastBuildDate>
     
 	    <atom:link href="/authors/zhaosonghuang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zhaosong Huang presenting VAST TVCG Paper “A Natural-language-based Visual Query Approach of Uncertain Human Trajectories” at IEEE VAST 2019</title>
+      <link>/talks/2019vis-zhaosong-1/</link>
+      <pubDate>Fri, 25 Oct 2019 09:30:20 +0800</pubDate>
+      
+      <guid>/talks/2019vis-zhaosong-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaosong Huang presenting TVCG Paper “Exploring the Sensitivity of Choropleths under Attribute Uncertainty” at IEEE VAST 2019</title>
+      <link>/talks/2019vis-zhaosong-2/</link>
+      <pubDate>Thu, 24 Oct 2019 15:35:20 +0800</pubDate>
+      
+      <guid>/talks/2019vis-zhaosong-2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

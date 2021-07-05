@@ -7,17 +7,62 @@
   </url>
   
   <url>
+    <loc>/authors/minfengzhu/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2020vis-minfeng/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vis2020/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-27T13:15:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2020vis-xumeng/</loc>
+    <lastmod>2020-10-27T13:00:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jiachengpan/</loc>
+    <lastmod>2020-10-26T08:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2020vis-jiacheng/</loc>
+    <lastmod>2020-10-26T08:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -122,11 +167,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/temporal-data/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -187,8 +227,68 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>/authors/changye-xin/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dashboard-visualization/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning-based/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fan-zhang/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/honghui-mei/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/huihua-guan/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/ladv/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ruixian-ma/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stylization/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/visual-design/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wei-huang/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wenzhuo-dai/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiao-wen/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -207,7 +307,7 @@
   </url>
   
   <url>
-    <loc>/talks/</loc>
+    <loc>/authors/zhaosonghuang/</loc>
     <lastmod>2019-10-25T09:30:20+08:00</lastmod>
   </url>
   
@@ -227,6 +327,11 @@
   </url>
   
   <url>
+    <loc>/authors/yatingwei/</loc>
+    <lastmod>2019-10-22T17:10:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/2019vis-yating/</loc>
     <lastmod>2019-10-22T17:10:20+08:00</lastmod>
   </url>
@@ -243,11 +348,6 @@
   
   <url>
     <loc>/tags/hashing/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/honghui-mei/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -642,11 +742,6 @@
   </url>
   
   <url>
-    <loc>/authors/huihua-guan/</loc>
-    <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/spatio-temporal/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
   </url>
@@ -717,6 +812,11 @@
   </url>
   
   <url>
+    <loc>/authors/xumengwang/</loc>
+    <lastmod>2018-10-25T09:36:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/vis2018/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
   </url>
@@ -724,6 +824,11 @@
   <url>
     <loc>/talks/2018vis-xumeng/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dongminghan/</loc>
+    <lastmod>2018-10-24T11:43:20+08:00</lastmod>
   </url>
   
   <url>
@@ -1283,11 +1388,6 @@
   
   <url>
     <loc>/tags/unsteady-flows/</loc>
-    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/visual-design/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url>
   
@@ -2285,10 +2385,6 @@
   </url>
   
   <url>
-    <loc>/authors/dongminghan/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/fangzhouguo/</loc>
   </url>
   
@@ -2330,10 +2426,6 @@
   
   <url>
     <loc>/authors/huiye/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/jiachengpan/</loc>
   </url>
   
   <url>
@@ -2398,10 +2490,6 @@
   
   <url>
     <loc>/authors/miaojunyao/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/minfengzhu/</loc>
   </url>
   
   <url>
@@ -2493,15 +2581,7 @@
   </url>
   
   <url>
-    <loc>/authors/xumengwang/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/yankongzhang/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/yatingwei/</loc>
   </url>
   
   <url>
@@ -2562,10 +2642,6 @@
   
   <url>
     <loc>/authors/zexianchen/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/zhaosonghuang/</loc>
   </url>
   
   <url>
