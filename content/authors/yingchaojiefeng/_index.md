@@ -2,7 +2,7 @@
 # Display name
 name: Yingchaojie Feng
 
-index: 370
+index: 170
 
 # Username (this should match the folder name)
 authors:
@@ -18,5 +18,5 @@ interests:
   - Visual Analytics
 
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---

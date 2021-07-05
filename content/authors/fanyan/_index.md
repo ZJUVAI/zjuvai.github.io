@@ -2,7 +2,7 @@
 # Display name
 name: Fan Yan
 
-index: 330
+index: 160
 
 # Username (this should match the folder name)
 authors:
@@ -18,5 +18,5 @@ interests:
   - Visual Analytics
 
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---

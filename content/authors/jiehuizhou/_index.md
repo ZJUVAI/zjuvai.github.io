@@ -2,7 +2,7 @@
 # Display name
 name: Jiehui Zhou
 
-index: 350
+index: 170
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,6 @@ interests:
   - Information Visualization
   - Visual Analytics
 
-
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---
