@@ -2,7 +2,7 @@
 # Display name
 name: Kejie Yu
 
-index: 290
+index: 240
 
 # Username (this should match the folder name)
 authors:
@@ -19,5 +19,5 @@ interests:
 
 
 user_groups:
-  - Master Students
+  - Alumni
 ---

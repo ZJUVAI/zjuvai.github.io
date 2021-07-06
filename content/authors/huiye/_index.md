@@ -2,7 +2,7 @@
 # Display name
 name: Hui Ye
 
-index: 270
+index: 240
 
 # Username (this should match the folder name)
 authors:
@@ -18,5 +18,5 @@ interests:
   - Visual Analytics
 
 user_groups:
-  - Master Students
+  - Alumni
 ---
