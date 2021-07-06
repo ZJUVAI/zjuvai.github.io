@@ -11,7 +11,7 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-personal_url: "https://www.jarvis73.cn"
+personal_url: " https://www.jarvis73.com"
 
 interests:
   - Biomedical Image Computing

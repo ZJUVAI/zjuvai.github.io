@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianye Zhang on ZJU VAI</title>
+    <link>/authors/tianye-zhang/</link>
+    <description>Recent content in Tianye Zhang on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/tianye-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations</title>
+      <link>/publications/shot-vae/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/shot-vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation</title>
+      <link>/publications/kd3a/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/kd3a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
