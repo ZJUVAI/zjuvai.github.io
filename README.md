@@ -20,7 +20,7 @@
 
 1. 你需要有一个 github 账户，并且需要成为 ZJUVAG 组织的成员；
 2. clone 该项目：`git clone git@github.com:ZJUVAG/zjuvag.github.io.git`
-3. 到此为止，你已经把资源文件都下载下来了；但是你可能还需要安装 hugo-extended（也许没有必要，先测试一下 `hugo`  能否成功）；
+3. 到此为止，你已经把资源文件都下载下来了；但是你可能还需要安装 hugo-extended；
    1. 在 github 的 release 页面，找到最新的 hugo_extended 版本：[https://github.com/gohugoio/hugo/releases/](https://github.com/gohugoio/hugo/releases/)，一般而言，它的名字都是 hugo_extended_version_OS-bits.zip
    2. 解压后，放在某个目录下，然后将该目录添加到你的环境变量中，启动行命令测试一下是否添加成功。
 

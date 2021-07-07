@@ -11,7 +11,7 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-personal_url: ""
+personal_url: "jadeone.net"
 
 interests:
   - Computer Vision

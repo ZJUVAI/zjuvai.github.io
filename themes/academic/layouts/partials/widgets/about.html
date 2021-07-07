@@ -50,6 +50,15 @@
           {{ end }}
         </div>
 
+        
+        {{ if $person.personal_url}}
+          <div   class="col-md-12">
+            <div class="btn btn-outline-primary">
+              <a class="personal-page" href="{{$person.personal_url}}"> Personal Homepage </a>
+            </div>
+          </div>
+        {{ end }}
+
         <link itemprop="url" href="{{ .Permalink }}">
 
         <ul class="network-icon" aria-hidden="true">

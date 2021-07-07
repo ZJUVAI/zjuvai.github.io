@@ -1,2766 +1,1632 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/members/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/1/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/graph-layout/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/graph-visualization/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/haozhe-feng/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kezhi-kong/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/minfeng-zhu/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/minghao-chen/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/node-link-diagram/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/shot-vae/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianye-zhang/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/user-interactions/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wei-chen/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/chao-wu/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/domain-adaptation/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/federated-learning/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fei-wu/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/kd3a/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhaoyang-you/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/minfengzhu/</loc>
     <lastmod>2020-10-27T13:15:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2020vis-minfeng/</loc>
     <lastmod>2020-10-27T13:15:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/</loc>
     <lastmod>2020-10-27T13:15:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/vis2020/</loc>
     <lastmod>2020-10-27T13:15:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2020vis-xumeng/</loc>
     <lastmod>2020-10-27T13:00:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiachengpan/</loc>
     <lastmod>2020-10-26T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2020vis-jiacheng/</loc>
     <lastmod>2020-10-26T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/conceptexplorer/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/data-analysis-reasoning-problem-solving-and-decision-making/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dongshi-xu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/drgraph/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/exemplar-based-fine-tuning/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiacheng-pan/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jian-chen/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiazhi-xia/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kaiyuan-zhang/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/liangjun-liu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/machine-learning-techniques/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/mingliang-xu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shuyue-zhou/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/siwei-fu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/temporal-data/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tobias-schreck/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wei-zeng/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiangyang-wu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaodong-zhao/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xumeng-wang/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yingcai-wu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuanzhe-hu/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuxuan-hou/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zexian-chen/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/changye-xin/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/dashboard-visualization/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/deep-learning-based/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fan-zhang/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/honghui-mei/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/huihua-guan/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/ladv/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ruixian-ma/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/stylization/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-design/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wei-huang/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wenzhuo-dai/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiao-wen/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/eemefn/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/pingbo-pan/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yi-yang/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhaosonghuang/</loc>
     <lastmod>2019-10-25T09:30:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/vis2019/</loc>
     <lastmod>2019-10-25T09:30:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2019vis-zhaosong-1/</loc>
     <lastmod>2019-10-25T09:30:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2019vis-zhaosong-2/</loc>
     <lastmod>2019-10-24T15:35:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yatingwei/</loc>
     <lastmod>2019-10-22T17:10:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2019vis-yating/</loc>
     <lastmod>2019-10-22T17:10:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/aggregate-query/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/bingru-lin/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/hashing/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/large-scale-data-visualization/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/r-tree/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/rsa-tree/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/summed-area-table/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-query/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yating-wei/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ying-zhao/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/nlp-urban/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/bias/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/evaluating-scatterplots/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/evaluation/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fangfang-zhou/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/geometric-scaling/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hairong-wang/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/haojing-jiang/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jinsong-wang/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kejie-yu/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/mingjie-tang/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/natural-language-based-visual-query/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/perceptual-consistency/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/radio-monitoring-and-management/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/radio-signal-data/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/radio-spectrum-data/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/scatterplot/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shengjie-gao/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/situation-awareness/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/spatial-uncertaity/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/trajectory-exploration/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-analytics/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/radiovis/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/weixia-xu/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaobo-luo/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaoru-lin/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaoyan-kui/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ye-zhao/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yi-chen/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhaosong-huang/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/dmgan/</loc>
     <lastmod>2019-04-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/generative-adversarial-networks/</loc>
     <lastmod>2019-04-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/text-to-image-synthesis/</loc>
     <lastmod>2019-04-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/human-mobility/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/location2vec/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/spatio-temporal-data/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/urban-computing/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-exploration/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/word-embedding/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yankong-zhang/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuetong-luo/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuxin-ma/</loc>
     <lastmod>2019-03-11T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/david-sheets/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/farah-kamw/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/geo-visualization/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jing-yang/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shamal-al-dohuki/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/thomas-eynon/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/urban-accessibility/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/accessibility_modeling/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/urban-trajectories/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xinyue-ye/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/choropleth/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/elizabeth-mack/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/geouncertainty/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/geospatial-analysis/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ross-maciejewski/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/uncertainty/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visualization/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yafeng-lu/</loc>
     <lastmod>2019-01-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/data-cube/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/gennady-andrienko/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/interactive-exploration/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jie-li/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/natalia-andrienko/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/semantic-visualization/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/semantics_cube/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/siming-chen/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/spatiotemporal-visualization/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/feiran-wu/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/heterogeneous/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/spatio-temporal/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/urban-data/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/vaud/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-analysis/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-reasoning/</loc>
     <lastmod>2018-11-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/user-study/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/geo-based-context/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jinhui-yu/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/location-privacy/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/periodic-trajectory/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianlong-gu/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianyi-lao/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wenlong-chen/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiwen-cai/</loc>
     <lastmod>2018-10-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xumengwang/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/vis2018/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2018vis-xumeng/</loc>
     <lastmod>2018-10-25T09:36:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dongminghan/</loc>
     <lastmod>2018-10-24T11:43:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talks/2018vis-han-pan/</loc>
     <lastmod>2018-10-24T11:43:20+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/anthony-k.-h.-tung/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/scatternet/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/similarity-measuring/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wei-wang/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiang-gao/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhigeng-pan/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/cluster-based/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/data-abstraction/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/glyph-visualization/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hongsen-liao/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/li-chen/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/multilabel-optimization/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/cheng-tang/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/chris-bryan/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/clustering-algorithms/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/clutter/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/correlation/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/data-visualization/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/encoding/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/fuzzyclustering/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/feng-luo/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/graph-privacy/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/graphprotector/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jia-kai-chou/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/k-anonymity/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kwan-liu-ma/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/linhao-meng/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/miaoxin-hu/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/minghui-chen/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/mobile-handsets/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/principal-component-analysis/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/privacy-preservation/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/rusheng-pan/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/semantics/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/structural-features/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/task-analysis/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/odflow/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yingchao-wang/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yunhai-wang/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhiguang-zhou/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhiyong-guo/</loc>
     <lastmod>2018-08-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dazhen-deng/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dongming-han/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/embedding/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/exploration/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fangzhou-guo/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/formation-analysis/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/forvizor/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/graph/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hongye-liang/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hui-zhang/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiachen-wang/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/navigation/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/network/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/search/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shoubin-cheng/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/soccer-data/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/spatio-temporal-visualization/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/structure/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/structure-based/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiao-xie/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaolong-zhang/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaotao-nie/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/liang-chang/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/mobility/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/mobility-patterns/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/mobility-transition/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/amtg/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/timeline/</loc>
     <lastmod>2018-08-02T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/dichromats/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/conglei-shi/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/deqing-li/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/dichromacy/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/direct-volume-rendering/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/echarts/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/gaussianmixture/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/flow-visualization/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/gaussian-mixture-model/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/guihua-shan/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/guoning-chen/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/huamin-qu/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hujun-bao/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ibfv/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/image-enhancement/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/image-recoloring/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/lic/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/information-visualization/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/interaction-techniques/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jian-zhang/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jin-huang/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/junting-wang/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jwai-ho-mak/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/layer-perception/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/lic/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ming-zu/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ming-yuen-chan/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/mipmap/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/panpan-xu/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/perception-based/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/rankexplorer/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ranking-change/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shixia-liu/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shuang-su/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/surface-flows/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/temporal-coherence/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/themeriver/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/time-series-data/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/time-varying-data/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tingxing-dong/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/unsteady-flows/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/volume-classification/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/volume-rendering/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/web-based/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/weifeng-chen/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/weiwei-cui/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wenli-zhang/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xuebin-chi/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yi-shen/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zherong-pan/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/feiranwu/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/information-theory/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/lei-shi/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/multivariate-time-series/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/qi-wang/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/sensor/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/transfer-entropy/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/tcptree/</loc>
     <lastmod>2018-04-20T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/egocentric-relations/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/heterogeneous-urban-data/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jing-xia/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jun-chen/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/location-based/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/relationlines/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yi-wang/</loc>
     <lastmod>2018-03-01T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/anthony-k.h.-tung/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fenjin-ye/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/high-dimensional-data/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/ldsscanner/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/low-dimensional-structure/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/manifold/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/subspace/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yusi-wang/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/utilityaware/</loc>
     <lastmod>2017-08-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/differential-privacy/</loc>
     <lastmod>2017-08-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/privacy-preservating-visualization/</loc>
     <lastmod>2017-08-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/syntactic-anonymity/</loc>
     <lastmod>2017-08-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianyi-lao-kwan-liu-ma/</loc>
     <lastmod>2017-08-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/utility-aware-anonymization/</loc>
     <lastmod>2017-08-29T15:46:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/populationmobilitypatterns/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/cell-phone-data/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fei-wang/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/graphical-user-interfaces/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/interactive-systems/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/population-mobility-pattern/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/siyuan-gao/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianyu-gu/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/mobilityandtransportation/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/david-s.ebert/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/dimscanner/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wanqi-hu/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xinxin-huang/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yumeng-hou/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/cheryl-qian/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/computer-graphics/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/david-s.-ebert/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/page-link/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/page-view/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/rank-time-series/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/victor-chen/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/connected-industry/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/industry-4.0/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/liu-ren/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/manufacturing/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/mareys-graph/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/smart-factory/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/vidx/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/biao-zhu/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/game/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/gameflow/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/trajectory/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/video/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/chao-ma/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/question/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/semantic/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/semantictraj/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/taxi/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/transportation/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/urban/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xin-li/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yingyu-wu/</loc>
     <lastmod>2016-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/chris-muelder/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/cloud-computing/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hongxin-zhang/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/multidimensional-data/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/performance-visualization/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/visual-analysis-of-cloud-computing-performance-using-behavioral-lines/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/big-data/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/big-data-in-social-transportation/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/crowdsourcing/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/data-analytics/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dayong-shen/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/intelligent-transportation-system/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/liuqin-yang/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/pu-wang/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/qingpeng-zhang/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/social-transportation/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/songhang-chen/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiao-wang/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xinhu-zheng/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/analog-method/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/calibration/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/huizhang/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/majority-voting/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/weather-forecast/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ensemble-visualization/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/haidong-chen/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiawei-zhang/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/multidimensional-data-visualization/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/song-zhang/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/uncertainty-quantification/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/uncertainty-visualization/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/uncertainty/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/visual_reasoning/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/boundaryseer/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/eduard-groeller/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/global-positioning-system/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/han-hong/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/heating/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/indexes/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/lionei-ni/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/long-wang/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/market-research/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/power-system-stability/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/roads/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ronghua-liang/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/stability-analysis/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/topology/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wenchao-wu/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yixian-zheng/</loc>
     <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kun-zhou/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/overdraw-reduction/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/sampling/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visual-abstraction/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/visual-abstraction/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wentao-gu/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhiqi-liu/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/cong-xie/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/decision-trees/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/feature-extraction/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/probabilistic-logic/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/scott-barlowe/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/time-series-analysis/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/vaet/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xinxin-hunag/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yueqi-hu/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/automatic_shader/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/karla-bala/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/real-time-rendering/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/rui-wang/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/shader-simplification/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/surface-signal-approximation/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/tgpu-shader/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xianjin-yang/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yazhen-yuan/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/laplacian/</loc>
     <lastmod>2010-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/long-zhang/</loc>
     <lastmod>2010-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/real-timeshape/</loc>
     <lastmod>2010-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xuexiang-xie/</loc>
     <lastmod>2010-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ying-he/</loc>
     <lastmod>2010-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/insoo-wu/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/kernel-density-estimation/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/structuringfeaturespace/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/temporal-volume-rendering/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/transfer-function-design/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/dti/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/anna-mackay-brandt/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/david-f.-tate/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/diffusion-tensor-imaging/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/fiber-clustering/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/fibers/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/john-allen-crow/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/qunsheng-peng/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/stephen-correia/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/visualization-interface/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhicheng-yan/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ziang-ding/</loc>
     <lastmod>2009-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/diffusion-tensor-image/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/illustrative-visualization/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jun-liao/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/k.-mullins/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/muscle/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/r.-cooper/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/r.-mclaughlin/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/solid-texture-synthesis/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/vimdti/</loc>
     <lastmod>2009-06-29T17:20:04+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ewa-filter/</loc>
     <lastmod>2004-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hanspter-pfister/</loc>
     <lastmod>2004-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/hardware/</loc>
     <lastmod>2004-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/hardware-acceleration/</loc>
     <lastmod>2004-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/matthias-zwicker/</loc>
     <lastmod>2004-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/volume-splatting/</loc>
     <lastmod>2004-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/biaozhu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/binghuiyan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/bingrulin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/binzhou/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/chaokaiwen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/congxie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fangzhouguo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fanyan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/guangyuchen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/guizhenwang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/haidongchen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/haonanliu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/haozhefeng/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hongboliu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/honghuimei/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/authors/hongyulu/</loc>
+  </url><url>
     <loc>/authors/huanliangwang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/huihuaguan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/huiye/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jianghuatan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jianweizhang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiashunsun/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiazhixia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiehuizhou/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jiewang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jinglixu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jingxia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/junhualu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kejieyu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/authors/ketianmao/</loc>
+  </url><url>
     <loc>/authors/leilv/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/liangjunliu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/lingzhang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/linhaomeng/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/liwenlin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/lonapalawongsupaporn/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/luoxuanweng/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/miaojunyao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/minglin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/noptanitchotisarn/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/qinxianliu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/qiwang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/rushengpan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shengjiegao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shuangye/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shuyuezhou/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/sikanzhu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianyezhang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tianyilao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/tongxu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wanqihu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/weichen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/weixiaxu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/weizhang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wenjielu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/wenlongchen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaodongzhao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xiaohongma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/authors/xiaoyuyang/</loc>
+  </url><url>
     <loc>/authors/xingxu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xinxinhuang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/xinzhao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yichaowang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yifangren/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yijingliu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yingchaojiefeng/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yingxu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yiren/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yongdai/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/youchenggong/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuanzhehu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuhuigu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yumenghou/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuxinma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/yuxuanhou/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zechenwang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zexianchen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhezhao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhichengyan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhiqiliu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhiyongwang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhiyuding/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zhonghaoqian/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ziliangwu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/zongzhuangli/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/papercollection/eurovis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/papercollection/ieeepvis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/papercollection/ieeevis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/papercollection/</loc>
   </url>
-  
 </urlset>
