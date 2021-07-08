@@ -49,7 +49,7 @@ url_source:
 url_video:
   - ./ChartSeer.mp4
 url_supp:
-  - 
+  - ./Appendice.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
