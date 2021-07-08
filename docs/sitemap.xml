@@ -4,19 +4,67 @@
   <url>
     <loc>/members/</loc>
   </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/anthony-tung/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/chart-recognition/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/chartseer/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/haozhe-feng/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pattern-identification/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/tianye-zhang/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/variational-autoencoder/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wei-chen/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wenqi-huang/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wenting-zheng/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/xiaonan-luo/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/zexian-chen/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/graph-layout/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/graph-visualization/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/haozhe-feng/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/kezhi-kong/</loc>
@@ -31,28 +79,10 @@
     <loc>/tags/node-link-diagram/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publications/shot-vae/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/tianye-zhang/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/user-interactions/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/wei-chen/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/chao-wu/</loc>
@@ -93,9 +123,6 @@
   </url><url>
     <loc>/talks/2020vis-jiacheng/</loc>
     <lastmod>2020-10-26T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/conceptexplorer/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
@@ -164,9 +191,6 @@
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yuxuan-hou/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/zexian-chen/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/changye-xin/</loc>
@@ -1503,6 +1527,8 @@
   </url><url>
     <loc>/authors/jingxia/</loc>
   </url><url>
+    <loc>/authors/jinzewu/</loc>
+  </url><url>
     <loc>/authors/junhualu/</loc>
   </url><url>
     <loc>/authors/kejieyu/</loc>
@@ -1516,6 +1542,8 @@
     <loc>/authors/lingzhang/</loc>
   </url><url>
     <loc>/authors/linhaomeng/</loc>
+  </url><url>
+    <loc>/authors/linzhu/</loc>
   </url><url>
     <loc>/authors/liwenlin/</loc>
   </url><url>
@@ -1596,6 +1624,8 @@
     <loc>/authors/youchenggong/</loc>
   </url><url>
     <loc>/authors/yuanzhehu/</loc>
+  </url><url>
+    <loc>/authors/yuefanzhou/</loc>
   </url><url>
     <loc>/authors/yuhuigu/</loc>
   </url><url>

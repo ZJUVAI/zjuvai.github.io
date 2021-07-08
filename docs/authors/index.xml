@@ -6,17 +6,80 @@
     <description>Recent content in Authors on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Anthony Tung</title>
+      <link>/authors/anthony-tung/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/anthony-tung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Haozhe Feng</title>
       <link>/authors/haozhe-feng/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/haozhe-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianye Zhang</title>
+      <link>/authors/tianye-zhang/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tianye-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Chen</title>
+      <link>/authors/wei-chen/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wei-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenqi Huang</title>
+      <link>/authors/wenqi-huang/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wenqi-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenting Zheng</title>
+      <link>/authors/wenting-zheng/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wenting-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaonan Luo</title>
+      <link>/authors/xiaonan-luo/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaonan-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zexian Chen</title>
+      <link>/authors/zexian-chen/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zexian-chen/</guid>
       <description></description>
     </item>
     
@@ -44,24 +107,6 @@
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/minghao-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tianye Zhang</title>
-      <link>/authors/tianye-zhang/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/tianye-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Chen</title>
-      <link>/authors/wei-chen/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/wei-chen/</guid>
       <description></description>
     </item>
     
@@ -260,15 +305,6 @@
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/yuxuan-hou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zexian Chen</title>
-      <link>/authors/zexian-chen/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/zexian-chen/</guid>
       <description></description>
     </item>
     
@@ -2130,6 +2166,15 @@
     
     <item>
       <title></title>
+      <link>/authors/jinzewu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jinzewu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/junhualu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2188,6 +2233,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/linhaomeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/linzhu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/linzhu/</guid>
       <description></description>
     </item>
     
@@ -2550,6 +2604,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/yuanzhehu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/yuefanzhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yuefanzhou/</guid>
       <description></description>
     </item>
     
