@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "hugo server",
-    "build": "hugo --cleanDestinationDir && echo zjuvag.org > docs/CNAME && cp -fr static docs/static",
+    "build": "hugo --cleanDestinationDir && echo zjuvag.org > docs/CNAME",
     "deploy": "npm run build && git add . && git commit -m 'generated' && git push origin master"
   },
   "repository": {
