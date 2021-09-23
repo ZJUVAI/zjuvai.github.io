@@ -1,6 +1,6 @@
 # 浙江大学可视分析小组主页
 
-[国内镜像](http://zjuvag.gitee.io/) | [国际镜像](http://zjuvag.org/)
+<!-- [国内镜像](http://zjuvag.gitee.io/) | [国际镜像](http://zjuvag.org/) -->
 
 # 小组主页页面的更新
 
