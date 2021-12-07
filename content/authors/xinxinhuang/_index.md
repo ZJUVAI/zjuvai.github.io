@@ -2,7 +2,7 @@
 # Display name
 name: Xinxin Huang
 
-index: 120
+index: 2012
 
 # Username (this should match the folder name)
 authors:

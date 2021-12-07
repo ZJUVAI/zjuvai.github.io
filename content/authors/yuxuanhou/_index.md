@@ -2,7 +2,7 @@
 # Display name
 name: Yuxuan Hou
 
-index: 100
+index: 2018
 
 # Username (this should match the folder name)
 authors:
