@@ -11,7 +11,7 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-personal_url: "https://jiacheng-pan.github.io/"
+personal_url: "https://panjiacheng.site/"
 
 interests:
   - Graph Visualization
