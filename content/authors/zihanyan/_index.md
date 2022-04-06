@@ -1,22 +1,23 @@
 ---
 # Display name
-name: Xumeng Wang
+name: Zihan Yan
 
-index: 2016
+index: 2022
 
 # Username (this should match the folder name)
 authors:
-  - xvmengwang
+  - zihanyan
 
 # Is this the primary user of the site?
 superuser: true
 
-personal_url: "https://wwxkxmm.github.io/"
+personal_url: ""
 
 interests:
+  - Information Visualization
   - Visual Analytics
-  - Privacy Preservation
+  - HCI
 
 user_groups:
-  - Alumni
+  - Undergraduate Students
 ---
