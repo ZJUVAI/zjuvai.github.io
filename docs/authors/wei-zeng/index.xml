@@ -6,10 +6,19 @@
     <description>Recent content in Wei Zeng on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/wei-zeng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization</title>
+      <link>/publications/situated-multiple-view/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/situated-multiple-view/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>

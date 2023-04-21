@@ -6,10 +6,109 @@
     <description>Recent content in 2 on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query </title>
+      <link>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance</title>
+      <link>/publications/fraudauditor/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/fraudauditor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Diagnostics of Parallel Performance in Training Large-Scale DNN Models</title>
+      <link>/publications/visual-diagnostics-of-parallel-performance-in-training-large-scale-dnn-models/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-diagnostics-of-parallel-performance-in-training-large-scale-dnn-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis</title>
+      <link>/publications/xnli-explaining-and-diagnosing-nli-based-visual-data-analysis/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/xnli-explaining-and-diagnosing-nli-based-visual-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CohortVA: A Visual Analytic System for Interactive Exploration of Cohorts based on Historical Data</title>
+      <link>/publications/cohortva-a-visual-analytic-system-for-interactive-exploration-of-cohorts-based-on-historical-data/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cohortva-a-visual-analytic-system-for-interactive-exploration-of-cohorts-based-on-historical-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy</title>
+      <link>/publications/dpviscreator/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dpviscreator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization</title>
+      <link>/publications/situated-multiple-view/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/situated-multiple-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning</title>
+      <link>/publications/hetvis-a-visual-analysis-approach-for-identifying-data-heterogeneity-in-horizontal-federated-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/hetvis-a-visual-analysis-approach-for-identifying-data-heterogeneity-in-horizontal-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Efficient Visual Simplification of Computational Graphs in Deep Neural Networks</title>
+      <link>/publications/towards-efficient-visual-simplification-of-computational-graphs-in-deep-neural-networks/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/towards-efficient-visual-simplification-of-computational-graphs-in-deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umbra: A Visual Analysis Approach for Defense Construction Against Inference Attacks on Sensitive Information</title>
+      <link>/publications/umbra-a-visual-analysis-approach-for-defense-construction-against-inference-attacks-on-sensitive-information/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/umbra-a-visual-analysis-approach-for-defense-construction-against-inference-attacks-on-sensitive-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Reasoning for Uncertainty in Spatio-temporal Events of Historical Figures</title>
+      <link>/publications/visual-reasoning-for-uncertainty-in-spatio-temporal-events-of-historical-figures/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-reasoning-for-uncertainty-in-spatio-temporal-events-of-historical-figures/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ChartNavigator: An Interactive Pattern Identification and Annotation Framework for Charts</title>

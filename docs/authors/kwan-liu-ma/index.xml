@@ -6,10 +6,19 @@
     <description>Recent content in Kwan-Liu Ma on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/kwan-liu-ma/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Umbra: A Visual Analysis Approach for Defense Construction Against Inference Attacks on Sensitive Information</title>
+      <link>/publications/umbra-a-visual-analysis-approach-for-defense-construction-against-inference-attacks-on-sensitive-information/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/umbra-a-visual-analysis-approach-for-defense-construction-against-inference-attacks-on-sensitive-information/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.</title>

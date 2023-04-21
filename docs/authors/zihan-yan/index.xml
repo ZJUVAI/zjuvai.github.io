@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zihan Yan on ZJU VAI</title>
+    <link>/authors/zihan-yan/</link>
+    <description>Recent content in Zihan Yan on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/zihan-yan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis</title>
+      <link>/publications/xnli-explaining-and-diagnosing-nli-based-visual-data-analysis/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/xnli-explaining-and-diagnosing-nli-based-visual-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CohortVA: A Visual Analytic System for Interactive Exploration of Cohorts based on Historical Data</title>
+      <link>/publications/cohortva-a-visual-analytic-system-for-interactive-exploration-of-cohorts-based-on-historical-data/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cohortva-a-visual-analytic-system-for-interactive-exploration-of-cohorts-based-on-historical-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

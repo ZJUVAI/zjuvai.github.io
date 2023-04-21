@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial-temporal graph on ZJU VAI</title>
+    <link>/tags/spatial-temporal-graph/</link>
+    <description>Recent content in spatial-temporal graph on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/spatial-temporal-graph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks</title>
+      <link>/publications/tpgnn/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/tpgnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

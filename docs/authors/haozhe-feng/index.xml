@@ -6,10 +6,28 @@
     <description>Recent content in Haozhe Feng on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/haozhe-feng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy</title>
+      <link>/publications/dpviscreator/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/dpviscreator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks</title>
+      <link>/publications/tpgnn/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/tpgnn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ChartNavigator: An Interactive Pattern Identification and Annotation Framework for Charts</title>

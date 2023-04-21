@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zihan Zhou on ZJU VAI</title>
+    <link>/authors/zihan-zhou/</link>
+    <description>Recent content in Zihan Zhou on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/zihan-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance</title>
+      <link>/publications/fraudauditor/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/fraudauditor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks</title>
+      <link>/publications/tpgnn/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/tpgnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

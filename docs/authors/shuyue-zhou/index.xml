@@ -6,10 +6,19 @@
     <description>Recent content in Shuyue Zhou on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/shuyue-zhou/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query </title>
+      <link>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data heterogeneity on ZJU VAI</title>
+    <link>/tags/data-heterogeneity/</link>
+    <description>Recent content in data heterogeneity on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/data-heterogeneity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning</title>
+      <link>/publications/hetvis-a-visual-analysis-approach-for-identifying-data-heterogeneity-in-horizontal-federated-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/hetvis-a-visual-analysis-approach-for-identifying-data-heterogeneity-in-horizontal-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

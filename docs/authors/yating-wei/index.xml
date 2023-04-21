@@ -6,10 +6,37 @@
     <description>Recent content in Yating Wei on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/yating-wei/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query </title>
+      <link>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Diagnostics of Parallel Performance in Training Large-Scale DNN Models</title>
+      <link>/publications/visual-diagnostics-of-parallel-performance-in-training-large-scale-dnn-models/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-diagnostics-of-parallel-performance-in-training-large-scale-dnn-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Efficient Visual Simplification of Computational Graphs in Deep Neural Networks</title>
+      <link>/publications/towards-efficient-visual-simplification-of-computational-graphs-in-deep-neural-networks/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/towards-efficient-visual-simplification-of-computational-graphs-in-deep-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</title>

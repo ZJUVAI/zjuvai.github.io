@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collusive fraud on ZJU VAI</title>
+    <link>/tags/collusive-fraud/</link>
+    <description>Recent content in collusive fraud on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/collusive-fraud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance</title>
+      <link>/publications/fraudauditor/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/fraudauditor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

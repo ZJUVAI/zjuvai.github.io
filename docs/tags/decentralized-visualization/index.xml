@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decentralized visualization on ZJU VAI</title>
+    <link>/tags/decentralized-visualization/</link>
+    <description>Recent content in decentralized visualization on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/decentralized-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Federated Visualization: A Privacy-preserving Strategy for Aggregated Visual Query </title>
+      <link>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/federated-visualization-a-privacy-preserving-strategy-for-aggregated-visual-query/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

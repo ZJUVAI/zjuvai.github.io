@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Zhang on ZJU VAI</title>
+    <link>/authors/wei-zhang/</link>
+    <description>Recent content in Wei Zhang on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CohortVA: A Visual Analytic System for Interactive Exploration of Cohorts based on Historical Data</title>
+      <link>/publications/cohortva-a-visual-analytic-system-for-interactive-exploration-of-cohorts-based-on-historical-data/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cohortva-a-visual-analytic-system-for-interactive-exploration-of-cohorts-based-on-historical-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Reasoning for Uncertainty in Spatio-temporal Events of Historical Figures</title>
+      <link>/publications/visual-reasoning-for-uncertainty-in-spatio-temporal-events-of-historical-figures/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/visual-reasoning-for-uncertainty-in-spatio-temporal-events-of-historical-figures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

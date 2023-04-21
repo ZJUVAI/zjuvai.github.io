@@ -6,10 +6,406 @@
     <description>Recent content in Tags on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>decentralized visualization</title>
+      <link>/tags/decentralized-visualization/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/decentralized-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>federated visualization</title>
+      <link>/tags/federated-visualization/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/federated-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy-preserving visualization</title>
+      <link>/tags/privacy-preserving-visualization/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy-preserving-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collusive fraud</title>
+      <link>/tags/collusive-fraud/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/collusive-fraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fraud detection</title>
+      <link>/tags/fraud-detection/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fraud-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health insurance</title>
+      <link>/tags/health-insurance/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health-insurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual analytics</title>
+      <link>/tags/visual-analytics/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep neural network</title>
+      <link>/tags/deep-neural-network/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model training</title>
+      <link>/tags/model-training/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/model-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel performance</title>
+      <link>/tags/parallel-performance/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/parallel-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explainability</title>
+      <link>/tags/explainability/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/explainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural language interface</title>
+      <link>/tags/natural-language-interface/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/natural-language-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual data analysis</title>
+      <link>/tags/visual-data-analysis/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cluster analysis</title>
+      <link>/tags/cluster-analysis/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cluster-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data heterogeneity</title>
+      <link>/tags/data-heterogeneity/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>differential privacy</title>
+      <link>/tags/differential-privacy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/differential-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>federated learning</title>
+      <link>/tags/federated-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historical cohort analysis</title>
+      <link>/tags/historical-cohort-analysis/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/historical-cohort-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immersive visualization</title>
+      <link>/tags/immersive-visualization/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/immersive-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interpretability</title>
+      <link>/tags/interpretability/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiple-view representations</title>
+      <link>/tags/multiple-view-representations/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiple-view-representations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>situated analytics</title>
+      <link>/tags/situated-analytics/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/situated-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabular data</title>
+      <link>/tags/tabular-data/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tabular-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>view layout</title>
+      <link>/tags/view-layout/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/view-layout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual analysis</title>
+      <link>/tags/visual-analysis/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational graphs</title>
+      <link>/tags/computational-graphs/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computational-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep neural networks</title>
+      <link>/tags/deep-neural-networks/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph layout</title>
+      <link>/tags/graph-layout/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graph-layout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph visualization</title>
+      <link>/tags/graph-visualization/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graph-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual simplifications</title>
+      <link>/tags/visual-simplifications/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-simplifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>few-shot segmentation</title>
+      <link>/tags/few-shot-segmentation/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/few-shot-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph neural networks</title>
+      <link>/tags/graph-neural-networks/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multivariate time-series forecasting</title>
+      <link>/tags/multivariate-time-series-forecasting/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multivariate-time-series-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prompt learning</title>
+      <link>/tags/prompt-learning/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prompt-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial-temporal graph</title>
+      <link>/tags/spatial-temporal-graph/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-temporal-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vision transformer</title>
+      <link>/tags/vision-transformer/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vision-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bayesian network</title>
+      <link>/tags/bayesian-network/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inference attack</title>
+      <link>/tags/inference-attack/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inference-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>/tags/history/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatio-temporal events</title>
+      <link>/tags/spatio-temporal-events/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatio-temporal-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncertainty</title>
+      <link>/tags/uncertainty/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Reasoning</title>
+      <link>/tags/visual-reasoning/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-reasoning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chart recognition</title>
@@ -39,24 +435,6 @@
     </item>
     
     <item>
-      <title>graph layout</title>
-      <link>/tags/graph-layout/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/graph-layout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph visualization</title>
-      <link>/tags/graph-visualization/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/graph-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Node-link diagram</title>
       <link>/tags/node-link-diagram/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
@@ -80,15 +458,6 @@
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/domain-adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Learning</title>
-      <link>/tags/federated-learning/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/federated-learning/</guid>
       <description></description>
     </item>
     
@@ -336,15 +705,6 @@
     </item>
     
     <item>
-      <title>visual analytics</title>
-      <link>/tags/visual-analytics/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/visual-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Generative Adversarial Networks</title>
       <link>/tags/generative-adversarial-networks/</link>
       <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
@@ -453,15 +813,6 @@
     </item>
     
     <item>
-      <title>uncertainty</title>
-      <link>/tags/uncertainty/</link>
-      <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
-      
-      <guid>/tags/uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Visualization</title>
       <link>/tags/visualization/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
@@ -530,24 +881,6 @@
       <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
       
       <guid>/tags/urban-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Analysis</title>
-      <link>/tags/visual-analysis/</link>
-      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
-      
-      <guid>/tags/visual-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Reasoning</title>
-      <link>/tags/visual-reasoning/</link>
-      <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
-      
-      <guid>/tags/visual-reasoning/</guid>
       <description></description>
     </item>
     
@@ -1169,15 +1502,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/subspace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differential Privacy</title>
-      <link>/tags/differential-privacy/</link>
-      <pubDate>Tue, 29 Aug 2017 15:46:02 +0800</pubDate>
-      
-      <guid>/tags/differential-privacy/</guid>
       <description></description>
     </item>
     
