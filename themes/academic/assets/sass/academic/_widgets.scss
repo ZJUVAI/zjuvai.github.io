@@ -73,6 +73,13 @@
   background-color: $sta-home-section-even;
 }
 
+.home-section {
+  .description p {
+    text-align:justify; 
+    text-justify:inter-ideograph;
+  }
+}
+
 .dark .home-section {
   background-color: $sta-dark-home-section-odd;
 }
