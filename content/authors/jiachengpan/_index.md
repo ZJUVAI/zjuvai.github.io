@@ -17,5 +17,5 @@ interests:
   - Graph Visualization
 
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---

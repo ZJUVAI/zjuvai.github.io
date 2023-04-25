@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Yuefan Zhou
+name: Bo Pan
 
-index: 10
+index: 2022
 
 # Username (this should match the folder name)
 authors:
-  - yuefanzhou
+  - bopan
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,8 @@ superuser: true
 personal_url: ""
 
 interests:
-  - Information Visualization
-  - Visual Analytics
+
 
 user_groups:
+  - Ph.D. Students
 ---

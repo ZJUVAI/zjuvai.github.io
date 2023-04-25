@@ -16,5 +16,5 @@ personal_url: ""
 interests:
 
 user_groups:
-  - Alumni
+  - Advisor
 ---

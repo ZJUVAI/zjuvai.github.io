@@ -19,5 +19,4 @@ interests:
   - HCI
 
 user_groups:
-  - Undergraduate Students
 ---

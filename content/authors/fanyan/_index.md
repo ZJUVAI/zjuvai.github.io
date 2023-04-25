@@ -2,7 +2,7 @@
 # Display name
 name: Fan Yan
 
-index: 2020
+index: 2019
 
 # Username (this should match the folder name)
 authors:
