@@ -39,13 +39,16 @@ featured: false
 #   icon: twitter
 
 url_pdf:
+  - https://arxiv.org/pdf/2208.13418.pdf
 url_code:
+  - https://github.com/wanghuanliang/DPVisCreator
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
 url_video:
+  - https://www.youtube.com/watch?v=LYdxLA3hD3c
 url_supp:
 
 # Featured image

@@ -29,10 +29,10 @@
   
   
   
-  <meta name="description" content="Data privacy is an essential issue in publishing data visualizations. However, it is challenging to represent multiple data patterns in privacy-preserving visualizations. The prior approaches target specific chart types or perform an anonymization model uniformly without considering the importance of data patterns in visualizations. In this paper, we propose a visual analytics approach that facilitates data custodians to generate multiple private charts while maintaining user-preferred patterns. To this end, we introduce pattern constraints to model users&#39; preferences over data patterns in the dataset and incorporate them into the proposed Bayesian network-based Differential Privacy (DP) model PriVis . A prototype system, DPVisCreator , is developed to assist data custodians in implementing our approach. The effectiveness of our approach is demonstrated with quantitative evaluation of pattern utility under the different levels of privacy protection, case studies, and semi-structured expert interviews.">
+  <meta name="description" content="Collusive fraud, in which multiple fraudsters collude to defraud health insurance funds, threatens the operation of the healthcare system. However, existing statistical and machine learning-based methods have limited ability to detect fraud in the scenario of health insurance due to the high similarity of fraudulent behaviors to normal medical visits and the lack of labeled data. To ensure the accuracy of the detection results, expert knowledge needs to be integrated with the fraud detection process. By working closely with health insurance audit experts, we propose FraudAuditor, a three-stage visual analytics approach to collusive fraud detection in health insurance. Specifically, we first allow users to interactively construct a co-visit network to holistically model the visit relationships of different patients. Second, an improved community detection algorithm that considers the strength of fraud likelihood is designed to detect suspicious fraudulent groups. Finally, through our visual interface, users can compare, investigate, and verify suspicious patient behavior with tailored visualizations that support different time scales. We conducted case studies in a real-world healthcare scenario, i.e., to help locate the actual fraud group and exclude the false positive group. The results and expert feedback proved the effectiveness and usability of the approach.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publications/dpviscreator/">
+  <link rel="alternate" hreflang="en-us" href="/publications/zhou-2023-fraudauditor/">
 
   
 
@@ -97,7 +97,7 @@
   <link rel="icon" type="image/png" href="/img/avatar.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/avatar.png">
 
-  <link rel="canonical" href="/publications/dpviscreator/">
+  <link rel="canonical" href="/publications/zhou-2023-fraudauditor/">
 
   
   
@@ -108,30 +108,30 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="ZJU VAI">
-  <meta property="og:url" content="/publications/dpviscreator/">
-  <meta property="og:title" content="DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy | ZJU VAI">
-  <meta property="og:description" content="Data privacy is an essential issue in publishing data visualizations. However, it is challenging to represent multiple data patterns in privacy-preserving visualizations. The prior approaches target specific chart types or perform an anonymization model uniformly without considering the importance of data patterns in visualizations. In this paper, we propose a visual analytics approach that facilitates data custodians to generate multiple private charts while maintaining user-preferred patterns. To this end, we introduce pattern constraints to model users&#39; preferences over data patterns in the dataset and incorporate them into the proposed Bayesian network-based Differential Privacy (DP) model PriVis . A prototype system, DPVisCreator , is developed to assist data custodians in implementing our approach. The effectiveness of our approach is demonstrated with quantitative evaluation of pattern utility under the different levels of privacy protection, case studies, and semi-structured expert interviews.">
-  <meta property="og:image" content="/publications/dpviscreator/featured.png">
+  <meta property="og:url" content="/publications/zhou-2023-fraudauditor/">
+  <meta property="og:title" content="FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance | ZJU VAI">
+  <meta property="og:description" content="Collusive fraud, in which multiple fraudsters collude to defraud health insurance funds, threatens the operation of the healthcare system. However, existing statistical and machine learning-based methods have limited ability to detect fraud in the scenario of health insurance due to the high similarity of fraudulent behaviors to normal medical visits and the lack of labeled data. To ensure the accuracy of the detection results, expert knowledge needs to be integrated with the fraud detection process. By working closely with health insurance audit experts, we propose FraudAuditor, a three-stage visual analytics approach to collusive fraud detection in health insurance. Specifically, we first allow users to interactively construct a co-visit network to holistically model the visit relationships of different patients. Second, an improved community detection algorithm that considers the strength of fraud likelihood is designed to detect suspicious fraudulent groups. Finally, through our visual interface, users can compare, investigate, and verify suspicious patient behavior with tailored visualizations that support different time scales. We conducted case studies in a real-world healthcare scenario, i.e., to help locate the actual fraud group and exclude the false positive group. The results and expert feedback proved the effectiveness and usability of the approach.">
+  <meta property="og:image" content="/publications/zhou-2023-fraudauditor/featured.jpg">
   <meta property="og:locale" content="en-us">
   
   
-  <meta property="article:published_time" content="2023-01-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-03-27T00:00:00&#43;00:00">
   
   
-  <meta property="article:modified_time" content="2023-01-01T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2023-03-27T00:00:00&#43;00:00">
   
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy | ZJU VAI</title>
+
+
+  <title>FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance | ZJU VAI</title>
 
 </head>
 
@@ -399,7 +399,7 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publications/dpviscreator/featured.png');"></div>
+  <div class="featured-image" style="background-image: url('/publications/zhou-2023-fraudauditor/featured.jpg');"></div>
   <span class="article-header-caption">featured</span>
 </div>
 
@@ -408,7 +408,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy</h1>
+        <h1 itemprop="name">FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance</h1>
 
         
 
@@ -416,8 +416,8 @@
 
 
 
-<meta content="2023-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2023-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2023-03-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-03-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -450,7 +450,14 @@
 
   
   
-  Jason K. Wong
+  <a href="/authors/jiewang" style="text-decoration: underline;">Jie Wang</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/huiye" style="text-decoration: underline;">Hui Ye</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -464,35 +471,14 @@
 
   
   
-  <a href="/authors/zhongweiwang" style="text-decoration: underline;">Zhongwei Wang</a>
+  <a href="/authors/zihanzhou" style="text-decoration: underline;">Zihan Zhou</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
 
   
   
-  <a href="/authors/xiaoyuyang" style="text-decoration: underline;">Xiaoyu Yang</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Xiaoran Yan
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  <a href="/authors/haozhefeng" style="text-decoration: underline;">Haozhe Feng</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Huamin Qu
+  <a href="/authors/dongminghan" style="text-decoration: underline;">Dongming Han</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -500,6 +486,13 @@
   
   
   Haochao Ying
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Jian Wu
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -519,7 +512,7 @@
     
       
     
-    <time>Jan 1, 2023</time>
+    <time>Mar 27, 2023</time>
   </span>
   
 
@@ -568,12 +561,9 @@
 
 
     
-
-
-
-
-
-
+      <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2303.13491.pdf" target="_blank" rel="noopener">
+      PDF
+      </a>
     
 
 
@@ -610,6 +600,11 @@
 
 
     
+      <a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=PlCQhtpYylQ" target="_blank" rel="noopener">
+      Video
+      </a>
+    
+
 
 
 
@@ -620,7 +615,13 @@
 
 
 
-  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/dpviscreator/featured.bib">
+
+    
+
+
+
+
+  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/zhou-2023-fraudauditor/featured.bib">
   Cite
   </button>
 
@@ -641,7 +642,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/TVCG.2022.3209391"
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/TVCG.2023.3261910"
   target="_blank" rel="noopener">
   DOI
 </a>
@@ -665,7 +666,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publications/dpviscreator/&amp;text=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publications/zhou-2023-fraudauditor/&amp;text=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -678,7 +679,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publications/dpviscreator/&amp;t=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publications/zhou-2023-fraudauditor/&amp;t=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -691,7 +692,7 @@
       
       
       <li>
-        <a href="mailto:?subject=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy&amp;body=/publications/dpviscreator/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance&amp;body=/publications/zhou-2023-fraudauditor/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -704,7 +705,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publications/dpviscreator/&amp;title=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publications/zhou-2023-fraudauditor/&amp;title=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -717,7 +718,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy%20/publications/dpviscreator/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance%20/publications/zhou-2023-fraudauditor/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -730,7 +731,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publications/dpviscreator/&amp;title=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publications/zhou-2023-fraudauditor/&amp;title=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -743,7 +744,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publications/dpviscreator/featured.png" itemprop="image" alt="">
+        <img src="/publications/zhou-2023-fraudauditor/featured.jpg" itemprop="image" alt="">
         
       </div>
     </div>
@@ -751,7 +752,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy</h1>
+  <h1 itemprop="name">FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance</h1>
 
   
 
@@ -759,8 +760,8 @@
 
 
 
-<meta content="2023-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2023-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2023-03-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-03-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -793,7 +794,14 @@
 
   
   
-  Jason K. Wong
+  <a href="/authors/jiewang" style="text-decoration: underline;">Jie Wang</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/huiye" style="text-decoration: underline;">Hui Ye</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -807,35 +815,14 @@
 
   
   
-  <a href="/authors/zhongweiwang" style="text-decoration: underline;">Zhongwei Wang</a>
+  <a href="/authors/zihanzhou" style="text-decoration: underline;">Zihan Zhou</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
 
   
   
-  <a href="/authors/xiaoyuyang" style="text-decoration: underline;">Xiaoyu Yang</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Xiaoran Yan
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  <a href="/authors/haozhefeng" style="text-decoration: underline;">Haozhe Feng</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Huamin Qu
+  <a href="/authors/dongminghan" style="text-decoration: underline;">Dongming Han</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -843,6 +830,13 @@
   
   
   Haochao Ying
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Jian Wu
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -862,7 +856,7 @@
     
       
     
-    <time>Jan 1, 2023</time>
+    <time>Mar 27, 2023</time>
   </span>
   
 
@@ -889,7 +883,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publications/dpviscreator/&amp;text=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publications/zhou-2023-fraudauditor/&amp;text=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -902,7 +896,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publications/dpviscreator/&amp;t=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publications/zhou-2023-fraudauditor/&amp;t=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -915,7 +909,7 @@
       
       
       <li>
-        <a href="mailto:?subject=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy&amp;body=/publications/dpviscreator/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance&amp;body=/publications/zhou-2023-fraudauditor/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -928,7 +922,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publications/dpviscreator/&amp;title=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publications/zhou-2023-fraudauditor/&amp;title=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -941,7 +935,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy%20/publications/dpviscreator/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance%20/publications/zhou-2023-fraudauditor/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -954,7 +948,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publications/dpviscreator/&amp;title=DPVisCreator:%20Incorporating%20Pattern%20Constraints%20to%20Privacy-preserving%20Visualizations%20via%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publications/zhou-2023-fraudauditor/&amp;title=FraudAuditor:%20A%20Visual%20Analytics%20Approach%20for%20Collusive%20Fraud%20in%20Health%20Insurance" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -997,12 +991,9 @@
 
 
     
-
-
-
-
-
-
+      <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2303.13491.pdf" target="_blank" rel="noopener">
+      PDF
+      </a>
     
 
 
@@ -1039,6 +1030,11 @@
 
 
     
+      <a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=PlCQhtpYylQ" target="_blank" rel="noopener">
+      Video
+      </a>
+    
+
 
 
 
@@ -1049,7 +1045,13 @@
 
 
 
-  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/dpviscreator/featured.bib">
+
+    
+
+
+
+
+  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/zhou-2023-fraudauditor/featured.bib">
   Cite
   </button>
 
@@ -1070,7 +1072,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/TVCG.2022.3209391"
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/TVCG.2023.3261910"
   target="_blank" rel="noopener">
   DOI
 </a>
@@ -1089,7 +1091,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Data privacy is an essential issue in publishing data visualizations. However, it is challenging to represent multiple data patterns in privacy-preserving visualizations. The prior approaches target specific chart types or perform an anonymization model uniformly without considering the importance of data patterns in visualizations. In this paper, we propose a visual analytics approach that facilitates data custodians to generate multiple private charts while maintaining user-preferred patterns. To this end, we introduce pattern constraints to model users' preferences over data patterns in the dataset and incorporate them into the proposed Bayesian network-based Differential Privacy (DP) model PriVis . A prototype system, DPVisCreator , is developed to assist data custodians in implementing our approach. The effectiveness of our approach is demonstrated with quantitative evaluation of pattern utility under the different levels of privacy protection, case studies, and semi-structured expert interviews.</p>
+    <p class="pub-abstract" itemprop="text">Collusive fraud, in which multiple fraudsters collude to defraud health insurance funds, threatens the operation of the healthcare system. However, existing statistical and machine learning-based methods have limited ability to detect fraud in the scenario of health insurance due to the high similarity of fraudulent behaviors to normal medical visits and the lack of labeled data. To ensure the accuracy of the detection results, expert knowledge needs to be integrated with the fraud detection process. By working closely with health insurance audit experts, we propose FraudAuditor, a three-stage visual analytics approach to collusive fraud detection in health insurance. Specifically, we first allow users to interactively construct a co-visit network to holistically model the visit relationships of different patients. Second, an improved community detection algorithm that considers the strength of fraud likelihood is designed to detect suspicious fraudulent groups. Finally, through our visual interface, users can compare, investigate, and verify suspicious patient behavior with tailored visualizations that support different time scales. We conducted case studies in a real-world healthcare scenario, i.e., to help locate the actual fraud group and exclude the false positive group. The results and expert feedback proved the effectiveness and usability of the approach.</p>
     
 
     
@@ -1135,11 +1137,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/privacy-preserving-visualization/">privacy-preserving visualization</a>
+  <a class="badge badge-light" href="/tags/collusive-fraud/">collusive fraud</a>
   
-  <a class="badge badge-light" href="/tags/differential-privacy/">differential privacy</a>
+  <a class="badge badge-light" href="/tags/fraud-detection/">fraud detection</a>
   
-  <a class="badge badge-light" href="/tags/tabular-data/">tabular data</a>
+  <a class="badge badge-light" href="/tags/health-insurance/">health insurance</a>
   
   <a class="badge badge-light" href="/tags/visual-analytics/">visual analytics</a>
   
