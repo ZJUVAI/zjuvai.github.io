@@ -37,7 +37,7 @@
     {{ $avatar_image := $avatar.Fill "150x150 Center" }}
     {{ $src = $avatar_image.RelPermalink }}
     {{ end }}
-    {{ $url := lower (replace .Params.name " " "") }}
+    {{ $url := lower (index .Params.authors 0) }}
     {{ $prefix := "../authors/"}}
     {{ $url := (print $prefix $url) }}
     
