@@ -11,11 +11,12 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-personal_url: "https://blog.csdn.net/algzjh"
+personal_url: "https://algzjh.github.io/"
 
 interests:
-  - Information Visualization
   - Visual Analytics
+  - Causal Analysis
+  - Trustworthy AI
 
 user_groups:
   - Ph.D. Students
