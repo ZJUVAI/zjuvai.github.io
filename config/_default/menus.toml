@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Talks"
-  url = "/talks"
+  name = "Members"
+  url = "/members"
   weight = 30
 
 [[main]]
@@ -24,19 +24,19 @@
   weight = 40
 
 [[main]]
-  name = "Members"
-  url = "/members"
+  name = "Projects"
+  url = "/Projects"
   weight = 50
 
 [[main]]
-  name = "PaperCollection"
-  url = "/PaperCollection"
-  weight = 55
+  name = "Talks"
+  url = "/talks"
+  weight = 65
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 
 # [[main]]
