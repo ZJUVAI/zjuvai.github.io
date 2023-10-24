@@ -21,6 +21,42 @@
     </item>
     
     <item>
+      <title>deep learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>differentiable rendering</title>
+      <link>/tags/differentiable-rendering/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/differentiable-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>direct volume rendering</title>
+      <link>/tags/direct-volume-rendering/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/direct-volume-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative models</title>
+      <link>/tags/generative-models/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quantum circuit</title>
       <link>/tags/quantum-circuit/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
@@ -35,6 +71,15 @@
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/semantic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer function</title>
+      <link>/tags/transfer-function/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transfer-function/</guid>
       <description></description>
     </item>
     
@@ -957,15 +1002,6 @@
     </item>
     
     <item>
-      <title>deep learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>similarity measuring</title>
       <link>/tags/similarity-measuring/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
@@ -1250,15 +1286,6 @@
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
       <guid>/tags/dichromacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>direct volume rendering</title>
-      <link>/tags/direct-volume-rendering/</link>
-      <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
-      
-      <guid>/tags/direct-volume-rendering/</guid>
       <description></description>
     </item>
     

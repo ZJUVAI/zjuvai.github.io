@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiyao Wang on ZJU VAI</title>
+    <link>/authors/yiyao-wang/</link>
+    <description>Recent content in Yiyao Wang on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/yiyao-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions</title>
+      <link>/publications/pan-2023-differentiable/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/pan-2023-differentiable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

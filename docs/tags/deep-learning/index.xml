@@ -6,10 +6,19 @@
     <description>Recent content in deep learning on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions</title>
+      <link>/publications/pan-2023-differentiable/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/pan-2023-differentiable/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots.</title>

@@ -10,13 +10,40 @@
     <loc>/authors/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/bo-pan/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/chenhao-yu/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/context-visualization/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/pan-2023-differentiable/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/differentiable-rendering/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/direct-volume-rendering/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/dongming-han/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/generative-models/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/haoxuan-li/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/jianwei-yin/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jiaying-lu/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/jieyi-chen/</loc>
@@ -49,13 +76,22 @@
     <loc>/tags/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/transfer-function/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/visual-abstraction/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/wei-chen/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/weifeng-chen/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/yihan-liu/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yiyao-wang/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/zhen-wen/</loc>
@@ -148,9 +184,6 @@
     <loc>/authors/han-gao/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/jiaying-lu/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/luoxuan-weng/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -174,9 +207,6 @@
   </url><url>
     <loc>/authors/zhongwei-wang/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/bo-pan/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/explainability/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
@@ -880,9 +910,6 @@
     <loc>/authors/anthony-k.-h.-tung/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2018-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publications/scatternet/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -1081,9 +1108,6 @@
     <loc>/tags/dichromacy/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>/tags/direct-volume-rendering/</loc>
-    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url><url>
     <loc>/publications/echarts/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url><url>
@@ -1196,9 +1220,6 @@
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url><url>
     <loc>/tags/web-based/</loc>
-    <lastmod>2018-06-01T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/authors/weifeng-chen/</loc>
     <lastmod>2018-06-01T08:00:00+08:00</lastmod>
   </url><url>
     <loc>/authors/weiwei-cui/</loc>
