@@ -10,6 +10,9 @@
     <loc>/authors/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/baicheng-wang/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/bo-pan/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -40,6 +43,9 @@
     <loc>/authors/haoxuan-li/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/image-visualization/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/jianwei-yin/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -49,10 +55,19 @@
     <loc>/authors/jieyi-chen/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/kam-kwai-wong/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/minfeng-zhu/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/mingliang-xu/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/prompt-engineering/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/feng-2023-promptmagician/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -70,10 +85,16 @@
     <loc>/tags/semantic-analysis/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/sijia-wang/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/siwei-tan/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/text-to-image-generation/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/transfer-function/</loc>
@@ -88,10 +109,19 @@
     <loc>/authors/weifeng-chen/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/xingbo-wang/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/yihan-liu/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/yingchaojie-feng/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/yiyao-wang/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yuhong-lu/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/zhen-wen/</loc>
@@ -214,9 +244,6 @@
     <loc>/authors/huamin-qu/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/kam-kwai-wong/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/natural-language-interface/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -226,16 +253,10 @@
     <loc>/tags/visual-data-analysis/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/xingbo-wang/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publications/xnli-explaining-and-diagnosing-nli-based-visual-data-analysis/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yi-ren/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/yingchaojie-feng/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yuxin-ma/</loc>

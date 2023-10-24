@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prompt engineering on ZJU VAI</title>
+    <link>/tags/prompt-engineering/</link>
+    <description>Recent content in prompt engineering on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation</title>
+      <link>/publications/feng-2023-promptmagician/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/feng-2023-promptmagician/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

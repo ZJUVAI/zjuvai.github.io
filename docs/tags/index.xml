@@ -57,6 +57,24 @@
     </item>
     
     <item>
+      <title>image visualization</title>
+      <link>/tags/image-visualization/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prompt engineering</title>
+      <link>/tags/prompt-engineering/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prompt-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quantum circuit</title>
       <link>/tags/quantum-circuit/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
@@ -71,6 +89,15 @@
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/semantic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text-to-image generation</title>
+      <link>/tags/text-to-image-generation/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/text-to-image-generation/</guid>
       <description></description>
     </item>
     

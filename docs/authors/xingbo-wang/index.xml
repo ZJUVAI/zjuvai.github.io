@@ -6,10 +6,19 @@
     <description>Recent content in Xingbo Wang on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/xingbo-wang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation</title>
+      <link>/publications/feng-2023-promptmagician/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/feng-2023-promptmagician/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis</title>
