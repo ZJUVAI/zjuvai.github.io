@@ -6,10 +6,19 @@
     <description>Recent content in Yihan Liu on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/yihan-liu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis</title>
+      <link>/publications/wen-2023-quantivine/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/wen-2023-quantivine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization</title>

@@ -6,10 +6,91 @@
     <description>Recent content in Authors on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dongming Han</title>
+      <link>/authors/dongming-han/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dongming-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianwei Yin</title>
+      <link>/authors/jianwei-yin/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jianwei-yin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jieyi Chen</title>
+      <link>/authors/jieyi-chen/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jieyi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minfeng Zhu</title>
+      <link>/authors/minfeng-zhu/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/minfeng-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingliang Xu</title>
+      <link>/authors/mingliang-xu/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mingliang-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siwei Tan</title>
+      <link>/authors/siwei-tan/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/siwei-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Chen</title>
+      <link>/authors/wei-chen/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wei-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yihan Liu</title>
+      <link>/authors/yihan-liu/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yihan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhen Wen</title>
+      <link>/authors/zhen-wen/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zhen-wen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bingru Lin</title>
@@ -26,15 +107,6 @@
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/authors/shuyue-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Chen</title>
-      <link>/authors/wei-chen/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/wei-chen/</guid>
       <description></description>
     </item>
     
@@ -62,15 +134,6 @@
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/authors/zhiyong-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dongming Han</title>
-      <link>/authors/dongming-han/</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dongming-han/</guid>
       <description></description>
     </item>
     
@@ -354,29 +417,11 @@
     </item>
     
     <item>
-      <title>Mingliang Xu</title>
-      <link>/authors/mingliang-xu/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mingliang-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Siming Chen</title>
       <link>/authors/siming-chen/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/authors/siming-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siwei Tan</title>
-      <link>/authors/siwei-tan/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/siwei-tan/</guid>
       <description></description>
     </item>
     
@@ -426,29 +471,11 @@
     </item>
     
     <item>
-      <title>Yihan Liu</title>
-      <link>/authors/yihan-liu/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/yihan-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Youcheng Gong</title>
       <link>/authors/youcheng-gong/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/authors/youcheng-gong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhen Wen</title>
-      <link>/authors/zhen-wen/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/zhen-wen/</guid>
       <description></description>
     </item>
     
@@ -629,15 +656,6 @@
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/kezhi-kong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minfeng Zhu</title>
-      <link>/authors/minfeng-zhu/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/minfeng-zhu/</guid>
       <description></description>
     </item>
     

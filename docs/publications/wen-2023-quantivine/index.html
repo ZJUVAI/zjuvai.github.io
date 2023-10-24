@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  <meta name="author" content="Minfeng Zhu">
+
+  
+  
+  
+  
+  
+  <meta name="description" content="Quantum computing is a rapidly evolving field that enables exponential speed-up over classical algorithms. At the heart of this revolutionary technology are quantum circuits, which serve as vital tools for implementing, analyzing, and optimizing quantum algorithms. Recent advancements in quantum computing and the increasing capability of quantum devices have led to the development of more complex quantum circuits. However, traditional quantum circuit diagrams suffer from scalability and readability issues, which limit the efficiency of analysis and optimization processes. In this research, we propose a novel visualization approach for large-scale quantum circuits by adopting semantic analysis to facilitate the comprehension of quantum circuits. We first exploit meta-data and semantic information extracted from the underlying code of quantum circuits to create component segmentations and pattern abstractions, allowing for easier wrangling of massive circuit diagrams. We then develop Quantivine, an interactive system for exploring and understanding quantum circuits. A series of novel circuit visualizations are designed to uncover contextual details such as qubit provenance, parallelism, and entanglement. The effectiveness of Quantivine is demonstrated through two usage scenarios of quantum circuits with up to 100 qubits and a formal user evaluation with quantum experts. A free copy of this paper and all supplemental materials are available at https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publications/wen-2023-quantivine/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#546787">
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/js/academicons/1.9.0/css/academicons.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="/js/font-awesome/5.14.0/css/all.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="/js/fancybox/3.5.7/jquery.fancybox.min.css" integrity="" crossorigin="anonymous">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/js/highlight.js/10.1.2/styles/default.min.css" crossorigin="anonymous" title="hl-light">
+  <link rel="stylesheet" href="/js/highlight.js/10.1.2/styles/default.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.8cdabc15646d88c7a381990fb82edcdd.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/avatar.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/avatar.png">
+
+  <link rel="canonical" href="/publications/wen-2023-quantivine/">
+
+  
+  
+  
+  
+  
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ZJU VAI">
+  <meta property="og:url" content="/publications/wen-2023-quantivine/">
+  <meta property="og:title" content="Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis | ZJU VAI">
+  <meta property="og:description" content="Quantum computing is a rapidly evolving field that enables exponential speed-up over classical algorithms. At the heart of this revolutionary technology are quantum circuits, which serve as vital tools for implementing, analyzing, and optimizing quantum algorithms. Recent advancements in quantum computing and the increasing capability of quantum devices have led to the development of more complex quantum circuits. However, traditional quantum circuit diagrams suffer from scalability and readability issues, which limit the efficiency of analysis and optimization processes. In this research, we propose a novel visualization approach for large-scale quantum circuits by adopting semantic analysis to facilitate the comprehension of quantum circuits. We first exploit meta-data and semantic information extracted from the underlying code of quantum circuits to create component segmentations and pattern abstractions, allowing for easier wrangling of massive circuit diagrams. We then develop Quantivine, an interactive system for exploring and understanding quantum circuits. A series of novel circuit visualizations are designed to uncover contextual details such as qubit provenance, parallelism, and entanglement. The effectiveness of Quantivine is demonstrated through two usage scenarios of quantum circuits with up to 100 qubits and a formal user evaluation with quantum experts. A free copy of this paper and all supplemental materials are available at https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9.">
+  <meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  <meta property="article:published_time" content="2023-10-22T00:00:00&#43;00:00">
+  
+  
+  <meta property="article:modified_time" content="2023-10-22T00:00:00&#43;00:00">
+  
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis | ZJU VAI</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">ZJU VAI</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/blog"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/members"><span>Members</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-container pt-3">
+  <h1 itemprop="name">Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis</h1>
+
+  
+
+  
+  
+
+
+
+<meta content="2023-10-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-10-22 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+<span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/zhenwen" style="text-decoration: underline;">Zhen Wen</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/yihanliu" style="text-decoration: underline;">Yihan Liu</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Siwei Tan
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/jieyichen" style="text-decoration: underline;">Jieyi Chen</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/minfengzhu" style="text-decoration: underline;">Minfeng Zhu</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/dongminghan" style="text-decoration: underline;">Dongming Han</a>
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Jianwei Yin
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  Mingliang Xu
+  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+  
+  
+
+  
+  
+  <a href="/authors/weichen" style="text-decoration: underline;">Wei Chen</a>
+  </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Oct 22, 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publications/wen-2023-quantivine/&amp;text=Quantivine:%20A%20Visualization%20Approach%20for%20Large-scale%20Quantum%20Circuit%20Representation%20and%20Analysis" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publications/wen-2023-quantivine/&amp;t=Quantivine:%20A%20Visualization%20Approach%20for%20Large-scale%20Quantum%20Circuit%20Representation%20and%20Analysis" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Quantivine:%20A%20Visualization%20Approach%20for%20Large-scale%20Quantum%20Circuit%20Representation%20and%20Analysis&amp;body=/publications/wen-2023-quantivine/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publications/wen-2023-quantivine/&amp;title=Quantivine:%20A%20Visualization%20Approach%20for%20Large-scale%20Quantum%20Circuit%20Representation%20and%20Analysis" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Quantivine:%20A%20Visualization%20Approach%20for%20Large-scale%20Quantum%20Circuit%20Representation%20and%20Analysis%20/publications/wen-2023-quantivine/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publications/wen-2023-quantivine/&amp;title=Quantivine:%20A%20Visualization%20Approach%20for%20Large-scale%20Quantum%20Circuit%20Representation%20and%20Analysis" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <a class="btn btn-outline-primary my-1 mr-1" href="/publications/wen-2023-quantivine/wen-2023-quantivine.pdf" target="_blank" rel="noopener">
+    PDF
+    </a>
+  
+  
+
+
+
+
+
+    
+      <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/MeU1024/qc-vis" target="_blank" rel="noopener">
+      Code
+      </a>
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+      <a class="btn btn-outline-primary my-1 mr-1" href="https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9" target="_blank" rel="noopener">
+      Suppl.
+      </a>
+    
+
+
+
+
+  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/wen-2023-quantivine/featured.bib">
+  Cite
+  </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.48550/arXiv.2307.08969"
+  target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/publications/wen-2023-quantivine/preview.mp4"
+  >
+  
+  Preview
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Quantum computing is a rapidly evolving field that enables exponential speed-up over classical algorithms. At the heart of this revolutionary technology are quantum circuits, which serve as vital tools for implementing, analyzing, and optimizing quantum algorithms. Recent advancements in quantum computing and the increasing capability of quantum devices have led to the development of more complex quantum circuits. However, traditional quantum circuit diagrams suffer from scalability and readability issues, which limit the efficiency of analysis and optimization processes. In this research, we propose a novel visualization approach for large-scale quantum circuits by adopting semantic analysis to facilitate the comprehension of quantum circuits. We first exploit meta-data and semantic information extracted from the underlying code of quantum circuits to create component segmentations and pattern abstractions, allowing for easier wrangling of massive circuit diagrams. We then develop Quantivine, an interactive system for exploring and understanding quantum circuits. A series of novel circuit visualizations are designed to uncover contextual details such as qubit provenance, parallelism, and entanglement. The effectiveness of Quantivine is demonstrated through two usage scenarios of quantum circuits with up to 100 qubits and a formal user evaluation with quantum experts. A free copy of this paper and all supplemental materials are available at <a href="https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9">https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9</a>.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Proceedings of the IEEE VIS: Visualization &amp; Visual Analytics</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/quantum-circuit/">quantum circuit</a>
+  
+  <a class="badge badge-light" href="/tags/semantic-analysis/">semantic analysis</a>
+  
+  <a class="badge badge-light" href="/tags/visual-abstraction/">visual abstraction</a>
+  
+  <a class="badge badge-light" href="/tags/context-visualization/">context visualization</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/zhen-wen/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+    <script src="/js/jquery/3.5.1/jquery.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/js/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/js/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="/js/fancybox/3.5.7/jquery.fancybox.min.js" integrity="" crossorigin="anonymous"></script>
+
+    
+
+    
+    
+    <script src="/js/highlight.js/10.1.2/highlight.min.js" integrity="" crossorigin="anonymous"></script>
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>
+      hljs.initHighlightingOnLoad();
+
+    </script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.cc9581bff38b6b6fd9a21e1fb069f9ab.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

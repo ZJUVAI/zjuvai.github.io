@@ -4,10 +4,67 @@
   <url>
     <loc>/members/</loc>
   </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/context-visualization/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/dongming-han/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jianwei-yin/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jieyi-chen/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/minfeng-zhu/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mingliang-xu/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/wen-2023-quantivine/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/quantum-circuit/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/semantic-analysis/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/siwei-tan/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/visual-abstraction/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wei-chen/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yihan-liu/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/zhen-wen/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/bingru-lin/</loc>
@@ -25,19 +82,7 @@
     <loc>/tags/privacy-preserving-visualization/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/shuyue-zhou/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/wei-chen/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yating-wei/</loc>
@@ -49,13 +94,7 @@
     <loc>/authors/zhiyong-wang/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/collusive-fraud/</loc>
-    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/dongming-han/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/fraud-detection/</loc>
@@ -223,9 +262,6 @@
     <loc>/tags/machine-learning/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/mingliang-xu/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/multiple-view-representations/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -233,9 +269,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/situated-analytics/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/siwei-tan/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/tabular-data/</loc>
@@ -262,13 +295,7 @@
     <loc>/authors/xiaoyu-yang/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/yihan-liu/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/youcheng-gong/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/zhen-wen/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/computational-graphs/</loc>
@@ -297,9 +324,6 @@
   </url><url>
     <loc>/tags/visual-simplifications/</loc>
     <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/fptrans/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
@@ -413,9 +437,6 @@
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/kezhi-kong/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/minfeng-zhu/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/minghao-chen/</loc>
@@ -1565,9 +1586,6 @@
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/sampling/</loc>
-    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/visual-abstraction/</loc>
     <lastmod>2014-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/visual-abstraction/</loc>
