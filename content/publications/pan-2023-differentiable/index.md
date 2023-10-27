@@ -3,7 +3,7 @@
 title: "Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions"
 authors: [Bo Pan, Jiaying Lu, Haoxuan Li, Weifeng Chen, Yiyao Wang, Minfeng Zhu, Chenhao Yu, Wei Chen]
 date: 2023-10-22
-doi: "10.13140/RG.2.2.36106.03520"
+doi: "10.1109/TVCG.2023.3327371"
 
 # Publication type.
 # Legend: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article,

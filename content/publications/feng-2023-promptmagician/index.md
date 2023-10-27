@@ -3,7 +3,7 @@
 title: "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation"
 authors: [Yingchaojie Feng, Xingbo Wang, Kam Kwai Wong, Sijia Wang, Yuhong Lu, Minfeng Zhu, Baicheng Wang, Wei Chen]
 date: 2023-10-22
-doi: "10.48550/arXiv.2307.09036"
+doi: "10.1109/TVCG.2023.3327168"
 
 # Publication type.
 # Legend: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article,

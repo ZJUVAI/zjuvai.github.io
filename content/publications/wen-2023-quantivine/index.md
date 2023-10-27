@@ -3,7 +3,7 @@
 title: "Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis"
 authors: [Zhen Wen, Yihan Liu, Siwei Tan, Jieyi Chen, Minfeng Zhu, Dongming Han, Jianwei Yin, Mingliang Xu, Wei Chen]
 date: 2023-10-22
-doi: "10.48550/arXiv.2307.08969"
+doi: "10.1109/TVCG.2023.3327148"
 
 # Publication type.
 # Legend: 0 = Uncategorized, 1 = Conference paper, 2 = Journal article,
