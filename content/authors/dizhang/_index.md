@@ -18,5 +18,5 @@ interests:
   - Visual Analytics
 
 user_groups:
-  - Visiting Scholars
+  - Alumni
 ---
