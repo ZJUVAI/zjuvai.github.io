@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ollie Woodman on ZJU VAI</title>
+    <link>/authors/ollie-woodman/</link>
+    <description>Recent content in Ollie Woodman on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/ollie-woodman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPROUT: an Interactive Authoring Tool for Generating Programming Tutorials with the Visualization of Large Language Models</title>
+      <link>/publications/liu-2024-sprout/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/liu-2024-sprout/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

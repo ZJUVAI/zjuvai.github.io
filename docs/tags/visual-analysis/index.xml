@@ -6,10 +6,19 @@
     <description>Recent content in visual analysis on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/visual-analysis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AgentLens: Visual Analysis for Agent Behaviors in LLM-based Autonomous Systems</title>
+      <link>/publications/lu-2024-agentlens/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/lu-2024-agentlens/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning</title>

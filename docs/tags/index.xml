@@ -6,10 +6,100 @@
     <description>Recent content in Tags on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>authoring tool</title>
+      <link>/tags/authoring-tool/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/authoring-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive visualizations</title>
+      <link>/tags/interactive-visualizations/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/interactive-visualizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large language model</title>
+      <link>/tags/large-language-model/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/large-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming tutorial</title>
+      <link>/tags/programming-tutorial/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/programming-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agent</title>
+      <link>/tags/agent/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual analysis</title>
+      <link>/tags/visual-analysis/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital humanities</title>
+      <link>/tags/digital-humanities/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/digital-humanities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>painting analysis</title>
+      <link>/tags/painting-analysis/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/painting-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traditional chinese painting</title>
+      <link>/tags/traditional-chinese-painting/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/traditional-chinese-painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual analytics</title>
+      <link>/tags/visual-analytics/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>context visualization</title>
@@ -174,15 +264,6 @@
     </item>
     
     <item>
-      <title>visual analytics</title>
-      <link>/tags/visual-analytics/</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/visual-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep neural network</title>
       <link>/tags/deep-neural-network/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
@@ -341,15 +422,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/view-layout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>visual analysis</title>
-      <link>/tags/visual-analysis/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/visual-analysis/</guid>
       <description></description>
     </item>
     

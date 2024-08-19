@@ -6,10 +6,19 @@
     <description>Recent content in Yihan Liu on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/yihan-liu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SPROUT: an Interactive Authoring Tool for Generating Programming Tutorials with the Visualization of Large Language Models</title>
+      <link>/publications/liu-2024-sprout/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/liu-2024-sprout/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis</title>
