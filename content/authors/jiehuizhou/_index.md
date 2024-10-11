@@ -19,5 +19,5 @@ interests:
   - Trustworthy AI
 
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---

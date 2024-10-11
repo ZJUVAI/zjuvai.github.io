@@ -17,5 +17,5 @@ interests:
 
 
 user_groups:
-  - Master Students
+  - Alumni
 ---
