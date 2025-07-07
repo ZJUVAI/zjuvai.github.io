@@ -1,5 +1,5 @@
 {
-  "name": "zju-vag.github.io",
+  "name": "zju-vai.github.io",
   "version": "1.0.0",
   "description": "每篇论文对应/content/publication/下面的每一个文件夹；",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "scripts": {
     "start": "hugo server",
-    "build": "hugo --cleanDestinationDir && echo zjuvag.org > docs/CNAME",
+    "build": "hugo --cleanDestinationDir && echo zjuvai.cn > docs/CNAME",
     "deploy": "npm run build && git add . && git commit -m 'generated' && git push origin master"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZJU-VAG/zju-vag.github.io.git"
+    "url": "git+https://github.com/ZJUVAI/zjuvai.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZJU-VAG/zju-vag.github.io/issues"
+    "url": "https://github.com/ZJUVAI/zjuvai.github.io/issues"
   },
-  "homepage": "https://github.com/ZJU-VAG/zju-vag.github.io#readme"
+  "homepage": "https://github.com/ZJUVAI/zjuvai.github.io#readme"
 }
