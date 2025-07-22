@@ -6,10 +6,19 @@
     <description>Recent content in Wei Zhang on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models</title>
+      <link>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ScrollTimes: Tracing the Provenance of Paintings as a Window Into History</title>

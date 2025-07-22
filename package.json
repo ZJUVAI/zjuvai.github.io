@@ -9,7 +9,9 @@
   "scripts": {
     "start": "hugo server",
     "build": "hugo --cleanDestinationDir && echo zjuvai.cn > docs/CNAME",
-    "deploy": "npm run build && git add . && git commit -m 'generated' && git push origin master"
+    "deploy": "npm run build && git add . && git commit -m 'generated' && git push origin master",
+    "paper:search": "python paper_crawler.py --interactive",
+    "paper:install": "pip install -r requirements.txt"
   },
   "repository": {
     "type": "git",

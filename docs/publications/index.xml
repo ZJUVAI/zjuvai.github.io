@@ -6,10 +6,37 @@
     <description>Recent content in Publications on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataLab: A Unified Platform for LLM-Powered Business Intelligence</title>
+      <link>/publications/llm-powered-enterprise-intelligence/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/llm-powered-enterprise-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InsightLens: Augmenting LLM-Powered Data Analysis With Interactive Insight Management and Navigation</title>
+      <link>/publications/insightlens-augmenting-llm-powered-data-analysis-with-interactive-insight/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/insightlens-augmenting-llm-powered-data-analysis-with-interactive-insight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models</title>
+      <link>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SPROUT: an Interactive Authoring Tool for Generating Programming Tutorials with the Visualization of Large Language Models</title>

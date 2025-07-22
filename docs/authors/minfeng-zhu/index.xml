@@ -6,10 +6,28 @@
     <description>Recent content in Minfeng Zhu on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/minfeng-zhu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataLab: A Unified Platform for LLM-Powered Business Intelligence</title>
+      <link>/publications/llm-powered-enterprise-intelligence/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/llm-powered-enterprise-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models</title>
+      <link>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentiable Design Galleries: A Differentiable Approach to Explore the Design Space of Transfer Functions</title>

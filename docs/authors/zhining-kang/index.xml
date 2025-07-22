@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhining Kang on ZJU VAI</title>
+    <link>/authors/zhining-kang/</link>
+    <description>Recent content in Zhining Kang on ZJU VAI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/zhining-kang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models</title>
+      <link>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
