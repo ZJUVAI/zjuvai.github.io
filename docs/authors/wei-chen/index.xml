@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning.</title>
+      <link>/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AgentLens: Visual Analysis for Agent Behaviors in LLM-based Autonomous Systems</title>
       <link>/publications/lu-2024-agentlens/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
@@ -62,15 +71,6 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>/publications/zhang-2024-scrolltimes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning.</title>
-      <link>/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/</guid>
       <description></description>
     </item>
     

@@ -3,8 +3,7 @@
 
 title: "Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning."
 authors:
-  [
-    Zhaorui Yang,
+  [ Zhaorui Yang,
     Tianyu Pang,
     Haozhe Feng,
     Han Wang,
