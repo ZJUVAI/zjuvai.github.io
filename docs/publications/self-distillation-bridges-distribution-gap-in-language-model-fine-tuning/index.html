@@ -29,10 +29,10 @@
   
   
   
-  <meta name="description" content="In this paper, we introduce the Enterprise Intelligence Pipeline, an automated system designed to extract, verify, and match primary business data using a combination of AI-powered tools and structured rule-based logic. The pipeline leverages natural language processing and a Company Identity Matcher module to enrich minimal input queries with accurate and reliable information. Its modular architecture, orchestrated via Amazon ECS, ensures scalability, traceability, and high data quality across enterprise workflows. The system significantly reduces manual effort, improves data consistency, and integrates seamlessly into broader decision-making platforms. Additionally, it supports real-time data validation and feedback mechanisms, enabling continuous enhancement of data accuracy. With a plug-and-play framework, the pipeline is easily customizable for industry-specific applications. By integrating deterministic rules with probabilistic AI models, it offers a balanced solution that combines precision with adaptability.   Keywords— Primary Intelligence, Data Verification, NLP, AI Pipeline, Company Identity Matcher Matching, Microservices, Amazon ECS, Data Enrichment.">
+  <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publications/llm-powered-enterprise-intelligence/">
+  <link rel="alternate" hreflang="en-us" href="/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/">
 
   
 
@@ -97,7 +97,7 @@
   <link rel="icon" type="image/png" href="/img/avatar.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/avatar.png">
 
-  <link rel="canonical" href="/publications/llm-powered-enterprise-intelligence/">
+  <link rel="canonical" href="/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/">
 
   
   
@@ -109,30 +109,30 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="ZJU VAI">
-  <meta property="og:url" content="/publications/llm-powered-enterprise-intelligence/">
-  <meta property="og:title" content="DataLab: A Unified Platform for LLM-Powered Business Intelligence | ZJU VAI">
-  <meta property="og:description" content="In this paper, we introduce the Enterprise Intelligence Pipeline, an automated system designed to extract, verify, and match primary business data using a combination of AI-powered tools and structured rule-based logic. The pipeline leverages natural language processing and a Company Identity Matcher module to enrich minimal input queries with accurate and reliable information. Its modular architecture, orchestrated via Amazon ECS, ensures scalability, traceability, and high data quality across enterprise workflows. The system significantly reduces manual effort, improves data consistency, and integrates seamlessly into broader decision-making platforms. Additionally, it supports real-time data validation and feedback mechanisms, enabling continuous enhancement of data accuracy. With a plug-and-play framework, the pipeline is easily customizable for industry-specific applications. By integrating deterministic rules with probabilistic AI models, it offers a balanced solution that combines precision with adaptability.   Keywords— Primary Intelligence, Data Verification, NLP, AI Pipeline, Company Identity Matcher Matching, Microservices, Amazon ECS, Data Enrichment.">
+  <meta property="og:url" content="/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/">
+  <meta property="og:title" content="Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning. | ZJU VAI">
+  <meta property="og:description" content="">
   <meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   
-  <meta property="article:published_time" content="2025-06-02T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2024-01-01T00:00:00&#43;00:00">
   
   
-  <meta property="article:modified_time" content="2025-06-02T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2024-01-01T00:00:00&#43;00:00">
   
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>DataLab: A Unified Platform for LLM-Powered Business Intelligence | ZJU VAI</title>
+
+
+  <title>Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning. | ZJU VAI</title>
 
 </head>
 
@@ -404,7 +404,7 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">DataLab: A Unified Platform for LLM-Powered Business Intelligence</h1>
+  <h1 itemprop="name">Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning.</h1>
 
   
 
@@ -413,8 +413,8 @@
 
 
 
-<meta content="2025-06-02 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2025-06-02 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2024-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -433,35 +433,14 @@
 
   
   
-  <a href="/authors/luoxuanweng" style="text-decoration: underline;">Luoxuan Weng</a>
+  <a href="/authors/zhaoruiyang" style="text-decoration: underline;">Zhaorui Yang</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
 
   
   
-  <a href="/authors/yinghaotang" style="text-decoration: underline;">Yinghao Tang</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  <a href="/authors/yingchaojiefeng" style="text-decoration: underline;">Yingchaojie Feng</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Zhuo Chang
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Ruiqin Chen
+  Tianyu Pang
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -475,70 +454,14 @@
 
   
   
-  Chen Hou
+  Han Wang
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
 
   
   
-  Danqing Huang
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Yang Li
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Huaming Rao
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Haonan Wang
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Canshi Wei
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Xiaofeng Yang
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  <a href="/authors/yuhuizhang" style="text-decoration: underline;">Yuhui Zhang</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Yifeng Zheng
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  <a href="/authors/xiuqihuang" style="text-decoration: underline;">Xiuqi Huang</a>
+  <a href="/authors/weichen" style="text-decoration: underline;">Wei Chen</a>
   </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
   
   
@@ -552,28 +475,7 @@
 
   
   
-  <a href="/authors/yuxinma" style="text-decoration: underline;">Yuxin Ma</a>
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Bin Cui
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  Peng Chen
-  </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-  
-  
-
-  
-  
-  <a href="/authors/weichen" style="text-decoration: underline;">Wei Chen</a>
+  Qian Liu
   </span>
 
   </div>
@@ -586,7 +488,7 @@
     
       
     
-    <time>Jun 2, 2025</time>
+    <time>Jan 1, 2024</time>
   </span>
   
 
@@ -613,7 +515,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publications/llm-powered-enterprise-intelligence/&amp;text=DataLab:%20A%20Unified%20Platform%20for%20LLM-Powered%20Business%20Intelligence" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/&amp;text=Self-Distillation%20Bridges%20Distribution%20Gap%20in%20Language%20Model%20Fine-Tuning." target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -626,7 +528,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publications/llm-powered-enterprise-intelligence/&amp;t=DataLab:%20A%20Unified%20Platform%20for%20LLM-Powered%20Business%20Intelligence" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/&amp;t=Self-Distillation%20Bridges%20Distribution%20Gap%20in%20Language%20Model%20Fine-Tuning." target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -639,7 +541,7 @@
       
       
       <li>
-        <a href="mailto:?subject=DataLab:%20A%20Unified%20Platform%20for%20LLM-Powered%20Business%20Intelligence&amp;body=/publications/llm-powered-enterprise-intelligence/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Self-Distillation%20Bridges%20Distribution%20Gap%20in%20Language%20Model%20Fine-Tuning.&amp;body=/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -652,7 +554,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publications/llm-powered-enterprise-intelligence/&amp;title=DataLab:%20A%20Unified%20Platform%20for%20LLM-Powered%20Business%20Intelligence" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/&amp;title=Self-Distillation%20Bridges%20Distribution%20Gap%20in%20Language%20Model%20Fine-Tuning." target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -665,7 +567,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=DataLab:%20A%20Unified%20Platform%20for%20LLM-Powered%20Business%20Intelligence%20/publications/llm-powered-enterprise-intelligence/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Self-Distillation%20Bridges%20Distribution%20Gap%20in%20Language%20Model%20Fine-Tuning.%20/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -678,7 +580,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publications/llm-powered-enterprise-intelligence/&amp;title=DataLab:%20A%20Unified%20Platform%20for%20LLM-Powered%20Business%20Intelligence" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/&amp;title=Self-Distillation%20Bridges%20Distribution%20Gap%20in%20Language%20Model%20Fine-Tuning." target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -773,7 +675,7 @@
 
 
 
-  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/llm-powered-enterprise-intelligence/featured.bib">
+  <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal" data-filename="/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/featured.bib">
   Cite
   </button>
 
@@ -794,7 +696,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.55041/ijsrem49311"
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.18653/V1/2024.ACL-LONG.58"
   target="_blank" rel="noopener">
   DOI
 </a>
@@ -813,9 +715,6 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">In this paper, we introduce the Enterprise Intelligence Pipeline, an automated system designed to extract, verify, and match primary business data using a combination of AI-powered tools and structured rule-based logic. The pipeline leverages natural language processing and a Company Identity Matcher module to enrich minimal input queries with accurate and reliable information. Its modular architecture, orchestrated via Amazon ECS, ensures scalability, traceability, and high data quality across enterprise workflows. The system significantly reduces manual effort, improves data consistency, and integrates seamlessly into broader decision-making platforms. Additionally, it supports real-time data validation and feedback mechanisms, enabling continuous enhancement of data accuracy. With a plug-and-play framework, the pipeline is easily customizable for industry-specific applications. By integrating deterministic rules with probabilistic AI models, it offers a balanced solution that combines precision with adaptability.   Keywords— Primary Intelligence, Data Verification, NLP, AI Pipeline, Company Identity Matcher Matching, Microservices, Amazon ECS, Data Enrichment.</p>
-    
 
     
     <div class="row">
@@ -826,8 +725,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="#2">
-              Journal article
+            <a href="#1">
+              Conference paper
             </a>
             
           </div>
@@ -844,7 +743,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT</div>
+          <div class="col-12 col-md-9">ACL</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -892,7 +791,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/luoxuan-weng/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/zhaorui-yang/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

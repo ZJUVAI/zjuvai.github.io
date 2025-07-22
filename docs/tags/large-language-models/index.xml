@@ -6,19 +6,10 @@
     <description>Recent content in large language models on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>DataLab: A Unified Platform for LLM-Powered Business Intelligence</title>
-      <link>/publications/llm-powered-enterprise-intelligence/</link>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/llm-powered-enterprise-intelligence/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>InsightLens: Augmenting LLM-Powered Data Analysis With Interactive Insight Management and Navigation</title>
@@ -30,11 +21,29 @@
     </item>
     
     <item>
+      <title>DataLab: A Unified Platform for LLM-Powered Business Intelligence</title>
+      <link>/publications/datalab/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/datalab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models</title>
       <link>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/publications/jailbreaklens-visual-analysis-of-jailbreak-attacks-against-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning.</title>
+      <link>/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/self-distillation-bridges-distribution-gap-in-language-model-fine-tuning/</guid>
       <description></description>
     </item>
     
