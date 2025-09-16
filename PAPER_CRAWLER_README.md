@@ -194,3 +194,4 @@ def search_new_source(self, title: str) -> Optional[Dict]:
 
 ## 联系方式
 如有问题或建议，请通过GitHub Issues联系。
+This document has been removed intentionally.

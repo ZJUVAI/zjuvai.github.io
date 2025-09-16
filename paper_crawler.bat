@@ -42,3 +42,5 @@ if "%~1"=="" (
 echo.
 echo 操作完成
 pause
+@echo off
+REM This file has been removed intentionally.

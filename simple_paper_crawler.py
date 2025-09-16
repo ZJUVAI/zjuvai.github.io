@@ -344,3 +344,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""This file has been removed intentionally."""

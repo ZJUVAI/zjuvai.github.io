@@ -15,3 +15,5 @@ python test_paper_crawler.py
 
 echo.
 pause
+@echo off
+REM This file has been removed intentionally.

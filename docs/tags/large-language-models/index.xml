@@ -6,10 +6,19 @@
     <description>Recent content in large language models on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LLMs Can Simulate Standardized Patients via Agent Coevolution</title>
+      <link>/publications/du-2025-evopatient/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/du-2025-evopatient/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>InsightLens: Augmenting LLM-Powered Data Analysis With Interactive Insight Management and Navigation</title>

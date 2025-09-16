@@ -6,17 +6,80 @@
     <description>Recent content in Tags on ZJU VAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Agent Simulation</title>
+      <link>/tags/agent-simulation/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agent-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialogue Systems</title>
+      <link>/tags/dialogue-systems/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dialogue-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instruction Following</title>
+      <link>/tags/instruction-following/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/instruction-following/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>large language models</title>
       <link>/tags/large-language-models/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Training</title>
+      <link>/tags/medical-training/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/medical-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>/tags/natural-language-processing/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning</title>
+      <link>/tags/representation-learning/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Embedding</title>
+      <link>/tags/text-embedding/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/text-embedding/</guid>
       <description></description>
     </item>
     
